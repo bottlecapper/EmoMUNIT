@@ -1,4 +1,4 @@
-# Emotional Speech Conversion using Nonparallel Data
+# Nonparallel Emotional Speech Conversion using Style Transfer and MUNIT
 
 ## Introduction
 
