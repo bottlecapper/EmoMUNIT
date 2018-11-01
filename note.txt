@@ -1,0 +1,28 @@
+
+WORLD Vocoder
+https://github.com/mmorise/World
+https://github.com/tuanad121/Python-WORLD
+https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder
+
+Speech Signal Processing Toolkit (SPTK)
+http://sp-tk.sourceforge.net/
+
+sprocket: Open-Source Voice Conversion Software
+https://easychair.org/publications/preprint/8zlx
+
+Voice Conversion with Non-Parallel Data
+https://github.com/andabi/deep-voice-conversion
+
+Fundamental Frequency and Harmonics
+https://www.physicsclassroom.com/class/sound/Lesson-4/Fundamental-Frequency-and-Harmonics
+
+Prosodic features of speech
+http://www.litnotes.co.uk/prosodicspeech.htm
+
+Surrey Audio-Visual Expressed Emotion (SAVEE) Database
+http://kahlan.eps.surrey.ac.uk/savee/Introduction.html
+
+RAVDESS
+The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS):
+A dynamic, multimodal set of facial and vocal expressions in North American English
+
