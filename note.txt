@@ -26,3 +26,6 @@ RAVDESS
 The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS):
 A dynamic, multimodal set of facial and vocal expressions in North American English
 
+Toronto emotional speech set (TESS) Collection
+https://tspace.library.utoronto.ca/handle/1807/24487
+
