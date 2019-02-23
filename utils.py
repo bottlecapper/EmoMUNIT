@@ -329,3 +329,16 @@ def sample_train_data(pool_A, pool_B, f0s_A, f0s_B, n_frames=128, max_samples=10
     train_data_B = np.array(train_data_B[0:num])
 
     return train_data_A, train_data_B
+
+
+def save_audios(audios, batch_size, audio_path):
+    print(np.shape(audios), batch_size, audio_path)
+    np.save(audio_path, audios)
+    return None
+
+
+
+
+
+
+
