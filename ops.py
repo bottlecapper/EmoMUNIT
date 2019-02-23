@@ -81,7 +81,7 @@ def up_sample(x, scale_factor=2):
 
 def adaptive_avg_pooling(x):
     # global average pooling
-    gap = tf.reduce_mean(x, axis=1, keep_dims=True)
+    gap = tf.reduce_mean(x, axis=1, keepdims=True)
 
     return gap
 
