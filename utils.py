@@ -67,7 +67,10 @@ def world_encode_data(wavs, fs, frame_period=5.0, coded_dim=24):
     aps = list()
     coded_sps = list()
 
+    i = 0
     for wav in wavs:
+        i += 1
+        print('world_encode_data: [%d/%d]' %(i, len(wavs)), end='\r')
         f0, timeaxis, sp, ap = world_decompose(wav=wav, fs=fs, frame_period=frame_period)
         coded_sp = world_encode_spectral_envelop(sp=sp, fs=fs, dim=coded_dim)
         f0s.append(f0)
@@ -216,7 +219,22 @@ def mfccs_normalization(mfccs):
     return mfccs_normalized, mfccs_mean, mfccs_std
 
 
-# def sample_train_data(pool_A, pool_B, n_frames=128, max_samples=1000):
+''''***************************************************************************************************'''
+''''***************************************************************************************************'''
+
+def vocoder_extract(train_dir, sampling_rate=16000, frame_period=5.0, num_mcep=24):
+
+    wavs = load_wavs(wav_dir=train_dir, sr=sampling_rate)
+
+    f0s, timeaxes, sps, aps, coded_sps = world_encode_data(wavs=wavs, fs=sampling_rate, frame_period=frame_period, coded_dim=num_mcep)
+    log_f0s_mean, log_f0s_std = logf0_statistics(f0s)
+    coded_sps_transposed = transpose_in_list(lst=coded_sps)
+    coded_sps_norm, coded_sps_mean, coded_sps_std = coded_sps_normalization_fit_transoform(coded_sps=coded_sps_transposed)
+
+    return f0s, coded_sps_norm, log_f0s_mean, log_f0s_std
+
+
+# def sample_train_data01(pool_A, pool_B, n_frames=128, max_samples=1000):
 #     # Sample proportional to the length
 #
 #     np.random.shuffle(pool_A)
@@ -268,8 +286,9 @@ def mfccs_normalization(mfccs):
 #     return train_data_A, train_data_B
 
 
-def sample_train_data(pool_A, pool_B, f0s_A, f0s_B, n_frames=128, max_samples=1000):
-    # remove silence
+def sample_train_data02(pool_A, pool_B, f0s_A, f0s_B, n_frames=128, max_samples=1000):
+    ''' remove silence and short samples (less than n_frames), two datasets
+    '''
 
     train_data_A = []
     train_data_B = []
@@ -329,6 +348,48 @@ def sample_train_data(pool_A, pool_B, f0s_A, f0s_B, n_frames=128, max_samples=10
     train_data_B = np.array(train_data_B[0:num])
 
     return train_data_A, train_data_B
+
+
+
+def sample_train_data03(sps, f0s, n_frames=128, max_samples=1000):
+    ''' remove silence and short samples (less than n_frames), one dataset
+    '''
+    train_data = []
+
+    while sps:
+        new_sps, new_f0s = [], []
+        for i in range(len(sps)):
+            sp, f0 = sps[i], f0s[i]
+            sp_len = sp.shape[1]
+
+            if sp_len < n_frames or max(f0) == 0:                   # skip silence sample
+                continue
+
+            start = np.random.randint(sp_len - n_frames + 1)        # 0, 1, ..., sp_len - n_frames
+            end = start + n_frames                                  # n_frames, n_frames + 1, ..., sp_len
+            while max(f0[start:end]) == 0:                          # remove silence sample
+                start = np.random.randint(sp_len - n_frames + 1)
+                end = start + n_frames
+            train_data.append(sp[:, start:end])
+            if start >= n_frames and max(f0[:start]) > 0:
+                new_sps.append(sp[:, :start])
+                new_f0s.append(f0[:start])
+            if end <= sp_len - n_frames and max(f0[end:]) > 0:
+                new_sps.append(sp[:, end:])
+                new_f0s.append(f0[end:])
+
+        sps, f0s = new_sps, new_f0s
+
+        if len(train_data) >= max_samples:                          # reach max_samples
+            break
+
+    return train_data
+
+
+
+
+
+
 
 
 def save_audios(audios, batch_size, audio_path):
