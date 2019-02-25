@@ -386,16 +386,10 @@ def sample_train_data03(sps, f0s, n_frames=128, max_samples=1000):
     return train_data
 
 
-
-
-
-
-
-
 def save_audios(audios, batch_size, audio_path):
     print(np.shape(audios), batch_size, audio_path)
     np.save(audio_path, audios)
-    return None
+
 
 
 
