@@ -1,0 +1,48 @@
+    def __init__(self, sess):
+        
+        self.train_A_dir = './../../../Database/Emotion/hap_neu/hap'
+        self.train_B_dir = './../../../Database/Emotion/hap_neu/neu'
+        self.validation_A_dir = './../../../Database/Emotion/hap_neu/val_hap'
+        self.validation_B_dir = './../../../Database/Emotion/hap_neu/val_neu'
+#         self.max_samples = 1000
+        
+        self.batch_size = 1
+        self.style_dim = 16
+        
+        self.Encoder_A = Encoder_A
+        self.Encoder_B = Encoder_B
+        self.Decoder_A = Decoder_A
+        self.Decoder_B = Decoder_B
+        self.discriminate_real = discriminate_real
+        self.discriminate_fake = discriminate_fake
+        
+        self.recon_x_cyc_w = 0.0
+        self.gan_type = 'lsgan'
+        
+        self.gan_w = 1.0
+        
+        self.recon_x_w = 10.0
+        self.recon_s_w = 1.0
+        self.recon_c_w = 1.0
+        self.recon_x_cyc_w = 0.0
+               
+        self.audio_len = 128    # = n_frames, time_length
+        self.audio_ch = 24      # = num_mcep, num_features
+        
+        self.direction = 'A2B'
+        
+        self.model_name = 'EmoMUNIT'
+        self.gan_type = 'lsgan'
+        self.dataset_name = 'hap2neu'
+        self.log_dir = 'logs'
+        self.sample_dir = 'samples'
+        self.checkpoint_dir = 'checkpoint'
+        self.iteration = 1000
+        
+        self.sess = sess
+        self.epoch = 1000
+        self.init_lr_D = 0.00005
+        self.init_lr_G = 0.0001
+        
+        self.print_freq = 1000
+        self.save_freq = 1000
