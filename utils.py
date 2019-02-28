@@ -183,7 +183,7 @@ def logf0_statistics(f0s):
 def pitch_conversion(f0, mean_log_src, std_log_src, mean_log_target, std_log_target):
     # Logarithm Gaussian normalization for Pitch Conversions
     try:
-        f0_converted = np.exp((np.log(f0) - mean_log_src) / std_log_src * std_log_target + mean_log_target)
+        f0_converted = np.exp((np.log(f0+1e-10) - mean_log_src) / std_log_src * std_log_target + mean_log_target)
     except:
         return f0
     return f0_converted
@@ -225,13 +225,14 @@ def mfccs_normalization(mfccs):
 def vocoder_extract(train_dir, sampling_rate=16000, frame_period=5.0, num_mcep=24):
 
     wavs = load_wavs(wav_dir=train_dir, sr=sampling_rate)
+    # wavs = wavs[:7]
 
     f0s, timeaxes, sps, aps, coded_sps = world_encode_data(wavs=wavs, fs=sampling_rate, frame_period=frame_period, coded_dim=num_mcep)
     log_f0s_mean, log_f0s_std = logf0_statistics(f0s)
     coded_sps_transposed = transpose_in_list(lst=coded_sps)
     coded_sps_norm, coded_sps_mean, coded_sps_std = coded_sps_normalization_fit_transoform(coded_sps=coded_sps_transposed)
 
-    return f0s, coded_sps_norm, log_f0s_mean, log_f0s_std
+    return f0s, coded_sps_norm, log_f0s_mean, log_f0s_std, coded_sps_mean, coded_sps_std
 
 
 # def sample_train_data01(pool_A, pool_B, n_frames=128, max_samples=1000):
@@ -391,8 +392,10 @@ def save_audios(audios, batch_size, audio_path):
     np.save(audio_path, audios)
 
 
-
-
+def check_folder(log_dir):
+    if not os.path.exists(log_dir):
+        os.makedirs(log_dir)
+    return log_dir
 
 
 
