@@ -5,3 +5,6 @@
 *.index
 *.meta
 *.wav
+conversion_c/Checkpoint/CYCLE_neu_sad_lsgan/checkpoint
+conversion_c/Checkpoint/CYCLE_ang_neu_lsgan/checkpoint
+conversion_c/Checkpoint/CYCLE_hap_neu_lsgan/checkpoint
