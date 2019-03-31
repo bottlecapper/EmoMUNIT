@@ -1,0 +1,110 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task successfully submit answers -->
+<crowd-form answer-format="flatten-objects">
+
+    <!-- The crowd-classifier element will create a tool for the Worker to select the 
+          correct answer to your question -->
+    <crowd-classifier 
+        categories="['Angry', 'Happy', 'Neutral', 'Sad']"
+        header="What emotion does this audio convey?"
+        name="EmotionClass">
+
+        <classification-target>
+            <audio controls="" style="width: 100%">
+    
+                <!-- Your audio file URLs will be substituted for the "audio_url" variable 
+                      when you publish a batch with a CSV input file containing multiple 
+                      audio file URLs -->
+                <source src="https://s3.amazonaws.com/emomunit/c/${audio_url_c}"/>
+    
+            </audio>
+        </classification-target>
+
+        <!-- Use the short-instructions section for quick instructions that the Worker
+              will see while working on the task. Including some basic examples of 
+              good and bad answers here can help get good results. You can include 
+              any HTML here. -->
+        <short-instructions>             
+            <p>
+              Listen to the computer generated speech and choose an emotion it converys.
+            </p>
+            For better results, wear headphones and work in a quiet environment.
+        </short-instructions>
+
+        <!-- Use the full-instructions section for more detailed instructions that the 
+              Worker can open while working on the task. Including more detailed 
+              instructions and additional examples of good and bad answers here can 
+              help get good results. You can include any HTML here. -->
+        <full-instructions>
+            <p> Listen to the audio and choose an emotion from: Angry, Happy, Neutral, Sad </p>
+        </full-instructions> 
+
+    </crowd-classifier>
+
+    
+    <crowd-classifier 
+        categories="['Bad', 'Noisy', 'Fair', 'Good', 'Excellent']"
+        header="How about the voice quality?"
+        name="Quality">
+        <classification-target>
+            <audio controls="" style="width: 100%">
+                <source src="https://s3.amazonaws.com/emomunit/c/${audio_url_c}"/>
+            </audio>
+        </classification-target>
+        <short-instructions>             
+            <p>
+              Listen to the computer generated speech and evaluate its voice quality.
+            </p>
+            For better results, wear headphones and work in a quiet environment.
+        </short-instructions>
+        <full-instructions>
+            <p> Choose a score from 1 - 5 to evaluate the naturalness of the computer generated speech. Excellent: as good as natural human dialogues. Noise means the noisy artifacts come from the computer algorithm, not from the noisy background or from other speakers </p>
+        </full-instructions> 
+
+    </crowd-classifier>
+    
+    
+    <crowd-classifier 
+        categories="['Different speakers', 'Hard to say', 'Similar speaker', 'Same speaker']"
+        header="Does the sample audio come from the original speaker?"
+        name="Similarity">
+        <classification-target>
+            <p> Sample audio </p>
+            <audio controls="" style="width: 100%">
+                <source src="https://s3.amazonaws.com/emomunit/c/${audio_url_c}"/>
+            </audio>
+            <p></p>
+        </classification-target>
+        <classification-target>
+            <p> Examples of the original speaker </p>
+            <audio controls="" style="width: 100%">
+                <source src="https://s3.amazonaws.com/emomunit/gt/${audio_url_gt1}"/>
+            </audio>
+        </classification-target>
+        <classification-target>
+            <audio controls="" style="width: 100%">
+                <source src="https://s3.amazonaws.com/emomunit/gt/${audio_url_gt2}"/>
+            </audio>
+        </classification-target>
+        <classification-target>
+            <audio controls="" style="width: 100%">
+                <source src="https://s3.amazonaws.com/emomunit/gt/${audio_url_gt3}"/>
+            </audio>
+        </classification-target>
+        <short-instructions>             
+            <p>
+              Listen to the computer generated speech and compare it with the original human speaker.
+            </p>
+            For better results, wear headphones and work in a quiet environment.
+        </short-instructions>
+        <full-instructions>
+            <p> Choose a score from 1 - 4 to evaluate the speaker similarity. </p>
+        </full-instructions> 
+    </crowd-classifier>
+    
+</crowd-form>
