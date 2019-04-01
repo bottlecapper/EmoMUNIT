@@ -1,0 +1,11 @@
+Amazon S3, MTurk
+
+
+<source src="https://s3.amazonaws.com/emomunit/f0/${audio_url}"/>
+D:\Dropbox\JianTembine\Coding\TensorFlow\EmoMUNIT\evaluation\c\eval_c>dir /b /a-d > file_list.csv
+
+
+
+
+
+
