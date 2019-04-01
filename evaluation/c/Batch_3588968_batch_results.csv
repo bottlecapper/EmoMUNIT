@@ -1,0 +1,3241 @@
+000.wav,Neutral,,Noisy,,,Hard to say
+000.wav,,Angry,,Noisy,,Same speaker
+000.wav,Neutral,,,Noisy,Same speaker,
+000.wav,,Angry,,Bad,,Same speaker
+000.wav,Sad,,Bad,,,Same speaker
+000.wav,,Neutral,Fair,,,Different speakers
+000.wav,Angry,,Fair,,,Different speakers
+000.wav,Neutral,,Fair,,,Similar speaker
+000.wav,Neutral,,Bad,,,Same speaker
+000.wav,,Neutral,,Fair,,Same speaker
+001.wav,Angry,,Noisy,,,Same speaker
+001.wav,Angry,,Excellent,,,Same speaker
+001.wav,Angry,,Good,,,Same speaker
+001.wav,Neutral,,Fair,,,Hard to say
+001.wav,,Angry,,Noisy,,Same speaker
+001.wav,Angry,,,Excellent,Same speaker,
+001.wav,Angry,,Fair,,,Similar speaker
+001.wav,Sad,,Bad,,,Same speaker
+001.wav,Angry,,Noisy,,,Similar speaker
+001.wav,,Angry,Noisy,,,Hard to say
+002.wav,Angry,,Fair,,,Same speaker
+002.wav,Neutral,,Excellent,,,Same speaker
+002.wav,Happy,,Good,,,Hard to say
+002.wav,Angry,,Good,,,Different speakers
+002.wav,Neutral,,Fair,,,Similar speaker
+002.wav,,Happy,Bad,,,Similar speaker
+002.wav,,Angry,,Good,,Same speaker
+002.wav,Neutral,,Good,,,Similar speaker
+002.wav,Angry,,Bad,,,Same speaker
+002.wav,Angry,,Noisy,,,Same speaker
+003.wav,Angry,,Excellent,,,Same speaker
+003.wav,Happy,,Good,,,Hard to say
+003.wav,,Angry,,Noisy,,Same speaker
+003.wav,Happy,,Good,,,Similar speaker
+003.wav,,Angry,,Fair,,Hard to say
+003.wav,Angry,,,Noisy,Same speaker,
+003.wav,Angry,,Good,,,Same speaker
+003.wav,Angry,,Noisy,,,Same speaker
+003.wav,Angry,,Bad,,,Similar speaker
+003.wav,Neutral,,Good,,,Different speakers
+004.wav,Happy,,Good,,,Similar speaker
+004.wav,Angry,,Good,,,Different speakers
+004.wav,Neutral,,,Fair,Same speaker,
+004.wav,Angry,,Noisy,,,Similar speaker
+004.wav,Neutral,,Good,,,Same speaker
+004.wav,Angry,,Fair,,,Same speaker
+004.wav,Angry,,Excellent,,,Same speaker
+004.wav,,Angry,Noisy,,,Same speaker
+004.wav,Neutral,,Good,,,Same speaker
+004.wav,Angry,,Fair,,,Same speaker
+005.wav,Neutral,,Good,,,Same speaker
+005.wav,Neutral,,Good,,,Similar speaker
+005.wav,Angry,,Fair,,,Same speaker
+005.wav,Happy,,Excellent,,,Same speaker
+005.wav,Happy,,Fair,,,Similar speaker
+005.wav,Neutral,,Bad,,,Hard to say
+005.wav,Angry,,Noisy,,,Same speaker
+005.wav,Neutral,,,Fair,Same speaker,
+005.wav,Angry,,,Fair,Hard to say,
+005.wav,Angry,,Fair,,,Same speaker
+006.wav,,Happy,,Good,,Same speaker
+006.wav,Happy,,Excellent,,,Similar speaker
+006.wav,,Happy,Bad,,,Different speakers
+006.wav,Angry,,,Noisy,Same speaker,
+006.wav,Angry,,Noisy,,,Similar speaker
+006.wav,Neutral,,,Good,Same speaker,
+006.wav,Neutral,,Good,,,Hard to say
+006.wav,Neutral,,Fair,,,Same speaker
+006.wav,Happy,,Good,,,Similar speaker
+006.wav,Neutral,,Fair,,,Different speakers
+007.wav,Neutral,,Good,,,Similar speaker
+007.wav,,Angry,,Good,,Same speaker
+007.wav,Angry,,,Fair,Hard to say,
+007.wav,Angry,,Fair,,,Hard to say
+007.wav,Angry,,,Good,Same speaker,
+007.wav,Happy,,Fair,,,Similar speaker
+007.wav,,Angry,,Fair,,Same speaker
+007.wav,,Angry,,Noisy,,Similar speaker
+007.wav,Angry,,Good,,,Same speaker
+007.wav,,Angry,,Noisy,,Same speaker
+008.wav,Neutral,,Good,,,Similar speaker
+008.wav,,Angry,,Noisy,Hard to say,
+008.wav,Happy,,Noisy,,,Similar speaker
+008.wav,Happy,,Noisy,,,Hard to say
+008.wav,Angry,,,Excellent,Same speaker,
+008.wav,,Angry,,Noisy,,Same speaker
+008.wav,Angry,,Good,,,Same speaker
+008.wav,Happy,,Good,,,Same speaker
+008.wav,,Angry,,Fair,,Hard to say
+008.wav,Neutral,,Good,,,Same speaker
+009.wav,Neutral,,Bad,,,Same speaker
+009.wav,Happy,,Fair,,,Similar speaker
+009.wav,,Neutral,,Bad,,Hard to say
+009.wav,Neutral,,Fair,,,Same speaker
+009.wav,Neutral,,Noisy,,,Same speaker
+009.wav,Sad,,Good,,,Same speaker
+009.wav,Sad,,Bad,,,Same speaker
+009.wav,Neutral,,,Fair,Same speaker,
+009.wav,Neutral,,Bad,,,Similar speaker
+009.wav,Sad,,Bad,,,Similar speaker
+010.wav,Happy,,Noisy,,,Different speakers
+010.wav,,Happy,,Good,,Same speaker
+010.wav,Neutral,,Excellent,,,Same speaker
+010.wav,Neutral,,Good,,,Same speaker
+010.wav,Neutral,,Good,,,Same speaker
+010.wav,,Neutral,,Good,,Same speaker
+010.wav,Happy,,Fair,,,Hard to say
+010.wav,Happy,,Bad,,,Same speaker
+010.wav,Happy,,,Good,Same speaker,
+010.wav,Neutral,,Good,,,Same speaker
+011.wav,,Angry,,Fair,,Same speaker
+011.wav,,Neutral,,Good,,Same speaker
+011.wav,,Neutral,Good,,,Similar speaker
+011.wav,Neutral,,Fair,,,Same speaker
+011.wav,Neutral,,Good,,,Hard to say
+011.wav,Sad,,Bad,,,Same speaker
+011.wav,Angry,,Good,,,Same speaker
+011.wav,Angry,,,Fair,Different speakers,
+011.wav,,Neutral,,Good,,Same speaker
+011.wav,Neutral,,,Fair,Same speaker,
+012.wav,Neutral,,Fair,,,Same speaker
+012.wav,Neutral,,Good,,,Same speaker
+012.wav,Angry,,,Bad,Hard to say,
+012.wav,Angry,,Good,,,Similar speaker
+012.wav,Neutral,,,Fair,Same speaker,
+012.wav,,Sad,Noisy,,,Similar speaker
+012.wav,Neutral,,Fair,,,Similar speaker
+012.wav,Neutral,,Fair,,,Different speakers
+012.wav,Angry,,Noisy,,,Same speaker
+012.wav,Happy,,Good,,,Different speakers
+013.wav,Angry,,Fair,,,Same speaker
+013.wav,Neutral,,Good,,,Same speaker
+013.wav,,Angry,Bad,,,Same speaker
+013.wav,Neutral,,Good,,,Same speaker
+013.wav,Angry,,Fair,,,Same speaker
+013.wav,Neutral,,Fair,,,Same speaker
+013.wav,Neutral,,Excellent,,,Same speaker
+013.wav,Angry,,Fair,,,Same speaker
+013.wav,Neutral,,Noisy,,,Hard to say
+013.wav,,Angry,,Good,,Same speaker
+014.wav,,Angry,,Excellent,,Same speaker
+014.wav,Happy,,Fair,,,Hard to say
+014.wav,Angry,,Fair,,,Similar speaker
+014.wav,Angry,,Excellent,,,Similar speaker
+014.wav,,Angry,Noisy,,,Different speakers
+014.wav,Angry,,Good,,,Similar speaker
+014.wav,Angry,,Fair,,,Same speaker
+014.wav,Angry,,,Bad,Different speakers,
+014.wav,Angry,,,Excellent,Same speaker,
+014.wav,,Angry,Good,,,Hard to say
+015.wav,Angry,,Noisy,,,Same speaker
+015.wav,Neutral,,Good,,,Similar speaker
+015.wav,Angry,,,Excellent,Same speaker,
+015.wav,Angry,,Fair,,,Similar speaker
+015.wav,Angry,,Excellent,,,Same speaker
+015.wav,Angry,,Fair,,,Hard to say
+015.wav,Happy,,Noisy,,,Similar speaker
+015.wav,,Angry,,Noisy,,Same speaker
+015.wav,Angry,,Good,,,Hard to say
+015.wav,Happy,,Good,,,Similar speaker
+016.wav,,Angry,,Noisy,,Same speaker
+016.wav,,Angry,Bad,,,Same speaker
+016.wav,Neutral,,Good,,,Same speaker
+016.wav,Angry,,,Good,Similar speaker,
+016.wav,Angry,,,Fair,Same speaker,
+016.wav,Angry,,,Fair,Same speaker,
+016.wav,Sad,,Bad,,,Similar speaker
+016.wav,Happy,,Good,,,Similar speaker
+016.wav,Sad,,Bad,,,Same speaker
+016.wav,,Angry,,Excellent,,Same speaker
+017.wav,Neutral,,,Good,Same speaker,
+017.wav,Angry,,Good,,,Same speaker
+017.wav,Neutral,,Noisy,,,Similar speaker
+017.wav,,Angry,,Good,,Same speaker
+017.wav,Angry,,Noisy,,,Hard to say
+017.wav,Angry,,Excellent,,,Same speaker
+017.wav,Angry,,Good,,,Same speaker
+017.wav,Angry,,Good,,,Hard to say
+017.wav,Happy,,Fair,,,Different speakers
+017.wav,Angry,,Good,,,Same speaker
+018.wav,Angry,,Fair,,,Different speakers
+018.wav,Angry,,,Excellent,Same speaker,
+018.wav,Angry,,Noisy,,,Same speaker
+018.wav,Angry,,Noisy,,,Hard to say
+018.wav,,Angry,,Noisy,,Same speaker
+018.wav,Neutral,,Fair,,,Similar speaker
+018.wav,,Angry,Good,,,Same speaker
+018.wav,Angry,,Excellent,,,Same speaker
+018.wav,Angry,,Noisy,,,Same speaker
+018.wav,Angry,,Good,,,Same speaker
+019.wav,Sad,,Bad,,,Same speaker
+019.wav,,Neutral,,Noisy,,Same speaker
+019.wav,,Angry,,Noisy,,Hard to say
+019.wav,Neutral,,Bad,,,Same speaker
+019.wav,Happy,,Good,,,Similar speaker
+019.wav,Neutral,,Fair,,,Same speaker
+019.wav,,Neutral,,Bad,,Hard to say
+019.wav,Happy,,,Fair,Hard to say,
+019.wav,Neutral,,Noisy,,,Same speaker
+019.wav,Happy,,Fair,,,Similar speaker
+020.wav,Sad,,Bad,,,Similar speaker
+020.wav,Happy,,Good,,,Different speakers
+020.wav,Happy,,Good,,,Similar speaker
+020.wav,Happy,,Good,,,Similar speaker
+020.wav,Angry,,Good,,,Same speaker
+020.wav,Neutral,,Good,,,Same speaker
+020.wav,Angry,,Noisy,,,Same speaker
+020.wav,,Angry,,Fair,,Same speaker
+020.wav,Angry,,Fair,,,Same speaker
+020.wav,Sad,,Noisy,,,Hard to say
+021.wav,Angry,,,Good,Same speaker,
+021.wav,,Neutral,,Fair,,Same speaker
+021.wav,Neutral,,Excellent,,,Similar speaker
+021.wav,Neutral,,Fair,,,Same speaker
+021.wav,,Happy,,Noisy,Different speakers,
+021.wav,Angry,,Good,,,Same speaker
+021.wav,Angry,,,Fair,Hard to say,
+021.wav,,Angry,,Good,,Same speaker
+021.wav,Angry,,Fair,,,Same speaker
+021.wav,Sad,,Noisy,,,Different speakers
+022.wav,Angry,,Bad,,,Similar speaker
+022.wav,Sad,,Bad,,,Hard to say
+022.wav,Angry,,Bad,,,Similar speaker
+022.wav,Angry,,Fair,,,Same speaker
+022.wav,Angry,,,Excellent,Same speaker,
+022.wav,Angry,,Good,,,Same speaker
+022.wav,,Angry,,Noisy,,Same speaker
+022.wav,Angry,,Fair,,,Same speaker
+022.wav,,Angry,,Good,,Same speaker
+022.wav,Neutral,,Fair,,,Hard to say
+023.wav,Sad,,Fair,,,Hard to say
+023.wav,Angry,,Noisy,,,Same speaker
+023.wav,Angry,,Noisy,,,Different speakers
+023.wav,,Happy,Good,,Different speakers,
+023.wav,Neutral,,Fair,,,Hard to say
+023.wav,Neutral,,Good,,,Same speaker
+023.wav,,Angry,,Noisy,,Same speaker
+023.wav,Neutral,,,Fair,Same speaker,
+023.wav,Angry,,Fair,,,Same speaker
+023.wav,Happy,,Noisy,,,Hard to say
+024.wav,Neutral,,Fair,,,Same speaker
+024.wav,Neutral,,Fair,,,Similar speaker
+024.wav,Angry,,Noisy,,,Different speakers
+024.wav,Neutral,,Good,,,Similar speaker
+024.wav,Neutral,,Good,,,Similar speaker
+024.wav,Angry,,Fair,,,Similar speaker
+024.wav,Angry,,Noisy,,,Same speaker
+024.wav,Angry,,Fair,,,Different speakers
+024.wav,Neutral,,Fair,,,Different speakers
+024.wav,Happy,,Noisy,,,Different speakers
+025.wav,Neutral,,,Bad,Same speaker,
+025.wav,Angry,,Noisy,,,Same speaker
+025.wav,Neutral,,Good,,,Same speaker
+025.wav,Happy,,Fair,,,Hard to say
+025.wav,Angry,,Bad,,,Different speakers
+025.wav,Happy,,Noisy,,,Same speaker
+025.wav,Neutral,,Good,,,Different speakers
+025.wav,Angry,,Noisy,,,Similar speaker
+025.wav,Happy,,,Noisy,Similar speaker,
+025.wav,Neutral,,,Bad,Hard to say,
+026.wav,Sad,,Bad,,,Similar speaker
+026.wav,Angry,,,Fair,Same speaker,
+026.wav,Sad,,,Fair,Same speaker,
+026.wav,Angry,,Bad,,,Same speaker
+026.wav,Sad,,Good,,,Similar speaker
+026.wav,,Angry,Bad,,,Same speaker
+026.wav,Angry,,,Fair,Same speaker,
+026.wav,Sad,,Good,,,Same speaker
+026.wav,Angry,,,Fair,,Same speaker
+026.wav,Neutral,,Noisy,,,Different speakers
+027.wav,Angry,,Fair,,,Different speakers
+027.wav,Happy,,Noisy,,,Different speakers
+027.wav,Neutral,,Good,,,Hard to say
+027.wav,Angry,,,Good,Same speaker,
+027.wav,Neutral,,Good,,,Same speaker
+027.wav,Neutral,,Fair,,,Hard to say
+027.wav,Angry,,Bad,,,Similar speaker
+027.wav,Neutral,,Fair,,,Same speaker
+027.wav,,Angry,Fair,,,Different speakers
+027.wav,Happy,,Good,,,Same speaker
+028.wav,Happy,,Noisy,,,Hard to say
+028.wav,Neutral,,Fair,,,Hard to say
+028.wav,Neutral,,,Bad,Hard to say,
+028.wav,,Sad,,Bad,,Same speaker
+028.wav,Neutral,,Fair,,,Same speaker
+028.wav,Sad,,Bad,,,Similar speaker
+028.wav,Happy,,Noisy,,,Similar speaker
+028.wav,Neutral,,Bad,,,Similar speaker
+028.wav,Neutral,,,Fair,Same speaker,
+028.wav,Neutral,,Good,,,Similar speaker
+029.wav,Angry,,Fair,,,Similar speaker
+029.wav,Neutral,,Bad,,,Similar speaker
+029.wav,,Happy,,Excellent,,Same speaker
+029.wav,Sad,,Bad,,,Same speaker
+029.wav,Angry,,Bad,,,Same speaker
+029.wav,Neutral,,Fair,,,Same speaker
+029.wav,Happy,,Noisy,,,Hard to say
+029.wav,Happy,,Noisy,,,Same speaker
+029.wav,Neutral,,Fair,,,Similar speaker
+029.wav,Happy,,Noisy,,,Similar speaker
+030.wav,Neutral,,Bad,,,Same speaker
+030.wav,Angry,,Fair,,,Similar speaker
+030.wav,Angry,,Noisy,,,Hard to say
+030.wav,,Neutral,Good,,,Same speaker
+030.wav,Neutral,,Noisy,,,Same speaker
+030.wav,Happy,,Noisy,,,Different speakers
+030.wav,Angry,,Excellent,,,Same speaker
+030.wav,Sad,,Bad,,,Similar speaker
+030.wav,,Sad,,Fair,,Same speaker
+030.wav,Happy,,Noisy,,,Similar speaker
+031.wav,Neutral,,Noisy,,,Hard to say
+031.wav,,Angry,,Fair,,Same speaker
+031.wav,Sad,,Fair,,,Different speakers
+031.wav,Angry,,,Good,Same speaker,
+031.wav,Angry,,Good,,,Hard to say
+031.wav,Happy,,Fair,,,Similar speaker
+031.wav,Neutral,,Good,,,Same speaker
+031.wav,Angry,,Noisy,,,Similar speaker
+031.wav,Happy,,Good,,,Similar speaker
+031.wav,Happy,,,Excellent,Same speaker,
+032.wav,,Angry,,Fair,,Same speaker
+032.wav,Neutral,,Fair,,,Same speaker
+032.wav,Neutral,,,Fair,Same speaker,
+032.wav,Neutral,,Bad,,,Same speaker
+032.wav,Neutral,,Noisy,,,Similar speaker
+032.wav,Happy,,Good,,,Hard to say
+032.wav,Angry,,Bad,,,Hard to say
+032.wav,,Neutral,,Fair,,Same speaker
+032.wav,Neutral,,Good,,,Similar speaker
+032.wav,,Neutral,Good,,Different speakers,
+033.wav,Angry,,,Good,Same speaker,
+033.wav,Angry,,Noisy,,,Same speaker
+033.wav,Angry,,Fair,,,Same speaker
+033.wav,Angry,,Noisy,,,Same speaker
+033.wav,Happy,,Fair,,,Similar speaker
+033.wav,,Angry,,Bad,,Same speaker
+033.wav,Neutral,,Noisy,,,Similar speaker
+033.wav,Angry,,Noisy,,,Same speaker
+033.wav,Sad,,Fair,,,Same speaker
+033.wav,Sad,,Fair,,,Same speaker
+034.wav,,Angry,,Noisy,,Same speaker
+034.wav,Sad,,Bad,,,Same speaker
+034.wav,Neutral,,Fair,,,Similar speaker
+034.wav,,Angry,Fair,,,Hard to say
+034.wav,,Angry,,Noisy,Same speaker,
+034.wav,Angry,,Fair,,,Same speaker
+034.wav,Angry,,Good,,,Same speaker
+034.wav,Neutral,,Good,,,Same speaker
+034.wav,Sad,,Fair,,,Same speaker
+034.wav,Angry,,Noisy,,,Same speaker
+035.wav,Angry,,Bad,,,Same speaker
+035.wav,Angry,,Bad,,,Different speakers
+035.wav,Neutral,,Good,,,Similar speaker
+035.wav,,Neutral,Good,,,Hard to say
+035.wav,Neutral,,Fair,,,Similar speaker
+035.wav,Angry,,Noisy,,,Similar speaker
+035.wav,,Angry,,Noisy,,Same speaker
+035.wav,Happy,,Noisy,,,Different speakers
+035.wav,Neutral,,,Bad,Same speaker,
+035.wav,Happy,,Good,,,Similar speaker
+036.wav,Angry,,,Excellent,Same speaker,
+036.wav,Angry,,Fair,,,Same speaker
+036.wav,Happy,,Fair,,,Same speaker
+036.wav,Neutral,,Fair,,,Same speaker
+036.wav,Happy,,Excellent,,,Similar speaker
+036.wav,Neutral,,Fair,,,Different speakers
+036.wav,,Angry,,Fair,,Same speaker
+036.wav,,Angry,Fair,,,Same speaker
+036.wav,,Angry,,Excellent,,Same speaker
+036.wav,Neutral,,Good,,,Same speaker
+037.wav,Sad,,Bad,,,Hard to say
+037.wav,Angry,,,Fair,Same speaker,
+037.wav,Angry,,Bad,,,Same speaker
+037.wav,Neutral,,,Fair,Same speaker,
+037.wav,Neutral,,Noisy,,,Hard to say
+037.wav,,Angry,,Bad,,Same speaker
+037.wav,Angry,,Good,,,Same speaker
+037.wav,Neutral,,Fair,,,Similar speaker
+037.wav,Sad,,Fair,,,Hard to say
+037.wav,Angry,,,Bad,Same speaker,
+038.wav,Happy,,Fair,,,Hard to say
+038.wav,Angry,,Fair,,,Same speaker
+038.wav,,Angry,,Bad,,Different speakers
+038.wav,,Sad,,Bad,,Same speaker
+038.wav,Neutral,,Bad,,,Same speaker
+038.wav,Sad,,Bad,,,Hard to say
+038.wav,Angry,,Noisy,,,Different speakers
+038.wav,Neutral,,,Bad,Same speaker,
+038.wav,Neutral,,Fair,,,Same speaker
+038.wav,Neutral,,,Bad,Hard to say,
+039.wav,Neutral,,Good,,,Similar speaker
+039.wav,,Angry,,Fair,,Same speaker
+039.wav,Neutral,,Bad,,,Hard to say
+039.wav,Angry,,Bad,,,Same speaker
+039.wav,Neutral,,Bad,,,Same speaker
+039.wav,Neutral,,Bad,,,Same speaker
+039.wav,,Happy,Fair,,,Hard to say
+039.wav,Angry,,Noisy,,,Same speaker
+039.wav,Angry,,Bad,,,Same speaker
+039.wav,Angry,,Bad,,,Same speaker
+040.wav,Sad,,Bad,,,Hard to say
+040.wav,Happy,,Excellent,,,Similar speaker
+040.wav,Angry,,Fair,,,Similar speaker
+040.wav,Neutral,,Bad,,,Same speaker
+040.wav,Happy,,Noisy,,,Different speakers
+040.wav,Happy,,Noisy,,,Same speaker
+040.wav,Neutral,,Noisy,,,Same speaker
+040.wav,,Happy,,Bad,,Same speaker
+040.wav,Angry,,Fair,,,Different speakers
+040.wav,Neutral,,,Bad,Same speaker,
+041.wav,Angry,,Bad,,,Different speakers
+041.wav,Happy,,Fair,,,Hard to say
+041.wav,Angry,,Good,,,Hard to say
+041.wav,Angry,,,Bad,Different speakers,
+041.wav,Angry,,Fair,,,Same speaker
+041.wav,Angry,,Noisy,,,Same speaker
+041.wav,Happy,,Fair,,,Similar speaker
+041.wav,Angry,,Fair,,,Similar speaker
+041.wav,Angry,,Noisy,,,Same speaker
+041.wav,Neutral,,Fair,,,Similar speaker
+042.wav,Sad,,Bad,,,Similar speaker
+042.wav,Sad,,Bad,,,Same speaker
+042.wav,Sad,,Good,,,Same speaker
+042.wav,Happy,,Fair,,,Similar speaker
+042.wav,Neutral,,Bad,,,Same speaker
+042.wav,Neutral,,,Fair,Same speaker,
+042.wav,,Angry,,Good,,Same speaker
+042.wav,Sad,,Good,,,Same speaker
+042.wav,Angry,,Fair,,,Same speaker
+042.wav,Happy,,Fair,,,Similar speaker
+043.wav,Neutral,,Fair,,,Hard to say
+043.wav,Happy,,Good,,,Similar speaker
+043.wav,,Neutral,,Noisy,,Same speaker
+043.wav,Neutral,,Fair,,,Same speaker
+043.wav,Angry,,,Fair,Hard to say,
+043.wav,Neutral,,Bad,,,Same speaker
+043.wav,Neutral,,,Bad,Same speaker,
+043.wav,Neutral,,,Bad,Same speaker,
+043.wav,Happy,,Good,,,Same speaker
+043.wav,Happy,,Noisy,,,Similar speaker
+044.wav,Happy,,Good,,,Similar speaker
+044.wav,Happy,,Fair,,,Hard to say
+044.wav,Neutral,,Noisy,,,Same speaker
+044.wav,Sad,,Bad,,,Same speaker
+044.wav,Neutral,,Bad,,,Same speaker
+044.wav,Sad,,Bad,,,Same speaker
+044.wav,Neutral,,Bad,,,Same speaker
+044.wav,,Neutral,,Noisy,,Same speaker
+044.wav,Angry,,Noisy,,,Same speaker
+044.wav,Neutral,,Noisy,,,Same speaker
+045.wav,,Angry,,Bad,,Same speaker
+045.wav,Sad,,Fair,,,Same speaker
+045.wav,Neutral,,,Bad,Similar speaker,
+045.wav,Sad,,Bad,,,Same speaker
+045.wav,Sad,,Good,,,Similar speaker
+045.wav,Sad,,Good,,,Same speaker
+045.wav,Happy,,Noisy,,,Similar speaker
+045.wav,Neutral,,Bad,,,Same speaker
+045.wav,Neutral,,,Bad,Same speaker,
+045.wav,Neutral,,,Bad,Same speaker,
+046.wav,,Neutral,Fair,,,Different speakers
+046.wav,Happy,,Fair,,,Similar speaker
+046.wav,Angry,,,Fair,Same speaker,
+046.wav,,Angry,Fair,,,Different speakers
+046.wav,Sad,,,Noisy,Similar speaker,
+046.wav,Angry,,Fair,,,Similar speaker
+046.wav,,Angry,,Noisy,,Same speaker
+046.wav,Sad,,Fair,,,Similar speaker
+046.wav,,Neutral,,Good,,Same speaker
+046.wav,Angry,,,Fair,Similar speaker,
+047.wav,Neutral,,Good,,,Similar speaker
+047.wav,Happy,,Noisy,,,Similar speaker
+047.wav,Angry,,Good,,,Hard to say
+047.wav,Neutral,,Bad,,,Similar speaker
+047.wav,,Neutral,,Good,,Same speaker
+047.wav,,Angry,,Bad,,Same speaker
+047.wav,,Neutral,,Bad,Same speaker,
+047.wav,Neutral,,,Fair,Same speaker,
+047.wav,Neutral,,Bad,,,Same speaker
+047.wav,Neutral,,Good,,,Hard to say
+048.wav,Neutral,,Noisy,,,Different speakers
+048.wav,Happy,,Fair,,,Similar speaker
+048.wav,Neutral,,Noisy,,,Same speaker
+048.wav,,Neutral,,Good,,Same speaker
+048.wav,,Happy,,Good,,Same speaker
+048.wav,Neutral,,,Fair,Same speaker,
+048.wav,Happy,,Bad,,,Different speakers
+048.wav,Sad,,Bad,,,Same speaker
+048.wav,Neutral,,Fair,,,Different speakers
+048.wav,Happy,,Fair,,,Similar speaker
+049.wav,Happy,,Fair,,,Hard to say
+049.wav,Happy,,Good,,,Similar speaker
+049.wav,Neutral,,Bad,,,Same speaker
+049.wav,,Neutral,Noisy,,,Hard to say
+049.wav,Sad,,Bad,,,Similar speaker
+049.wav,,Sad,,Bad,,Same speaker
+049.wav,Happy,,Fair,,,Similar speaker
+049.wav,Neutral,,,Bad,Same speaker,
+049.wav,Sad,,Bad,,,Same speaker
+049.wav,Happy,,Good,,,Same speaker
+050.wav,Happy,,Fair,,,Similar speaker
+050.wav,Sad,,Bad,,,Similar speaker
+050.wav,Happy,,Noisy,,,Similar speaker
+050.wav,,Neutral,Fair,,,Hard to say
+050.wav,Neutral,,Bad,,,Same speaker
+050.wav,Neutral,,Noisy,,,Same speaker
+050.wav,,Neutral,Good,,Similar speaker,
+050.wav,Happy,,Fair,,,Hard to say
+050.wav,Sad,,,Fair,Same speaker,
+050.wav,Neutral,,Good,,,Same speaker
+051.wav,Sad,,Bad,,,Same speaker
+051.wav,Sad,,Fair,,,Hard to say
+051.wav,Neutral,,Noisy,,,Similar speaker
+051.wav,Angry,,,Fair,Similar speaker,
+051.wav,Sad,,Bad,,,Similar speaker
+051.wav,Happy,,Good,,,Same speaker
+051.wav,Neutral,,,Bad,Same speaker,
+051.wav,,Neutral,Bad,,,Same speaker
+051.wav,Angry,,Noisy,,,Same speaker
+051.wav,Neutral,,Good,,,Same speaker
+052.wav,Angry,,Bad,,,Same speaker
+052.wav,Neutral,,Bad,,,Hard to say
+052.wav,Neutral,,Fair,,,Hard to say
+052.wav,Happy,,Fair,,,Similar speaker
+052.wav,,Angry,,Noisy,,Same speaker
+052.wav,Happy,,Noisy,,,Hard to say
+052.wav,Neutral,,,Bad,Same speaker,
+052.wav,Angry,,Noisy,,,Same speaker
+052.wav,Angry,,Noisy,,,Same speaker
+052.wav,Neutral,,Bad,,,Same speaker
+053.wav,,Happy,,Noisy,,Same speaker
+053.wav,,Angry,,Noisy,,Same speaker
+053.wav,Angry,,,Noisy,Different speakers,
+053.wav,,Neutral,Noisy,,,Different speakers
+053.wav,,Angry,,Bad,,Same speaker
+053.wav,Angry,,Noisy,,,Same speaker
+053.wav,Happy,,Noisy,,,Hard to say
+053.wav,Neutral,,Bad,,,Same speaker
+053.wav,,Neutral,Good,,,Same speaker
+053.wav,,Angry,,Noisy,,Same speaker
+054.wav,Neutral,,Bad,,,Hard to say
+054.wav,Happy,,Good,,,Hard to say
+054.wav,,Angry,,Bad,,Same speaker
+054.wav,Happy,,Noisy,,,Hard to say
+054.wav,Neutral,,Fair,,,Different speakers
+054.wav,Neutral,,Good,,,Same speaker
+054.wav,Angry,,Bad,,,Hard to say
+054.wav,,Angry,,Bad,,Same speaker
+054.wav,Neutral,,Fair,,,Hard to say
+054.wav,Neutral,,Good,,,Same speaker
+055.wav,,Neutral,Noisy,,,Different speakers
+055.wav,Happy,,Good,,,Hard to say
+055.wav,Angry,,,Bad,Different speakers,
+055.wav,Angry,,Noisy,,,Similar speaker
+055.wav,Angry,,Bad,,,Same speaker
+055.wav,,Angry,,Good,,Same speaker
+055.wav,Sad,,Good,,,Same speaker
+055.wav,Neutral,,Fair,,,Similar speaker
+055.wav,Angry,,,Good,Same speaker,
+055.wav,Happy,,Fair,,,Hard to say
+056.wav,Happy,,Noisy,,,Same speaker
+056.wav,Neutral,,Bad,,,Hard to say
+056.wav,Sad,,Bad,,,Different speakers
+056.wav,Neutral,,Excellent,,,Similar speaker
+056.wav,,Angry,,Bad,,Same speaker
+056.wav,Neutral,,,Bad,Same speaker,
+056.wav,Neutral,,Bad,,,Hard to say
+056.wav,Happy,,Fair,,,Similar speaker
+056.wav,Angry,,Noisy,,,Different speakers
+056.wav,Sad,,Bad,,,Similar speaker
+057.wav,Happy,,,Good,Hard to say,
+057.wav,Neutral,,,Excellent,Same speaker,
+057.wav,,Happy,Excellent,,,Same speaker
+057.wav,Angry,,Noisy,,,Similar speaker
+057.wav,Neutral,,Excellent,,,Same speaker
+057.wav,,Happy,,Excellent,,Same speaker
+057.wav,Angry,,Bad,,,Similar speaker
+057.wav,Happy,,Fair,,,Similar speaker
+057.wav,,Happy,,Noisy,,Same speaker
+057.wav,,Happy,,Excellent,,Same speaker
+058.wav,Happy,,Noisy,,,Similar speaker
+058.wav,Angry,,Good,,,Same speaker
+058.wav,Angry,,Noisy,,,Different speakers
+058.wav,Happy,,Noisy,,,Different speakers
+058.wav,Angry,,Bad,,,Same speaker
+058.wav,Angry,,Good,,,Same speaker
+058.wav,Happy,,Noisy,,,Different speakers
+058.wav,Angry,,,Good,Same speaker,
+058.wav,Happy,,Good,,,Similar speaker
+058.wav,Happy,,,Excellent,Same speaker,
+059.wav,Neutral,,Fair,,,Same speaker
+059.wav,,Angry,,Noisy,,Same speaker
+059.wav,Sad,,Fair,,,Similar speaker
+059.wav,,Angry,Fair,,,Same speaker
+059.wav,Sad,,Bad,,,Similar speaker
+059.wav,Sad,,Bad,,,Hard to say
+059.wav,Angry,,Noisy,,,Hard to say
+059.wav,Neutral,,,Bad,Same speaker,
+059.wav,,Angry,,Noisy,,Same speaker
+059.wav,Happy,,Good,,,Same speaker
+060.wav,,Angry,,Good,,Same speaker
+060.wav,Happy,,Bad,,,Same speaker
+060.wav,Happy,,Good,,,Similar speaker
+060.wav,Angry,,Good,,,Same speaker
+060.wav,Angry,,,Excellent,Same speaker,
+060.wav,Happy,,Good,,,Similar speaker
+060.wav,,Angry,,Noisy,,Same speaker
+060.wav,Sad,,Good,,,Same speaker
+060.wav,Happy,,Noisy,,,Same speaker
+060.wav,Neutral,,Noisy,,,Hard to say
+061.wav,Happy,,Excellent,,,Same speaker
+061.wav,Angry,,Excellent,,,Same speaker
+061.wav,Angry,,Excellent,,,Same speaker
+061.wav,Happy,,Fair,,,Different speakers
+061.wav,,Angry,,Noisy,,Same speaker
+061.wav,Happy,,Good,,,Similar speaker
+061.wav,Angry,,Noisy,,,Hard to say
+061.wav,Angry,,Fair,,,Similar speaker
+061.wav,Angry,,Fair,,,Same speaker
+061.wav,Sad,,Noisy,,,Hard to say
+062.wav,Angry,,Good,,,Similar speaker
+062.wav,Neutral,,Good,,,Same speaker
+062.wav,Neutral,,Bad,,,Different speakers
+062.wav,Happy,,Fair,,,Similar speaker
+062.wav,Happy,,,Excellent,Same speaker,
+062.wav,Sad,,Fair,,,Same speaker
+062.wav,Happy,,Good,,,Hard to say
+062.wav,,Angry,,Fair,,Hard to say
+062.wav,Angry,,Noisy,,,Hard to say
+062.wav,,Sad,,Fair,Similar speaker,
+063.wav,Happy,,Noisy,,,Same speaker
+063.wav,Neutral,,Fair,,,Same speaker
+063.wav,Happy,,Noisy,,,Different speakers
+063.wav,,Sad,Bad,,,Hard to say
+063.wav,Happy,,Fair,,,Hard to say
+063.wav,Angry,,Noisy,,,Same speaker
+063.wav,Happy,,Excellent,,,Same speaker
+063.wav,Neutral,,Fair,,,Hard to say
+063.wav,,Angry,,Noisy,,Same speaker
+063.wav,Neutral,,Fair,,,Similar speaker
+064.wav,Happy,,,Excellent,Same speaker,
+064.wav,Sad,,Good,,,Same speaker
+064.wav,Happy,,Noisy,,,Similar speaker
+064.wav,Neutral,,Noisy,,,Same speaker
+064.wav,Happy,,Good,,,Similar speaker
+064.wav,Neutral,,,Excellent,Same speaker,
+064.wav,Angry,,Excellent,,,Same speaker
+064.wav,Neutral,,Good,,,Same speaker
+064.wav,Angry,,Good,,,Same speaker
+064.wav,Neutral,,,Fair,Hard to say,
+065.wav,Happy,,Excellent,,,Same speaker
+065.wav,Happy,,,Excellent,Same speaker,
+065.wav,Sad,,Bad,,,Similar speaker
+065.wav,Happy,,Good,,,Hard to say
+065.wav,Happy,,,Good,Hard to say,
+065.wav,Happy,,Excellent,,,Same speaker
+065.wav,,Happy,,Noisy,,Same speaker
+065.wav,Happy,,Excellent,,,Same speaker
+065.wav,Happy,,Noisy,,,Same speaker
+065.wav,Happy,,Noisy,,,Similar speaker
+066.wav,Neutral,,Good,,,Same speaker
+066.wav,Happy,,Good,,,Same speaker
+066.wav,Neutral,,Bad,,,Same speaker
+066.wav,,Neutral,,Noisy,,Hard to say
+066.wav,Neutral,,Good,,,Similar speaker
+066.wav,Happy,,Fair,,,Same speaker
+066.wav,Neutral,,Noisy,,,Same speaker
+066.wav,Angry,,Noisy,,,Similar speaker
+066.wav,Neutral,,Fair,,,Same speaker
+066.wav,Neutral,,Good,,,Similar speaker
+067.wav,,Neutral,Noisy,,,Same speaker
+067.wav,Happy,,Good,,,Same speaker
+067.wav,,Neutral,Fair,,,Different speakers
+067.wav,,Neutral,,Fair,,Same speaker
+067.wav,,Happy,,Excellent,,Same speaker
+067.wav,Neutral,,Fair,,,Same speaker
+067.wav,Neutral,,Good,,,Same speaker
+067.wav,Neutral,,Good,,,Hard to say
+067.wav,Angry,,Fair,,,Same speaker
+067.wav,Neutral,,,Good,Same speaker,
+068.wav,Sad,,Fair,,,Similar speaker
+068.wav,Happy,,,Excellent,Same speaker,
+068.wav,,Happy,Bad,,,Hard to say
+068.wav,Happy,,Good,,,Hard to say
+068.wav,Happy,,Good,,,Same speaker
+068.wav,Happy,,Fair,,,Different speakers
+068.wav,Happy,,Good,,,Same speaker
+068.wav,Happy,,Good,,,Same speaker
+068.wav,Neutral,,Fair,,,Similar speaker
+068.wav,Neutral,,Fair,,,Same speaker
+069.wav,Happy,,,Excellent,Same speaker,
+069.wav,Neutral,,,Noisy,Different speakers,
+069.wav,,Neutral,Good,,Same speaker,
+069.wav,Neutral,,Good,,,Same speaker
+069.wav,Happy,,Fair,,,Same speaker
+069.wav,Happy,,Good,,,Similar speaker
+069.wav,Happy,,Good,,,Hard to say
+069.wav,Happy,,Fair,,,Similar speaker
+069.wav,,Neutral,Noisy,,,Hard to say
+069.wav,Neutral,,Noisy,,,Similar speaker
+070.wav,Neutral,,Fair,,,Similar speaker
+070.wav,Happy,,,Good,Same speaker,
+070.wav,Neutral,,Bad,,,Different speakers
+070.wav,Sad,,Bad,,,Same speaker
+070.wav,Happy,,Good,,,Same speaker
+070.wav,Neutral,,Excellent,,,Same speaker
+070.wav,Happy,,,Good,Same speaker,
+070.wav,Happy,,Fair,,,Same speaker
+070.wav,Happy,,Fair,,,Different speakers
+070.wav,Happy,,Fair,,,Same speaker
+071.wav,Angry,,,Good,Same speaker,
+071.wav,Angry,,Excellent,,,Same speaker
+071.wav,,Neutral,,Good,,Similar speaker
+071.wav,,Angry,,Good,,Same speaker
+071.wav,Neutral,,,Fair,Different speakers,
+071.wav,Angry,,,Excellent,Same speaker,
+071.wav,Angry,,Good,,,Same speaker
+071.wav,Neutral,,Good,,,Same speaker
+071.wav,Neutral,,Good,,,Similar speaker
+071.wav,Neutral,,Fair,,,Hard to say
+072.wav,Happy,,Excellent,,,Same speaker
+072.wav,Happy,,Fair,,,Similar speaker
+072.wav,Happy,,Good,,,Same speaker
+072.wav,Neutral,,Good,,,Same speaker
+072.wav,Happy,,Good,,,Similar speaker
+072.wav,Happy,,Good,,,Different speakers
+072.wav,Happy,,Fair,,,Different speakers
+072.wav,Happy,,Good,,,Same speaker
+072.wav,Neutral,,,Fair,Similar speaker,
+072.wav,,Happy,,Fair,,Same speaker
+073.wav,Happy,,,Excellent,Same speaker,
+073.wav,Angry,,Fair,,,Same speaker
+073.wav,Neutral,,Good,,,Same speaker
+073.wav,Happy,,Good,,,Same speaker
+073.wav,Happy,,Noisy,,,Similar speaker
+073.wav,Happy,,Noisy,,,Different speakers
+073.wav,Neutral,,Good,,,Similar speaker
+073.wav,,Neutral,,Good,,Hard to say
+073.wav,Neutral,,Fair,,,Same speaker
+073.wav,Neutral,,Noisy,,,Hard to say
+074.wav,,Happy,,Good,Hard to say,
+074.wav,Happy,,Good,,,Similar speaker
+074.wav,,Neutral,Excellent,,,Same speaker
+074.wav,Happy,,Noisy,,,Similar speaker
+074.wav,,Happy,,Good,,Same speaker
+074.wav,Neutral,,Bad,,,Same speaker
+074.wav,Happy,,,Good,Same speaker,
+074.wav,,Neutral,Noisy,,,Different speakers
+074.wav,Neutral,,Fair,,,Hard to say
+074.wav,,Happy,,Good,,Same speaker
+075.wav,Neutral,,Fair,,,Same speaker
+075.wav,Sad,,Noisy,,,Similar speaker
+075.wav,Neutral,,,Good,Same speaker,
+075.wav,Happy,,Good,,,Same speaker
+075.wav,Neutral,,,Good,Same speaker,
+075.wav,Angry,,Good,,,Similar speaker
+075.wav,Angry,,,Fair,,Similar speaker
+075.wav,Neutral,,,Good,Same speaker,
+075.wav,Happy,,,Fair,Same speaker,
+075.wav,Neutral,,,Fair,Similar speaker,
+076.wav,Happy,,,Good,Same speaker,
+076.wav,Happy,,Fair,,,Similar speaker
+076.wav,Happy,,,Excellent,Same speaker,
+076.wav,Neutral,,Noisy,,,Hard to say
+076.wav,Sad,,,Noisy,,Hard to say
+076.wav,Happy,,Fair,,,Hard to say
+076.wav,Neutral,,,Fair,Similar speaker,
+076.wav,Neutral,,Fair,,,Same speaker
+076.wav,Neutral,,Good,,,Same speaker
+076.wav,Neutral,,Noisy,,,Same speaker
+077.wav,Angry,,Noisy,,,Same speaker
+077.wav,Angry,,Good,,,Same speaker
+077.wav,,Angry,,Noisy,,Same speaker
+077.wav,Angry,,Noisy,,,Same speaker
+077.wav,Angry,,Excellent,,,Same speaker
+077.wav,Happy,,Noisy,,,Similar speaker
+077.wav,Neutral,,Good,,,Hard to say
+077.wav,Sad,,Fair,,,Different speakers
+077.wav,Angry,,Excellent,,,Similar speaker
+077.wav,Angry,,Good,,,Same speaker
+078.wav,Happy,,,Excellent,Same speaker,
+078.wav,Angry,,,Noisy,Same speaker,
+078.wav,Happy,,Good,,,Same speaker
+078.wav,Happy,,,Good,Same speaker,
+078.wav,Sad,,Bad,,,Hard to say
+078.wav,Happy,,Good,,,Same speaker
+078.wav,Neutral,,Fair,,,Hard to say
+078.wav,Angry,,Good,,,Similar speaker
+078.wav,,Angry,,Noisy,,Same speaker
+078.wav,,Happy,Good,,Same speaker,
+079.wav,,Happy,,Good,,Same speaker
+079.wav,,Neutral,Fair,,Different speakers,
+079.wav,Happy,,Good,,,Similar speaker
+079.wav,Happy,,Fair,,,Hard to say
+079.wav,Happy,,Fair,,,Similar speaker
+079.wav,Happy,,,Good,Same speaker,
+079.wav,Happy,,Bad,,,Similar speaker
+079.wav,Happy,,Good,,,Same speaker
+079.wav,Neutral,,,Bad,Hard to say,
+079.wav,Happy,,Fair,,,Similar speaker
+080.wav,Sad,,Bad,,,Same speaker
+080.wav,Angry,,Excellent,,,Same speaker
+080.wav,Angry,,Noisy,,,Same speaker
+080.wav,Happy,,,Bad,Similar speaker,
+080.wav,Angry,,Noisy,,,Similar speaker
+080.wav,Sad,,Good,,,Same speaker
+080.wav,Angry,,Good,,,Same speaker
+080.wav,Happy,,Excellent,,,Hard to say
+080.wav,,Angry,,Noisy,,Same speaker
+080.wav,Angry,,,Excellent,Same speaker,
+081.wav,Sad,,Bad,,,Different speakers
+081.wav,Neutral,,Bad,,,Same speaker
+081.wav,Neutral,,Good,,,Similar speaker
+081.wav,,Neutral,Fair,,,Similar speaker
+081.wav,Sad,,Fair,,,Hard to say
+081.wav,Angry,,Noisy,,,Same speaker
+081.wav,Neutral,,Noisy,,,Same speaker
+081.wav,Neutral,,Bad,,,Hard to say
+081.wav,Neutral,,,Bad,Different speakers,
+081.wav,Happy,,Fair,,,Different speakers
+082.wav,Sad,,Good,,,Same speaker
+082.wav,,Happy,,Good,,Similar speaker
+082.wav,Neutral,,Good,,,Similar speaker
+082.wav,Happy,,Fair,,,Same speaker
+082.wav,Happy,,Noisy,,,Same speaker
+082.wav,Neutral,,Noisy,,,Hard to say
+082.wav,Happy,,Good,,,Same speaker
+082.wav,,Angry,,Noisy,,Same speaker
+082.wav,Angry,,Bad,,,Same speaker
+082.wav,Happy,,,Noisy,Same speaker,
+083.wav,,Happy,Good,,,Similar speaker
+083.wav,Happy,,Excellent,,,Same speaker
+083.wav,Happy,,Good,,,Same speaker
+083.wav,Happy,,Excellent,,,Same speaker
+083.wav,,Happy,,Noisy,,Same speaker
+083.wav,Happy,,Fair,,,Same speaker
+083.wav,Happy,,Fair,,,Same speaker
+083.wav,Happy,,Fair,,,Same speaker
+083.wav,Neutral,,Good,,,Similar speaker
+083.wav,Happy,,Good,,,Similar speaker
+084.wav,Happy,,Excellent,,,Same speaker
+084.wav,Happy,,Noisy,,,Same speaker
+084.wav,Neutral,,Fair,,,Similar speaker
+084.wav,Happy,,Good,,,Same speaker
+084.wav,Happy,,,Noisy,Different speakers,
+084.wav,Happy,,,Excellent,Same speaker,
+084.wav,Happy,,Noisy,,,Different speakers
+084.wav,,Neutral,Good,,Similar speaker,
+084.wav,Happy,,Fair,,,Similar speaker
+084.wav,Happy,,,Good,Same speaker,
+085.wav,Sad,,Fair,,,Hard to say
+085.wav,,Happy,Fair,,,Similar speaker
+085.wav,Neutral,,Fair,,,Different speakers
+085.wav,Happy,,Fair,,,Same speaker
+085.wav,Angry,,,Noisy,Hard to say,
+085.wav,,Happy,,Excellent,,Same speaker
+085.wav,Neutral,,Good,,,Different speakers
+085.wav,Sad,,Good,,,Similar speaker
+085.wav,Neutral,,,Excellent,Same speaker,
+085.wav,Happy,,Fair,,,Same speaker
+086.wav,Happy,,Good,,,Hard to say
+086.wav,Happy,,Good,,,Similar speaker
+086.wav,Happy,,Fair,,,Same speaker
+086.wav,Angry,,Good,,,Similar speaker
+086.wav,Happy,,Noisy,,,Same speaker
+086.wav,Happy,,Noisy,,,Same speaker
+086.wav,Happy,,Excellent,,,Same speaker
+086.wav,Happy,,Good,,,Similar speaker
+086.wav,Neutral,,Noisy,,,Hard to say
+086.wav,Happy,,Excellent,,,Similar speaker
+087.wav,Happy,,Good,,,Hard to say
+087.wav,Happy,,Good,,,Same speaker
+087.wav,,Happy,Fair,,,Same speaker
+087.wav,Happy,,Good,,,Same speaker
+087.wav,Neutral,,Good,,,Same speaker
+087.wav,,Happy,,Excellent,,Same speaker
+087.wav,Happy,,,Good,Same speaker,
+087.wav,Happy,,,Fair,Same speaker,
+087.wav,Neutral,,Fair,,,Same speaker
+087.wav,Neutral,,Noisy,,,Similar speaker
+088.wav,Happy,,,Good,Same speaker,
+088.wav,Sad,,Good,,,Same speaker
+088.wav,Neutral,,,Fair,Same speaker,
+088.wav,Sad,,Fair,,,Same speaker
+088.wav,,Angry,,Good,,Same speaker
+088.wav,Neutral,,Good,,,Similar speaker
+088.wav,Neutral,,Good,,,Similar speaker
+088.wav,,Sad,Bad,,,Same speaker
+088.wav,Angry,,Good,,,Same speaker
+088.wav,Angry,,Good,,,Same speaker
+089.wav,Happy,,Fair,,,Hard to say
+089.wav,,Happy,,Fair,,Same speaker
+089.wav,Neutral,,Fair,,,Similar speaker
+089.wav,Happy,,Good,,,Same speaker
+089.wav,Neutral,,Good,,,Similar speaker
+089.wav,,Happy,,Good,Same speaker,
+089.wav,Happy,,Good,,,Similar speaker
+089.wav,Happy,,Good,,,Same speaker
+089.wav,Happy,,Good,,,Same speaker
+089.wav,,Neutral,Noisy,,,Similar speaker
+090.wav,Happy,,Fair,,,Same speaker
+090.wav,Happy,,Fair,,,Similar speaker
+090.wav,Angry,,,Bad,Different speakers,
+090.wav,Happy,,Noisy,,,Same speaker
+090.wav,Angry,,,Good,Same speaker,
+090.wav,Happy,,Noisy,,,Hard to say
+090.wav,Angry,,Bad,,,Different speakers
+090.wav,Happy,,Fair,,,Same speaker
+090.wav,Sad,,Noisy,,,Hard to say
+090.wav,Angry,,Noisy,,,Same speaker
+091.wav,Angry,,Fair,,,Same speaker
+091.wav,Happy,,Noisy,,,Different speakers
+091.wav,Neutral,,,Noisy,Same speaker,
+091.wav,Angry,,Good,,,Same speaker
+091.wav,Neutral,,,Fair,Same speaker,
+091.wav,Neutral,,Noisy,,,Different speakers
+091.wav,Neutral,,Good,,,Similar speaker
+091.wav,Neutral,,Good,,,Same speaker
+091.wav,Neutral,,Noisy,,,Similar speaker
+091.wav,Neutral,,Noisy,,,Same speaker
+092.wav,Happy,,Good,,,Same speaker
+092.wav,Angry,,Noisy,,,Same speaker
+092.wav,Happy,,Good,,,Same speaker
+092.wav,Neutral,,Fair,,,Hard to say
+092.wav,,Angry,,Fair,,Same speaker
+092.wav,Happy,,Noisy,,,Different speakers
+092.wav,Happy,,Fair,,,Similar speaker
+092.wav,Happy,,,Bad,Same speaker,
+092.wav,Angry,,,Good,Same speaker,
+092.wav,Sad,,Bad,,,Same speaker
+093.wav,Angry,,,Noisy,Same speaker,
+093.wav,Happy,,Noisy,,,Same speaker
+093.wav,Angry,,Noisy,,,Different speakers
+093.wav,Neutral,,Good,,,Similar speaker
+093.wav,Angry,,Noisy,,,Same speaker
+093.wav,Happy,,Noisy,,,Same speaker
+093.wav,Angry,,Noisy,,,Similar speaker
+093.wav,Angry,,,Good,Same speaker,
+093.wav,Angry,,Noisy,,,Similar speaker
+093.wav,Neutral,,,Noisy,Similar speaker,
+094.wav,Neutral,,Fair,,,Same speaker
+094.wav,Angry,,Fair,,,Same speaker
+094.wav,Angry,,,Good,Same speaker,
+094.wav,Happy,,Fair,,,Similar speaker
+094.wav,,Happy,,Excellent,,Same speaker
+094.wav,Happy,,Noisy,,,Same speaker
+094.wav,Neutral,,,Good,Same speaker,
+094.wav,,Neutral,,Good,,Same speaker
+094.wav,Angry,,Good,,,Same speaker
+094.wav,,Angry,,Noisy,,Same speaker
+095.wav,Neutral,,Excellent,,,Similar speaker
+095.wav,Neutral,,,Good,Same speaker,
+095.wav,Neutral,,Good,,,Similar speaker
+095.wav,Happy,,Noisy,,,Same speaker
+095.wav,,Happy,,Excellent,,Same speaker
+095.wav,Sad,,Bad,,,Same speaker
+095.wav,,Happy,,Good,,Same speaker
+095.wav,Angry,,Good,,,Same speaker
+095.wav,Happy,,,Fair,Different speakers,
+095.wav,Happy,,,Good,Same speaker,
+096.wav,Happy,,Noisy,,,Hard to say
+096.wav,Neutral,,Noisy,,,Same speaker
+096.wav,Happy,,Noisy,,,Hard to say
+096.wav,Neutral,,,Good,Same speaker,
+096.wav,Neutral,,Noisy,,,Hard to say
+096.wav,Happy,,Fair,,,Hard to say
+096.wav,Neutral,,Noisy,,,Same speaker
+096.wav,Neutral,,,Good,,Different speakers
+096.wav,Happy,,Fair,,,Same speaker
+096.wav,Happy,,Fair,,,Similar speaker
+097.wav,,Neutral,,Fair,,Hard to say
+097.wav,Neutral,,Good,,,Similar speaker
+097.wav,Happy,,Good,,,Similar speaker
+097.wav,Happy,,Noisy,,,Similar speaker
+097.wav,Happy,,,Bad,Hard to say,
+097.wav,Happy,,Good,,,Similar speaker
+097.wav,Happy,,Good,,,Same speaker
+097.wav,Happy,,Fair,,,Same speaker
+097.wav,Neutral,,Good,,,Same speaker
+097.wav,Happy,,Noisy,,,Similar speaker
+098.wav,Neutral,,Good,,,Same speaker
+098.wav,Neutral,,,Good,Same speaker,
+098.wav,Neutral,,,Fair,Same speaker,
+098.wav,Angry,,Good,,,Same speaker
+098.wav,Neutral,,Good,,,Hard to say
+098.wav,,Sad,Fair,,,Similar speaker
+098.wav,Sad,,Good,,,Different speakers
+098.wav,Neutral,,Fair,,,Same speaker
+098.wav,Sad,,,Bad,Same speaker,
+098.wav,,Happy,,Good,,Same speaker
+099.wav,,Neutral,Good,,,Similar speaker
+099.wav,Neutral,,Good,,,Hard to say
+099.wav,Neutral,,Fair,,,Same speaker
+099.wav,,Neutral,Bad,,,Same speaker
+099.wav,Neutral,,Good,,,Same speaker
+099.wav,Neutral,,Good,,,Same speaker
+099.wav,,Happy,,Good,,Same speaker
+099.wav,Sad,,Bad,,,Same speaker
+099.wav,Happy,,Excellent,,,Similar speaker
+099.wav,Sad,,Good,,,Similar speaker
+100.wav,,Happy,,Noisy,,Same speaker
+100.wav,Happy,,,Fair,Similar speaker,
+100.wav,Sad,,Fair,,,Similar speaker
+100.wav,Sad,,Fair,,,Same speaker
+100.wav,,Neutral,,Bad,,Similar speaker
+100.wav,Happy,,Good,,,Similar speaker
+100.wav,Neutral,,Excellent,,,Same speaker
+100.wav,Happy,,,Good,Same speaker,
+100.wav,Happy,,Good,,,Same speaker
+100.wav,Neutral,,,Fair,Same speaker,
+101.wav,,Neutral,,Fair,,Same speaker
+101.wav,Happy,,Fair,,,Similar speaker
+101.wav,Neutral,,,Fair,Same speaker,
+101.wav,Neutral,,Noisy,,,Similar speaker
+101.wav,Neutral,,Fair,,,Same speaker
+101.wav,Neutral,,Good,,,Same speaker
+101.wav,Happy,,Fair,,,Similar speaker
+101.wav,Sad,,Bad,,,Same speaker
+101.wav,Happy,,Fair,,,Similar speaker
+101.wav,Neutral,,Fair,,,Different speakers
+102.wav,Sad,,Bad,,,Similar speaker
+102.wav,Happy,,Good,,,Hard to say
+102.wav,Neutral,,,Good,Same speaker,
+102.wav,,Happy,Fair,,,Similar speaker
+102.wav,,Neutral,,Fair,,Same speaker
+102.wav,,Happy,,Fair,,Same speaker
+102.wav,,Neutral,,Noisy,,Similar speaker
+102.wav,Neutral,,,Fair,Same speaker,
+102.wav,Neutral,,Good,,,Same speaker
+102.wav,Neutral,,Good,,,Same speaker
+103.wav,Neutral,,,Fair,Same speaker,
+103.wav,Neutral,,Fair,,,Hard to say
+103.wav,Neutral,,Excellent,,,Similar speaker
+103.wav,Neutral,,,Bad,Hard to say,
+103.wav,Happy,,Excellent,,,Similar speaker
+103.wav,Neutral,,Bad,,,Hard to say
+103.wav,Happy,,Fair,,,Hard to say
+103.wav,Sad,,Bad,,,Same speaker
+103.wav,Neutral,,Good,,,Same speaker
+103.wav,Neutral,,Good,,,Different speakers
+104.wav,Neutral,,Excellent,,,Same speaker
+104.wav,Angry,,Fair,,,Similar speaker
+104.wav,Angry,,Good,,,Same speaker
+104.wav,Neutral,,,Fair,Hard to say,
+104.wav,,Happy,Fair,,,Hard to say
+104.wav,Neutral,,Fair,,,Same speaker
+104.wav,Neutral,,Fair,,,Same speaker
+104.wav,,Happy,,Good,,Same speaker
+104.wav,,Neutral,,Bad,,Hard to say
+104.wav,Neutral,,Noisy,,,Similar speaker
+105.wav,Sad,,Noisy,,,Hard to say
+105.wav,Neutral,,,Fair,Same speaker,
+105.wav,Neutral,,Bad,,,Different speakers
+105.wav,Happy,,Good,,,Same speaker
+105.wav,Happy,,Fair,,,Same speaker
+105.wav,Neutral,,,Noisy,Same speaker,
+105.wav,,Angry,Bad,,,Same speaker
+105.wav,,Angry,,Fair,,Same speaker
+105.wav,Neutral,,Good,,,Different speakers
+105.wav,Neutral,,,Noisy,Hard to say,
+106.wav,Happy,,Excellent,,,Same speaker
+106.wav,,Neutral,Bad,,,Hard to say
+106.wav,Neutral,,,Fair,Same speaker,
+106.wav,Angry,,,Noisy,Hard to say,
+106.wav,,Happy,,Bad,,Hard to say
+106.wav,Neutral,,,Fair,Same speaker,
+106.wav,Happy,,Bad,,,Different speakers
+106.wav,Neutral,,Bad,,,Same speaker
+106.wav,Neutral,,Fair,,,Similar speaker
+106.wav,Neutral,,Fair,,,Same speaker
+107.wav,Neutral,,Good,,,Same speaker
+107.wav,Neutral,,Fair,,,Same speaker
+107.wav,Happy,,Fair,,,Similar speaker
+107.wav,,Neutral,Fair,,Same speaker,
+107.wav,Neutral,,Fair,,,Same speaker
+107.wav,Happy,,Fair,,,Similar speaker
+107.wav,,Neutral,,Good,,Same speaker
+107.wav,Neutral,,Good,,,Same speaker
+107.wav,Neutral,,Good,,,Hard to say
+107.wav,Neutral,,,Bad,Same speaker,
+108.wav,,Happy,,Good,,Same speaker
+108.wav,Neutral,,Fair,,,Same speaker
+108.wav,Neutral,,,Good,Same speaker,
+108.wav,Neutral,,Fair,,,Same speaker
+108.wav,Happy,,Fair,,,Hard to say
+108.wav,Neutral,,,Good,Same speaker,
+108.wav,Happy,,Fair,,,Similar speaker
+108.wav,Sad,,Bad,,,Similar speaker
+108.wav,Happy,,Noisy,,,Different speakers
+108.wav,,Sad,,Good,,Same speaker
+109.wav,Happy,,Bad,,,Similar speaker
+109.wav,Angry,,Bad,,,Same speaker
+109.wav,Happy,,Fair,,,Same speaker
+109.wav,,Angry,,Noisy,,Same speaker
+109.wav,Angry,,Good,,,Similar speaker
+109.wav,Angry,,Noisy,,,Different speakers
+109.wav,Sad,,Noisy,,,Same speaker
+109.wav,Happy,,Noisy,,,Hard to say
+109.wav,,Happy,,Noisy,,Similar speaker
+109.wav,Angry,,Good,,,Same speaker
+110.wav,Happy,,Fair,,,Similar speaker
+110.wav,Angry,,Noisy,,,Same speaker
+110.wav,Happy,,Noisy,,,Same speaker
+110.wav,Sad,,Good,,,Similar speaker
+110.wav,Happy,,Good,,,Same speaker
+110.wav,Happy,,,Fair,Similar speaker,
+110.wav,Happy,,Fair,,,Similar speaker
+110.wav,,Angry,,,,Same speaker
+110.wav,Happy,,Good,,,Similar speaker
+110.wav,Neutral,,Fair,,,Same speaker
+111.wav,Neutral,,,Good,Same speaker,
+111.wav,,Neutral,Good,,,Hard to say
+111.wav,Happy,,Fair,,,Same speaker
+111.wav,Neutral,,Fair,,,Same speaker
+111.wav,Neutral,,Good,,,Same speaker
+111.wav,Sad,,Bad,,,Same speaker
+111.wav,Sad,,Bad,,,Same speaker
+111.wav,Happy,,Bad,,,Different speakers
+111.wav,Neutral,,Noisy,,,Different speakers
+111.wav,Angry,,Good,,,Similar speaker
+112.wav,Neutral,,Good,,,Hard to say
+112.wav,Sad,,Noisy,,,Same speaker
+112.wav,Happy,,Fair,,,Same speaker
+112.wav,Happy,,Good,,,Similar speaker
+112.wav,Sad,,Fair,,,Same speaker
+112.wav,,Neutral,,Fair,,Same speaker
+112.wav,Happy,,Noisy,,,Similar speaker
+112.wav,Happy,,Good,,,Hard to say
+112.wav,Happy,,,Good,Same speaker,
+112.wav,Neutral,,Bad,,,Same speaker
+113.wav,Happy,,Fair,,,Different speakers
+113.wav,Neutral,,Good,,,Similar speaker
+113.wav,Neutral,,,Bad,Same speaker,
+113.wav,Neutral,,Fair,,,Similar speaker
+113.wav,Neutral,,Bad,,,Different speakers
+113.wav,Neutral,,,Bad,Hard to say,
+113.wav,,Neutral,,Fair,,Same speaker
+113.wav,Neutral,,Bad,,,Same speaker
+113.wav,Happy,,Good,,,Same speaker
+113.wav,,Neutral,,Bad,,Same speaker
+114.wav,Happy,,Noisy,,,Same speaker
+114.wav,,Happy,,Excellent,,Same speaker
+114.wav,Happy,,,Bad,Different speakers,
+114.wav,Happy,,Good,,,Same speaker
+114.wav,Happy,,Noisy,,,Hard to say
+114.wav,Sad,,Fair,,,Same speaker
+114.wav,Angry,,Good,,,Same speaker
+114.wav,Happy,,,Noisy,,Similar speaker
+114.wav,Happy,,,Good,Same speaker,
+114.wav,Happy,,Good,,,Same speaker
+115.wav,Happy,,Excellent,,,Same speaker
+115.wav,Happy,,Good,,,Same speaker
+115.wav,Happy,,,Bad,Hard to say,
+115.wav,Neutral,,Good,,,Same speaker
+115.wav,,Happy,Good,,,Different speakers
+115.wav,,Happy,,Good,,Same speaker
+115.wav,Happy,,,Excellent,Same speaker,
+115.wav,Neutral,,Noisy,,,Different speakers
+115.wav,Happy,,Noisy,,,Different speakers
+115.wav,Happy,,Good,,,Hard to say
+116.wav,Happy,,Bad,,,Different speakers
+116.wav,Happy,,,Noisy,Same speaker,
+116.wav,Happy,,Good,,,Same speaker
+116.wav,Sad,,Good,,,Similar speaker
+116.wav,Angry,,Bad,,,Similar speaker
+116.wav,,Happy,,Noisy,,Same speaker
+116.wav,Happy,,,Fair,Same speaker,
+116.wav,,Angry,,Good,,Same speaker
+116.wav,Neutral,,Good,,,Similar speaker
+116.wav,Happy,,Good,,,Same speaker
+117.wav,Neutral,,,Fair,Same speaker,
+117.wav,Sad,,Good,,,Similar speaker
+117.wav,Neutral,,Good,,,Same speaker
+117.wav,Neutral,,,Excellent,Same speaker,
+117.wav,Neutral,,Noisy,,,Different speakers
+117.wav,Happy,,Good,,,Hard to say
+117.wav,,Angry,,Fair,,Same speaker
+117.wav,Neutral,,,Good,Same speaker,
+117.wav,Happy,,Good,,,Similar speaker
+117.wav,,Happy,,Good,,Same speaker
+118.wav,Neutral,,Good,,,Hard to say
+118.wav,,Happy,,Bad,,Same speaker
+118.wav,Happy,,Noisy,,,Hard to say
+118.wav,Happy,,Good,,,Similar speaker
+118.wav,Happy,,Bad,,,Hard to say
+118.wav,Neutral,,Fair,,,Same speaker
+118.wav,Happy,,,Good,Same speaker,
+118.wav,Happy,,Fair,,,Same speaker
+118.wav,Neutral,,,Fair,Same speaker,
+118.wav,Happy,,Good,,,Hard to say
+119.wav,Neutral,,Fair,,,Similar speaker
+119.wav,Neutral,,Good,,,Same speaker
+119.wav,Happy,,Fair,,,Hard to say
+119.wav,Neutral,,Bad,,,Same speaker
+119.wav,,Neutral,,,,Same speaker
+119.wav,Happy,,Fair,,,Different speakers
+119.wav,Neutral,,Fair,,,Same speaker
+119.wav,Neutral,,Noisy,,,Different speakers
+119.wav,Happy,,,Good,Same speaker,
+119.wav,Neutral,,Noisy,,,Same speaker
+120.wav,Happy,,Fair,,,Similar speaker
+120.wav,,Happy,,Fair,,Same speaker
+120.wav,Angry,,Good,,,Same speaker
+120.wav,Happy,,Good,,,Hard to say
+120.wav,Happy,,Good,,,Same speaker
+120.wav,,Neutral,Noisy,,,Similar speaker
+120.wav,Angry,,Bad,,,Similar speaker
+120.wav,Neutral,,,Good,Same speaker,
+120.wav,Angry,,Fair,,,Same speaker
+120.wav,Happy,,Good,,,Hard to say
+121.wav,Neutral,,Good,,,Same speaker
+121.wav,Happy,,,Fair,Same speaker,
+121.wav,Happy,,Good,,,Hard to say
+121.wav,,Happy,,Good,,Same speaker
+121.wav,Happy,,,Fair,Hard to say,
+121.wav,Neutral,,Good,,,Similar speaker
+121.wav,Sad,,Noisy,,,Hard to say
+121.wav,Sad,,Bad,,,Same speaker
+121.wav,Happy,,Noisy,,,Different speakers
+121.wav,,Happy,,Fair,,Same speaker
+122.wav,Neutral,,,Bad,Same speaker,
+122.wav,Sad,,Fair,,,Different speakers
+122.wav,Happy,,Fair,,,Similar speaker
+122.wav,,Angry,,,,Same speaker
+122.wav,,Angry,,Bad,,Same speaker
+122.wav,Happy,,Good,,,Similar speaker
+122.wav,Angry,,Bad,,,Same speaker
+122.wav,Happy,,Bad,,,Hard to say
+122.wav,Happy,,Noisy,,,Hard to say
+122.wav,Neutral,,Bad,,,Same speaker
+123.wav,Angry,,Noisy,,,Hard to say
+123.wav,Happy,,Noisy,,,Hard to say
+123.wav,Neutral,,Good,,,Same speaker
+123.wav,Happy,,Good,,,Similar speaker
+123.wav,Neutral,,Bad,,,Similar speaker
+123.wav,,Angry,,Noisy,,Same speaker
+123.wav,Sad,,Bad,,,Same speaker
+123.wav,,Neutral,Bad,,,Similar speaker
+123.wav,Neutral,,,Bad,Same speaker,
+123.wav,,Neutral,,Noisy,,Hard to say
+124.wav,,Angry,,Bad,,Same speaker
+124.wav,,Happy,Fair,,,Similar speaker
+124.wav,Neutral,,Fair,,,Different speakers
+124.wav,Happy,,Fair,,,Hard to say
+124.wav,Neutral,,,Noisy,Same speaker,
+124.wav,Sad,,Fair,,,Same speaker
+124.wav,Happy,,Noisy,,,Same speaker
+124.wav,Neutral,,Fair,,,Similar speaker
+124.wav,Neutral,,Good,,,Same speaker
+124.wav,Sad,,Fair,,,Hard to say
+125.wav,,Neutral,,Noisy,,Same speaker
+125.wav,Sad,,Bad,,,Same speaker
+125.wav,Happy,,Noisy,,,Similar speaker
+125.wav,Neutral,,Good,,,Similar speaker
+125.wav,Happy,,Fair,,,Different speakers
+125.wav,Sad,,Noisy,,,Similar speaker
+125.wav,Angry,,Bad,,,Same speaker
+125.wav,Neutral,,Noisy,,,Same speaker
+125.wav,Happy,,Good,,,Similar speaker
+125.wav,,Angry,,Bad,Hard to say,
+126.wav,Happy,,Good,,,Similar speaker
+126.wav,Neutral,,Fair,,,Similar speaker
+126.wav,Neutral,,,Fair,Same speaker,
+126.wav,Happy,,Good,,,Same speaker
+126.wav,Neutral,,,Noisy,Hard to say,
+126.wav,Happy,,Noisy,,,Same speaker
+126.wav,Sad,,Bad,,,Hard to say
+126.wav,,Angry,,Good,,Same speaker
+126.wav,Neutral,,Noisy,,,Same speaker
+126.wav,,Neutral,,Fair,,Same speaker
+127.wav,Happy,,Noisy,,,Similar speaker
+127.wav,Happy,,Excellent,,,Same speaker
+127.wav,,Neutral,,Fair,,Same speaker
+127.wav,Happy,,Fair,,,Different speakers
+127.wav,Happy,,,Fair,Same speaker,
+127.wav,,Happy,,Good,,Similar speaker
+127.wav,Neutral,,Noisy,,,Similar speaker
+127.wav,Neutral,,Fair,,,Hard to say
+127.wav,Neutral,,Good,,,Same speaker
+127.wav,Happy,,Fair,,,Similar speaker
+128.wav,Neutral,,,Fair,Same speaker,
+128.wav,Sad,,Good,,,Similar speaker
+128.wav,Sad,,Bad,,,Hard to say
+128.wav,Happy,,Fair,,,Similar speaker
+128.wav,Neutral,,Good,,,Same speaker
+128.wav,,Happy,,Good,,Same speaker
+128.wav,,Neutral,,Good,,Same speaker
+128.wav,Sad,,Bad,,,Same speaker
+128.wav,,Happy,,Good,,Same speaker
+128.wav,Happy,,Good,,,Same speaker
+129.wav,Happy,,Fair,,,Hard to say
+129.wav,Happy,,,Fair,Different speakers,
+129.wav,Neutral,,,Good,Same speaker,
+129.wav,Sad,,Bad,,,Same speaker
+129.wav,,Happy,Good,,,
+129.wav,Happy,,Fair,,,Same speaker
+129.wav,Neutral,,Good,,,Similar speaker
+129.wav,Happy,,Good,,,Similar speaker
+129.wav,,Happy,,Good,,Same speaker
+129.wav,Neutral,,Noisy,,,Same speaker
+130.wav,Neutral,,,Bad,Same speaker,
+130.wav,Neutral,,Good,,,Same speaker
+130.wav,Neutral,,Good,,,Hard to say
+130.wav,Neutral,,,Bad,Same speaker,
+130.wav,,Neutral,,Fair,,Same speaker
+130.wav,Sad,,Noisy,,,Same speaker
+130.wav,Neutral,,Good,,,Similar speaker
+130.wav,Happy,,Good,,,Similar speaker
+130.wav,,Happy,,Fair,Same speaker,
+130.wav,Happy,,,Good,Same speaker,
+131.wav,Neutral,,,Bad,Same speaker,
+131.wav,Sad,,Bad,,,Same speaker
+131.wav,Neutral,,Good,,,Similar speaker
+131.wav,Neutral,,Fair,,,Similar speaker
+131.wav,,Happy,,Good,,Same speaker
+131.wav,Neutral,,,Bad,Same speaker,
+131.wav,Sad,,Fair,,,Same speaker
+131.wav,Neutral,,Bad,,,Same speaker
+131.wav,Neutral,,Good,,,Similar speaker
+131.wav,Neutral,,Good,,,Same speaker
+132.wav,Neutral,,Bad,,,Same speaker
+132.wav,Happy,,Fair,,,Different speakers
+132.wav,,Neutral,,Fair,,Same speaker
+132.wav,,Sad,,Good,,Same speaker
+132.wav,Angry,,Fair,,,Same speaker
+132.wav,Neutral,,Noisy,,,Hard to say
+132.wav,Happy,,,Fair,Same speaker,
+132.wav,Neutral,,Noisy,,,Similar speaker
+132.wav,Happy,,Good,,,Similar speaker
+132.wav,Neutral,,,Fair,Different speakers,
+133.wav,Neutral,,Fair,,,Similar speaker
+133.wav,Neutral,,Bad,,,Same speaker
+133.wav,Happy,,,Good,Same speaker,
+133.wav,Angry,,Bad,,,Different speakers
+133.wav,Happy,,Fair,,,Similar speaker
+133.wav,Neutral,,Fair,,,Hard to say
+133.wav,Neutral,,Noisy,,,Same speaker
+133.wav,Neutral,,Good,,,Different speakers
+133.wav,,Sad,,Bad,,Same speaker
+133.wav,Neutral,,,Bad,Hard to say,
+134.wav,Neutral,,,Bad,Same speaker,
+134.wav,Sad,,Bad,,,Similar speaker
+134.wav,Sad,,Noisy,,,Same speaker
+134.wav,Neutral,,,Good,Similar speaker,
+134.wav,Neutral,,,Fair,Same speaker,
+134.wav,Happy,,Fair,,,Hard to say
+134.wav,Neutral,,,Fair,Same speaker,
+134.wav,Neutral,,Bad,,,Similar speaker
+134.wav,Neutral,,Excellent,,,Similar speaker
+134.wav,,Neutral,,Good,,Same speaker
+135.wav,Neutral,,Bad,,,Same speaker
+135.wav,,Neutral,,Bad,,Same speaker
+135.wav,Sad,,Fair,,,Hard to say
+135.wav,Neutral,,,Fair,Same speaker,
+135.wav,Neutral,,Noisy,,,Same speaker
+135.wav,Happy,,Good,,,Similar speaker
+135.wav,,Happy,Fair,,Same speaker,
+135.wav,Neutral,,,Fair,Same speaker,
+135.wav,,Neutral,,Fair,,Same speaker
+135.wav,Happy,,Fair,,,Hard to say
+136.wav,Neutral,,Good,,,Same speaker
+136.wav,Neutral,,Fair,,,Similar speaker
+136.wav,Neutral,,,Bad,Same speaker,
+136.wav,Sad,,Bad,,,Similar speaker
+136.wav,Happy,,Fair,,,Hard to say
+136.wav,Neutral,,Good,,,Different speakers
+136.wav,Neutral,,,Good,Same speaker,
+136.wav,Neutral,,Noisy,,,Different speakers
+136.wav,Sad,,Bad,,,Hard to say
+136.wav,Neutral,,,Noisy,Hard to say,
+137.wav,Neutral,,,Fair,Same speaker,
+137.wav,Sad,,Bad,,,Same speaker
+137.wav,Neutral,,Noisy,,,Same speaker
+137.wav,,Neutral,Bad,,,Similar speaker
+137.wav,Happy,,Fair,,,Same speaker
+137.wav,,Angry,,Bad,,Same speaker
+137.wav,,Neutral,,Noisy,,Same speaker
+137.wav,Neutral,,Good,,,Hard to say
+137.wav,Neutral,,Noisy,,,Same speaker
+137.wav,Happy,,Fair,,,Hard to say
+138.wav,Neutral,,,Good,Same speaker,
+138.wav,,Happy,Fair,,,Same speaker
+138.wav,Neutral,,Noisy,,,Hard to say
+138.wav,Neutral,,,Fair,Different speakers,
+138.wav,Sad,,Bad,,,Same speaker
+138.wav,Happy,,Fair,,,Same speaker
+138.wav,Happy,,Bad,,,Hard to say
+138.wav,Neutral,,,Bad,Same speaker,
+138.wav,Sad,,Bad,,,Same speaker
+138.wav,Sad,,Bad,,,Same speaker
+139.wav,Neutral,,Fair,,,Same speaker
+139.wav,,Angry,,Bad,,Same speaker
+139.wav,Neutral,,Good,,,Similar speaker
+139.wav,Angry,,Good,,,Similar speaker
+139.wav,Happy,,Fair,,,Hard to say
+139.wav,Neutral,,Fair,,,Hard to say
+139.wav,Neutral,,Noisy,,,Same speaker
+139.wav,Neutral,,Bad,,,Hard to say
+139.wav,Neutral,,,Good,Same speaker,
+139.wav,Neutral,,Good,,,Same speaker
+140.wav,Neutral,,,Good,Same speaker,
+140.wav,Neutral,,Fair,,,Different speakers
+140.wav,Neutral,,Fair,,,Same speaker
+140.wav,Happy,,Noisy,,,Hard to say
+140.wav,Happy,,Good,,,Same speaker
+140.wav,Sad,,Fair,,,Similar speaker
+140.wav,Neutral,,Noisy,,,Similar speaker
+140.wav,Neutral,,,Noisy,Hard to say,
+140.wav,Sad,,Bad,,,Same speaker
+140.wav,Neutral,,Good,,,Same speaker
+141.wav,Neutral,,,Fair,Same speaker,
+141.wav,Happy,,Fair,,,Same speaker
+141.wav,,Angry,,Bad,,Same speaker
+141.wav,Angry,,Bad,,,Hard to say
+141.wav,Happy,,Bad,,,Same speaker
+141.wav,Sad,,Bad,,,Hard to say
+141.wav,Happy,,Fair,,,Similar speaker
+141.wav,Happy,,Fair,,,Similar speaker
+141.wav,Sad,,Bad,,,Similar speaker
+141.wav,Angry,,Noisy,,,Hard to say
+142.wav,Neutral,,Good,,,Similar speaker
+142.wav,Sad,,Fair,,,Same speaker
+142.wav,Happy,,,Bad,Same speaker,
+142.wav,Neutral,,,Noisy,Same speaker,
+142.wav,Sad,,Bad,,,Same speaker
+142.wav,,Neutral,,Noisy,,Similar speaker
+142.wav,Angry,,Good,,,Same speaker
+142.wav,Happy,,Good,,,Similar speaker
+142.wav,Neutral,,Fair,,,Similar speaker
+142.wav,,Neutral,,Bad,,Different speakers
+143.wav,Happy,,Good,,,Same speaker
+143.wav,Sad,,Bad,,,Similar speaker
+143.wav,,Neutral,,Good,,Same speaker
+143.wav,Happy,,Fair,,,Same speaker
+143.wav,Angry,,Bad,,,Same speaker
+143.wav,Neutral,,Fair,,,Same speaker
+143.wav,Neutral,,Fair,,,Same speaker
+143.wav,Neutral,,Fair,,,Same speaker
+143.wav,Neutral,,Good,,,Similar speaker
+143.wav,Neutral,,Noisy,,,Hard to say
+144.wav,Happy,,Fair,,,Same speaker
+144.wav,Happy,,Noisy,,,Hard to say
+144.wav,Happy,,Good,,,Similar speaker
+144.wav,,Angry,,Bad,,Same speaker
+144.wav,Sad,,Fair,,,Different speakers
+144.wav,Neutral,,,Fair,Same speaker,
+144.wav,Neutral,,Bad,,,Same speaker
+144.wav,Sad,,Fair,,,Same speaker
+144.wav,,Angry,,Bad,,Hard to say
+144.wav,Happy,,Good,,,Same speaker
+145.wav,Neutral,,Fair,,,Same speaker
+145.wav,Neutral,,Bad,,,Hard to say
+145.wav,Neutral,,Bad,,,Same speaker
+145.wav,,Neutral,,Bad,,Same speaker
+145.wav,Neutral,,Fair,,,Similar speaker
+145.wav,Sad,,Bad,,,Same speaker
+145.wav,Sad,,Bad,,,Same speaker
+145.wav,Neutral,,,Bad,Same speaker,
+145.wav,Neutral,,Good,,,Same speaker
+145.wav,,Neutral,,Bad,,Same speaker
+146.wav,Happy,,,Fair,Same speaker,
+146.wav,,Happy,,Noisy,,Same speaker
+146.wav,Sad,,Bad,,,Same speaker
+146.wav,Happy,,Good,,,Hard to say
+146.wav,,Happy,,Bad,,Same speaker
+146.wav,,Happy,,Good,,Similar speaker
+146.wav,Happy,,Bad,,,Hard to say
+146.wav,Neutral,,Bad,,,Similar speaker
+146.wav,Neutral,,Fair,,,Similar speaker
+146.wav,Neutral,,Bad,,,Same speaker
+147.wav,Neutral,,Fair,,,Same speaker
+147.wav,,Happy,,Fair,,Same speaker
+147.wav,Sad,,Bad,,,Similar speaker
+147.wav,Happy,,Noisy,,,Hard to say
+147.wav,Happy,,Fair,,,Same speaker
+147.wav,Sad,,Bad,,,Same speaker
+147.wav,,Happy,,Noisy,,Same speaker
+147.wav,Happy,,Noisy,,,Same speaker
+147.wav,Happy,,Bad,,,Similar speaker
+147.wav,Happy,,Fair,,,Same speaker
+148.wav,Sad,,Bad,,,Similar speaker
+148.wav,Happy,,Noisy,,,Similar speaker
+148.wav,Happy,,Fair,,,Similar speaker
+148.wav,,Angry,,Bad,,Same speaker
+148.wav,Sad,,Good,,,Same speaker
+148.wav,Sad,,Bad,,,Same speaker
+148.wav,Neutral,,Noisy,,,Same speaker
+148.wav,Neutral,,,Bad,Same speaker,
+148.wav,Happy,,Fair,,,Similar speaker
+148.wav,Neutral,,Good,,,Same speaker
+149.wav,Neutral,,,Good,Same speaker,
+149.wav,Sad,,Good,,,Same speaker
+149.wav,Angry,,Fair,,,Same speaker
+149.wav,Angry,,Excellent,,,Same speaker
+149.wav,Neutral,,Good,,,Similar speaker
+149.wav,Neutral,,,Good,Same speaker,
+149.wav,Happy,,Fair,,,Hard to say
+149.wav,Sad,,Bad,,,Same speaker
+149.wav,Neutral,,,Bad,Same speaker,
+149.wav,,Happy,,Fair,,Same speaker
+150.wav,,Happy,,Fair,,Same speaker
+150.wav,Happy,,Noisy,,,Similar speaker
+150.wav,Happy,,Good,,,Similar speaker
+150.wav,Happy,,Noisy,,,Similar speaker
+150.wav,,Happy,,Good,,Same speaker
+150.wav,Happy,,,Good,Same speaker,
+150.wav,Angry,,Good,,,Similar speaker
+150.wav,Happy,,Good,,,Similar speaker
+150.wav,,Happy,,Good,,Same speaker
+150.wav,Happy,,Fair,,,Same speaker
+151.wav,Happy,,Noisy,,,Hard to say
+151.wav,Neutral,,Good,,,Similar speaker
+151.wav,Happy,,Fair,,,Hard to say
+151.wav,Neutral,,Fair,,,Same speaker
+151.wav,Happy,,Noisy,,,Same speaker
+151.wav,Happy,,,Bad,Hard to say,
+151.wav,Neutral,,,Bad,Same speaker,
+151.wav,Sad,,Bad,,,Same speaker
+151.wav,Neutral,,,Bad,Same speaker,
+151.wav,Neutral,,,Noisy,Different speakers,
+152.wav,Happy,,Fair,,,Hard to say
+152.wav,Happy,,Fair,,,Different speakers
+152.wav,Happy,,Good,,,Hard to say
+152.wav,Sad,,Fair,,,Hard to say
+152.wav,,,,Fair,,Same speaker
+152.wav,,Sad,,Good,,Same speaker
+152.wav,Happy,,,Fair,,Similar speaker
+152.wav,Happy,,Bad,,,Similar speaker
+152.wav,,Happy,,Good,,Same speaker
+152.wav,Neutral,,,Bad,Same speaker,
+153.wav,Neutral,,,Good,,Different speakers
+153.wav,Happy,,Noisy,,,Similar speaker
+153.wav,Happy,,Good,,,Same speaker
+153.wav,Neutral,,Noisy,,,Hard to say
+153.wav,Neutral,,,Fair,Hard to say,
+153.wav,Neutral,,Good,,,Same speaker
+153.wav,Neutral,,Good,,,Same speaker
+153.wav,Happy,,Fair,,,Similar speaker
+153.wav,,Neutral,,Excellent,,Same speaker
+153.wav,,Happy,Noisy,,,Similar speaker
+154.wav,,Neutral,,Fair,,Hard to say
+154.wav,Happy,,,Fair,Same speaker,
+154.wav,Angry,,Good,,,Same speaker
+154.wav,Sad,,Fair,,,Hard to say
+154.wav,Angry,,Good,,,Same speaker
+154.wav,Neutral,,Fair,,,Same speaker
+154.wav,Neutral,,Bad,,,Same speaker
+154.wav,,Neutral,,Good,,Same speaker
+154.wav,Happy,,Good,,,Similar speaker
+154.wav,,Neutral,,Bad,,Same speaker
+155.wav,,Happy,,Good,,Same speaker
+155.wav,Happy,,,Excellent,Same speaker,
+155.wav,Sad,,Bad,,,Same speaker
+155.wav,Neutral,,Good,,,Same speaker
+155.wav,Happy,,Good,,,Same speaker
+155.wav,,Neutral,Bad,,,Hard to say
+155.wav,Sad,,Fair,,,Similar speaker
+155.wav,Neutral,,Good,,,Same speaker
+155.wav,Angry,,Excellent,,,Same speaker
+155.wav,Neutral,,,Fair,Same speaker,
+156.wav,Angry,,Noisy,,,Same speaker
+156.wav,Neutral,,Good,,,Similar speaker
+156.wav,Happy,,Noisy,,,Hard to say
+156.wav,,Neutral,,Good,,Same speaker
+156.wav,Happy,,Good,,,Similar speaker
+156.wav,Neutral,,,Bad,Different speakers,
+156.wav,Neutral,,,Fair,Same speaker,
+156.wav,Neutral,,Good,,,Hard to say
+156.wav,Neutral,,Fair,,,Similar speaker
+156.wav,Neutral,,Bad,,,Similar speaker
+157.wav,Happy,,Noisy,,,Hard to say
+157.wav,Neutral,,Good,,,Similar speaker
+157.wav,Sad,,Fair,,,Same speaker
+157.wav,Happy,,Excellent,,,Same speaker
+157.wav,,Sad,,Fair,,Same speaker
+157.wav,Neutral,,Good,,,Similar speaker
+157.wav,,Sad,,Bad,,Same speaker
+157.wav,Sad,,,Bad,Same speaker,
+157.wav,,Neutral,,Fair,,Different speakers
+157.wav,,Sad,Bad,,Different speakers,
+158.wav,Neutral,,Good,,,Hard to say
+158.wav,Happy,,Fair,,,Hard to say
+158.wav,Sad,,Bad,,,Similar speaker
+158.wav,Happy,,Fair,,,Same speaker
+158.wav,Neutral,,Bad,,,Same speaker
+158.wav,Angry,,Noisy,,,Same speaker
+158.wav,Neutral,,Good,,,Similar speaker
+158.wav,Sad,,Fair,,,Same speaker
+158.wav,Sad,,Good,,,Similar speaker
+158.wav,Angry,,,Good,Same speaker,
+159.wav,Neutral,,,Fair,Same speaker,
+159.wav,Neutral,,Bad,,,Similar speaker
+159.wav,,Sad,,Noisy,,Hard to say
+159.wav,Neutral,,,Fair,Same speaker,
+159.wav,Neutral,,Good,,,Same speaker
+159.wav,Neutral,,,Fair,Different speakers,
+159.wav,,Happy,,Good,,Similar speaker
+159.wav,,Sad,,Bad,,Same speaker
+159.wav,Neutral,,Fair,,,Different speakers
+159.wav,Neutral,,Fair,,,Hard to say
+160.wav,Neutral,,Good,,,Similar speaker
+160.wav,Sad,,Bad,,,Hard to say
+160.wav,,Neutral,,Good,,Same speaker
+160.wav,Neutral,,,Excellent,Same speaker,
+160.wav,Sad,,Good,,,Similar speaker
+160.wav,Happy,,Good,,,Same speaker
+160.wav,Sad,,Good,,,Similar speaker
+160.wav,,Sad,Fair,,,Different speakers
+160.wav,Neutral,,Good,,,Similar speaker
+160.wav,,Sad,Fair,,,Different speakers
+161.wav,Neutral,,,Fair,Same speaker,
+161.wav,Happy,,Fair,,,Similar speaker
+161.wav,Angry,,Good,,,Same speaker
+161.wav,,Happy,Fair,,Hard to say,
+161.wav,Neutral,,Good,,,Different speakers
+161.wav,,Sad,,Fair,,Same speaker
+161.wav,Neutral,,,Good,Same speaker,
+161.wav,Happy,,Good,,,Same speaker
+161.wav,,Neutral,Good,,,Similar speaker
+161.wav,Neutral,,Excellent,,,Same speaker
+162.wav,Angry,,Good,,,Same speaker
+162.wav,Neutral,,Noisy,,,Hard to say
+162.wav,Happy,,Good,,,Same speaker
+162.wav,,Happy,,Excellent,,Same speaker
+162.wav,Happy,,Noisy,,,Similar speaker
+162.wav,Neutral,,Noisy,,,Same speaker
+162.wav,Neutral,,,Good,Same speaker,
+162.wav,Sad,,Bad,,,Same speaker
+162.wav,Neutral,,Fair,,,Same speaker
+162.wav,Neutral,,,Good,Same speaker,
+163.wav,Neutral,,Fair,,,Same speaker
+163.wav,Neutral,,,Bad,Same speaker,
+163.wav,Neutral,,Good,,,Similar speaker
+163.wav,Happy,,Fair,,,Same speaker
+163.wav,,Neutral,Good,,,Same speaker
+163.wav,Sad,,Bad,,,Hard to say
+163.wav,,Happy,,Good,,Same speaker
+163.wav,Happy,,Fair,,,Similar speaker
+163.wav,Neutral,,Good,,,Same speaker
+163.wav,Happy,,Fair,,,Similar speaker
+164.wav,Happy,,Fair,,,Similar speaker
+164.wav,,Neutral,,Bad,,Hard to say
+164.wav,Neutral,,Bad,,,Similar speaker
+164.wav,,Neutral,,Bad,,Hard to say
+164.wav,Happy,,Good,,,Similar speaker
+164.wav,Neutral,,Noisy,,,Hard to say
+164.wav,,Neutral,Excellent,,,Similar speaker
+164.wav,Neutral,,Bad,,,Same speaker
+164.wav,Sad,,Fair,,,Same speaker
+164.wav,Neutral,,,Fair,Same speaker,
+165.wav,,Neutral,,Fair,,Same speaker
+165.wav,Neutral,,Good,,,Similar speaker
+165.wav,Neutral,,Fair,,,Same speaker
+165.wav,Happy,,Fair,,,Same speaker
+165.wav,Happy,,,Good,Same speaker,
+165.wav,,Sad,,Noisy,,Hard to say
+165.wav,Neutral,,Noisy,,,Same speaker
+165.wav,Neutral,,Excellent,,,Same speaker
+165.wav,,Sad,,Good,,Same speaker
+165.wav,Happy,,Good,,,Hard to say
+166.wav,,Neutral,,Fair,,Same speaker
+166.wav,Sad,,Good,,,Same speaker
+166.wav,Neutral,,Good,,,Similar speaker
+166.wav,,Sad,,Fair,,Same speaker
+166.wav,Neutral,,,Fair,Same speaker,
+166.wav,Happy,,Bad,,,Same speaker
+166.wav,Neutral,,Fair,,,Same speaker
+166.wav,Neutral,,,Bad,Same speaker,
+166.wav,Sad,,Bad,,,Same speaker
+166.wav,Neutral,,Good,,,Similar speaker
+167.wav,Happy,,Fair,,,Similar speaker
+167.wav,Neutral,,Noisy,,,Same speaker
+167.wav,Sad,,Bad,,,Similar speaker
+167.wav,Neutral,,Noisy,,,Same speaker
+167.wav,Neutral,,,Fair,Same speaker,
+167.wav,Neutral,,Noisy,,,Hard to say
+167.wav,Happy,,,Good,Hard to say,
+167.wav,Neutral,,Fair,,,Same speaker
+167.wav,,Sad,,Good,,Same speaker
+167.wav,Neutral,,Noisy,,,Hard to say
+168.wav,Happy,,Fair,,,Similar speaker
+168.wav,Happy,,Noisy,,,Same speaker
+168.wav,,Happy,Fair,,,Similar speaker
+168.wav,Sad,,Noisy,,,Similar speaker
+168.wav,Neutral,,Fair,,,Same speaker
+168.wav,Sad,,Bad,,,Hard to say
+168.wav,Neutral,,,Good,Same speaker,
+168.wav,Neutral,,Good,,,Same speaker
+168.wav,Sad,,Fair,,,Similar speaker
+168.wav,,Neutral,,Excellent,,Same speaker
+169.wav,,Happy,,Noisy,,Similar speaker
+169.wav,,Neutral,,Bad,,Same speaker
+169.wav,Neutral,,Fair,,,Same speaker
+169.wav,Happy,,Fair,,,Similar speaker
+169.wav,Neutral,,Good,,,Same speaker
+169.wav,Neutral,,Noisy,,,Same speaker
+169.wav,Neutral,,Fair,,,Similar speaker
+169.wav,Sad,,Bad,,,Same speaker
+169.wav,Neutral,,Fair,,,Hard to say
+169.wav,Neutral,,Good,,,Same speaker
+170.wav,,Neutral,,Fair,,Same speaker
+170.wav,Happy,,Good,,,Hard to say
+170.wav,Neutral,,,Bad,Same speaker,
+170.wav,Happy,,Good,,,Similar speaker
+170.wav,Sad,,Bad,,,Hard to say
+170.wav,Neutral,,Noisy,,,Same speaker
+170.wav,Happy,,Fair,,,Similar speaker
+170.wav,Neutral,,Bad,,,Hard to say
+170.wav,Sad,,Fair,,,Same speaker
+170.wav,Neutral,,,Bad,Same speaker,
+171.wav,Neutral,,,Bad,Hard to say,
+171.wav,Neutral,,Noisy,,,Different speakers
+171.wav,Neutral,,Fair,,,Similar speaker
+171.wav,Sad,,Bad,,,Same speaker
+171.wav,,Sad,,Fair,,Same speaker
+171.wav,Neutral,,,Noisy,Same speaker,
+171.wav,Sad,,Fair,,,Same speaker
+171.wav,Neutral,,Good,,,Different speakers
+171.wav,Sad,,Good,,,Same speaker
+171.wav,Sad,,Fair,,,Hard to say
+172.wav,Sad,,Bad,,,Hard to say
+172.wav,Sad,,Bad,,,Same speaker
+172.wav,Neutral,,Bad,,,Same speaker
+172.wav,Happy,,Good,,,Similar speaker
+172.wav,Neutral,,Fair,,,Same speaker
+172.wav,,Sad,,Bad,Same speaker,
+172.wav,Neutral,,Good,,,Similar speaker
+172.wav,Sad,,Fair,,,Hard to say
+172.wav,,Neutral,,Noisy,,Similar speaker
+172.wav,Neutral,,,Bad,Same speaker,
+173.wav,,Neutral,Good,,,Same speaker
+173.wav,Neutral,,Fair,,,Hard to say
+173.wav,Neutral,,Fair,,,Same speaker
+173.wav,Neutral,,Fair,,,Same speaker
+173.wav,Neutral,,,Good,Hard to say,
+173.wav,Sad,,Bad,,,Same speaker
+173.wav,Neutral,,,Good,Hard to say,
+173.wav,Sad,,,Noisy,Same speaker,
+173.wav,Neutral,,Noisy,,,Different speakers
+173.wav,Neutral,,,Bad,Same speaker,
+174.wav,Sad,,Fair,,,Hard to say
+174.wav,Neutral,,Good,,,Same speaker
+174.wav,Sad,,Noisy,,,Different speakers
+174.wav,Neutral,,,Good,Same speaker,
+174.wav,,Neutral,,Good,,Same speaker
+174.wav,Angry,,Noisy,,,Hard to say
+174.wav,,Neutral,,Fair,,Same speaker
+174.wav,Sad,,Good,,,Similar speaker
+174.wav,Neutral,,Bad,,,Hard to say
+174.wav,Angry,,Fair,,,Similar speaker
+175.wav,,Neutral,Fair,,,Same speaker
+175.wav,Neutral,,Noisy,,,Same speaker
+175.wav,Happy,,Fair,,,Similar speaker
+175.wav,Neutral,,Good,,,Same speaker
+175.wav,Happy,,Noisy,,,Similar speaker
+175.wav,Angry,,Bad,,,Similar speaker
+175.wav,,Neutral,,,,Same speaker
+175.wav,Neutral,,Fair,,,Hard to say
+175.wav,Neutral,,,Noisy,Same speaker,
+175.wav,Neutral,,Good,,,Same speaker
+176.wav,Sad,,Fair,,,Different speakers
+176.wav,Sad,,,Bad,Similar speaker,
+176.wav,Neutral,,Bad,,,Similar speaker
+176.wav,Neutral,,,Bad,Same speaker,
+176.wav,Sad,,,Fair,Same speaker,
+176.wav,Neutral,,Good,,,Similar speaker
+176.wav,Sad,,Bad,,,Same speaker
+176.wav,Sad,,Bad,,,Same speaker
+176.wav,Neutral,,Noisy,,,Hard to say
+176.wav,,Neutral,,Bad,,Same speaker
+177.wav,Neutral,,,Good,Same speaker,
+177.wav,Happy,,Good,,,Same speaker
+177.wav,Neutral,,,Good,Same speaker,
+177.wav,Happy,,Good,,,Similar speaker
+177.wav,,Neutral,,Noisy,,Same speaker
+177.wav,Neutral,,Fair,,,Same speaker
+177.wav,,Sad,,Good,,Same speaker
+177.wav,,Neutral,,Fair,,Same speaker
+177.wav,Neutral,,Good,,,Same speaker
+177.wav,Happy,,Good,,,Similar speaker
+178.wav,Happy,,Fair,,,Same speaker
+178.wav,Happy,,Noisy,,,Similar speaker
+178.wav,Happy,,,Bad,Hard to say,
+178.wav,,Neutral,,Fair,,Same speaker
+178.wav,Neutral,,Fair,,,Similar speaker
+178.wav,Happy,,Noisy,,,Hard to say
+178.wav,Happy,,Excellent,,,Same speaker
+178.wav,Angry,,Noisy,,,Similar speaker
+178.wav,Happy,,Noisy,,,Same speaker
+178.wav,Neutral,,Excellent,,,Different speakers
+179.wav,Sad,,Good,,,Similar speaker
+179.wav,Neutral,,Noisy,,,Hard to say
+179.wav,Neutral,,Bad,,,Same speaker
+179.wav,Neutral,,Bad,,,Same speaker
+179.wav,,Neutral,,Fair,,Same speaker
+179.wav,,Happy,Fair,,,Similar speaker
+179.wav,Happy,,,Good,Same speaker,
+179.wav,Neutral,,,Bad,Hard to say,
+179.wav,,Neutral,,Noisy,Hard to say,
+179.wav,,Angry,,Noisy,,Same speaker
+180.wav,Sad,,Bad,,,Same speaker
+180.wav,Neutral,,Excellent,,,Same speaker
+180.wav,Neutral,,Good,,,Same speaker
+180.wav,,Happy,Bad,,,Similar speaker
+180.wav,,Happy,,Good,,Different speakers
+180.wav,Happy,,Good,,,Same speaker
+180.wav,Happy,,Fair,,,Hard to say
+180.wav,Happy,,,Excellent,Same speaker,
+180.wav,Happy,,Good,,,Same speaker
+180.wav,Neutral,,Good,,,Similar speaker
+181.wav,Happy,,Excellent,,,Same speaker
+181.wav,Neutral,,Good,,,Same speaker
+181.wav,,Neutral,,Good,,Same speaker
+181.wav,Angry,,Noisy,,,Different speakers
+181.wav,Neutral,,Good,,,Similar speaker
+181.wav,Happy,,,Fair,Hard to say,
+181.wav,Neutral,,Excellent,,,Same speaker
+181.wav,,Angry,,Noisy,,Same speaker
+181.wav,Happy,,Fair,,,Hard to say
+181.wav,Angry,,Good,,,Same speaker
+182.wav,Neutral,,Excellent,,,Same speaker
+182.wav,Happy,,Fair,,,Hard to say
+182.wav,Neutral,,Good,,,Similar speaker
+182.wav,Angry,,Fair,,,Same speaker
+182.wav,Angry,,,Excellent,Same speaker,
+182.wav,Neutral,,Good,,,Same speaker
+182.wav,Angry,,Fair,,,Same speaker
+182.wav,Sad,,Good,,,Similar speaker
+182.wav,Happy,,Bad,,,Hard to say
+182.wav,,Angry,,Good,,Same speaker
+183.wav,Happy,,Fair,,,Similar speaker
+183.wav,Neutral,,Bad,,,Hard to say
+183.wav,,Sad,,Bad,,Different speakers
+183.wav,,Neutral,,Fair,,Same speaker
+183.wav,Happy,,Good,,,Similar speaker
+183.wav,Angry,,Noisy,,,Same speaker
+183.wav,,Angry,,Noisy,Similar speaker,
+183.wav,Neutral,,,Good,Same speaker,
+183.wav,Angry,,Good,,,Same speaker
+183.wav,Neutral,,Good,,,Similar speaker
+184.wav,Neutral,,Excellent,,,Same speaker
+184.wav,Happy,,Good,,,Hard to say
+184.wav,,Neutral,Good,,,Different speakers
+184.wav,Happy,,Good,,,Same speaker
+184.wav,Neutral,,Fair,,,Similar speaker
+184.wav,Neutral,,,Good,Same speaker,
+184.wav,Happy,,Fair,,,Same speaker
+184.wav,Neutral,,Fair,,,Same speaker
+184.wav,Neutral,,Fair,,,Same speaker
+184.wav,Neutral,,Excellent,,,Same speaker
+185.wav,Neutral,,Bad,,,Similar speaker
+185.wav,,Happy,,Excellent,,Same speaker
+185.wav,Sad,,Fair,,,Same speaker
+185.wav,,Happy,,Noisy,,Same speaker
+185.wav,Neutral,,Fair,,,Same speaker
+185.wav,Happy,,,Bad,Different speakers,
+185.wav,Happy,,,Fair,Same speaker,
+185.wav,Happy,,Good,,,Similar speaker
+185.wav,Sad,,Fair,,,Hard to say
+185.wav,Angry,,Noisy,,,Hard to say
+186.wav,Sad,,Good,,,Same speaker
+186.wav,Angry,,Noisy,,,Same speaker
+186.wav,Sad,,Fair,,,Similar speaker
+186.wav,Happy,,Fair,,,Similar speaker
+186.wav,Happy,,,Good,Same speaker,
+186.wav,Sad,,Fair,,,Same speaker
+186.wav,Sad,,Fair,,,Hard to say
+186.wav,,Neutral,Fair,,,Similar speaker
+186.wav,Happy,,Fair,,,Similar speaker
+186.wav,Sad,,Good,,,Same speaker
+187.wav,Happy,,Good,,,Similar speaker
+187.wav,,Sad,,Good,,Similar speaker
+187.wav,Happy,,,Excellent,Same speaker,
+187.wav,,Angry,,Noisy,,Same speaker
+187.wav,Neutral,,,,,Similar speaker
+187.wav,,Sad,Fair,,,Same speaker
+187.wav,Sad,,Noisy,,,Similar speaker
+187.wav,Neutral,,Good,,,Same speaker
+187.wav,Happy,,Good,,,Hard to say
+187.wav,Angry,,,Fair,Different speakers,
+188.wav,Angry,,Good,,,Hard to say
+188.wav,Neutral,,Good,,,Different speakers
+188.wav,Sad,,Bad,,,Same speaker
+188.wav,Happy,,,Fair,Same speaker,
+188.wav,,Neutral,,,Different speakers,
+188.wav,Happy,,Good,,,Same speaker
+188.wav,Neutral,,Noisy,,,Same speaker
+188.wav,,Sad,,Fair,,Same speaker
+188.wav,,Happy,Good,,Different speakers,
+188.wav,Happy,,Fair,,,Hard to say
+189.wav,Sad,,Bad,,,Similar speaker
+189.wav,Neutral,,Bad,,,Same speaker
+189.wav,Neutral,,,Bad,Same speaker,
+189.wav,Happy,,Fair,,,Hard to say
+189.wav,Neutral,,,Fair,Hard to say,
+189.wav,Angry,,Fair,,,Same speaker
+189.wav,,Neutral,Good,,Same speaker,
+189.wav,Neutral,,Good,,,Hard to say
+189.wav,Neutral,,Good,,,Similar speaker
+189.wav,Neutral,,Bad,,,Different speakers
+190.wav,Neutral,,Noisy,,,Same speaker
+190.wav,Neutral,,,Noisy,Same speaker,
+190.wav,Neutral,,Noisy,,,Hard to say
+190.wav,Sad,,Good,,,Same speaker
+190.wav,,Angry,Noisy,,,Same speaker
+190.wav,Happy,,Fair,,,Similar speaker
+190.wav,Neutral,,Bad,,,Same speaker
+190.wav,,Sad,,Bad,,Same speaker
+190.wav,Neutral,,Good,,,Similar speaker
+190.wav,Neutral,,,Fair,Hard to say,
+191.wav,Neutral,,Bad,,,Hard to say
+191.wav,Neutral,,,Fair,Same speaker,
+191.wav,,Sad,,Good,,Same speaker
+191.wav,Sad,,Noisy,,,Same speaker
+191.wav,Angry,,Good,,,Hard to say
+191.wav,Happy,,Good,,,Similar speaker
+191.wav,Neutral,,Bad,,,Different speakers
+191.wav,Neutral,,,Fair,Hard to say,
+191.wav,Sad,,Noisy,,,Hard to say
+191.wav,Angry,,Noisy,,,Similar speaker
+192.wav,,Sad,,Bad,,Same speaker
+192.wav,Neutral,,,Excellent,Same speaker,
+192.wav,Sad,,Bad,,,Same speaker
+192.wav,Neutral,,,Fair,Similar speaker,
+192.wav,Sad,,Bad,,,Similar speaker
+192.wav,Neutral,,Good,,,Similar speaker
+192.wav,Happy,,Noisy,,,Similar speaker
+192.wav,Neutral,,Fair,,,Same speaker
+192.wav,Neutral,,Bad,,,Similar speaker
+192.wav,Neutral,,Noisy,,,Hard to say
+193.wav,Neutral,,,Fair,Same speaker,
+193.wav,Neutral,,Bad,,,Hard to say
+193.wav,,Neutral,Good,,,Similar speaker
+193.wav,Neutral,,Fair,,,Similar speaker
+193.wav,Sad,,Fair,,,Different speakers
+193.wav,Neutral,,Fair,,,Same speaker
+193.wav,Neutral,,,Good,Same speaker,
+193.wav,,Sad,,Bad,,Same speaker
+193.wav,,Sad,,Good,,Same speaker
+193.wav,Neutral,,Fair,,,Hard to say
+194.wav,Neutral,,Good,,,Same speaker
+194.wav,Happy,,,Good,Same speaker,
+194.wav,Neutral,,Good,,,Same speaker
+194.wav,,Happy,,Noisy,,Different speakers
+194.wav,Neutral,,Excellent,,,Same speaker
+194.wav,Neutral,,,Fair,Hard to say,
+194.wav,,Angry,,Fair,,Same speaker
+194.wav,Sad,,Good,,,Similar speaker
+194.wav,Neutral,,Bad,,,Hard to say
+194.wav,,Neutral,,Excellent,,Same speaker
+195.wav,Neutral,,,Fair,Hard to say,
+195.wav,Neutral,,,Fair,Hard to say,
+195.wav,Happy,,Excellent,,,Similar speaker
+195.wav,Neutral,,Fair,,,Same speaker
+195.wav,Happy,,Excellent,,,Same speaker
+195.wav,,Neutral,,Good,,Different speakers
+195.wav,Angry,,Bad,,,Similar speaker
+195.wav,Angry,,Good,,,Different speakers
+195.wav,,Neutral,,Excellent,,Same speaker
+195.wav,Neutral,,Good,,,Same speaker
+196.wav,Happy,,Good,,,Different speakers
+196.wav,Neutral,,Noisy,,,Different speakers
+196.wav,Neutral,,,Good,Same speaker,
+196.wav,Happy,,Noisy,,,Hard to say
+196.wav,Neutral,,,Fair,Hard to say,
+196.wav,Neutral,,Fair,,,Same speaker
+196.wav,Happy,,Fair,,,Similar speaker
+196.wav,Neutral,,Good,,,Similar speaker
+196.wav,Neutral,,,Excellent,Same speaker,
+196.wav,Neutral,,Fair,,,Same speaker
+197.wav,Sad,,Bad,,,Same speaker
+197.wav,Neutral,,Bad,,,Hard to say
+197.wav,,Neutral,,Good,,Same speaker
+197.wav,Sad,,Fair,,,Same speaker
+197.wav,Sad,,Bad,,,Similar speaker
+197.wav,Happy,,Bad,,,Similar speaker
+197.wav,Neutral,,Excellent,,,Different speakers
+197.wav,Neutral,,,Bad,Hard to say,
+197.wav,Neutral,,Bad,,,Same speaker
+197.wav,,Neutral,,Bad,,Hard to say
+198.wav,Neutral,,Noisy,,,Same speaker
+198.wav,Happy,,Fair,,,Similar speaker
+198.wav,,Neutral,,Noisy,,Hard to say
+198.wav,Neutral,,,Fair,Same speaker,
+198.wav,Neutral,,Noisy,,,Same speaker
+198.wav,Neutral,,,Noisy,Hard to say,
+198.wav,,Sad,,Bad,,Same speaker
+198.wav,Angry,,Bad,,,Same speaker
+198.wav,,Neutral,,Bad,,Different speakers
+198.wav,Neutral,,Good,,,Similar speaker
+199.wav,Sad,,Bad,,,Same speaker
+199.wav,Neutral,,,Bad,Hard to say,
+199.wav,,Sad,,Good,,Same speaker
+199.wav,Neutral,,,Bad,Same speaker,
+199.wav,Happy,,Noisy,,,Hard to say
+199.wav,,Happy,,Good,,Same speaker
+199.wav,Neutral,,Fair,,,Hard to say
+199.wav,Neutral,,Fair,,,Similar speaker
+199.wav,Sad,,Bad,,,Similar speaker
+199.wav,Neutral,,Fair,,,Hard to say
+200.wav,Sad,,Bad,,,Similar speaker
+200.wav,Neutral,,,Fair,Same speaker,
+200.wav,Neutral,,Fair,,,Hard to say
+200.wav,Neutral,,Fair,,,Similar speaker
+200.wav,,Neutral,,Bad,Hard to say,
+200.wav,,Neutral,Good,,Same speaker,
+200.wav,,Neutral,,Bad,,Same speaker
+200.wav,Neutral,,Noisy,,,Same speaker
+200.wav,,Angry,Good,,,Same speaker
+200.wav,,Sad,,Bad,,Same speaker
+201.wav,Neutral,,Noisy,,,Similar speaker
+201.wav,Neutral,,Good,,,Same speaker
+201.wav,,Sad,,Bad,,Same speaker
+201.wav,Neutral,,,Fair,Same speaker,
+201.wav,Sad,,Bad,,,Same speaker
+201.wav,Sad,,Bad,,,Similar speaker
+201.wav,,Sad,,Fair,,Same speaker
+201.wav,Happy,,Good,,,Similar speaker
+201.wav,Sad,,Noisy,,,Same speaker
+201.wav,Sad,,Noisy,,,Same speaker
+202.wav,Neutral,,Bad,,,Different speakers
+202.wav,Neutral,,Fair,,,Hard to say
+202.wav,Neutral,,Good,,,Similar speaker
+202.wav,Sad,,Bad,,,Similar speaker
+202.wav,Neutral,,Fair,,,Similar speaker
+202.wav,,Neutral,,Noisy,Different speakers,
+202.wav,Neutral,,,Bad,Same speaker,
+202.wav,Neutral,,Bad,,,Same speaker
+202.wav,Sad,,Bad,,,Same speaker
+202.wav,Neutral,,Fair,,,Same speaker
+203.wav,Happy,,Fair,,,Similar speaker
+203.wav,Neutral,,,Bad,Same speaker,
+203.wav,Neutral,,Fair,,,Same speaker
+203.wav,Neutral,,,Fair,Different speakers,
+203.wav,,Neutral,,Good,,Same speaker
+203.wav,Neutral,,Good,,,Same speaker
+203.wav,Sad,,Bad,,,Same speaker
+203.wav,,Neutral,,Fair,,Same speaker
+203.wav,,Sad,Fair,,,Different speakers
+203.wav,,Neutral,,,,Hard to say
+204.wav,Neutral,,Noisy,,,Same speaker
+204.wav,Sad,,Fair,,,Hard to say
+204.wav,Sad,,Noisy,,,Same speaker
+204.wav,Neutral,,,Noisy,Different speakers,
+204.wav,Happy,,Good,,,Hard to say
+204.wav,Neutral,,Good,,,Same speaker
+204.wav,Neutral,,Good,,,Same speaker
+204.wav,Neutral,,,Fair,Same speaker,
+204.wav,Sad,,Fair,,,Same speaker
+204.wav,,Neutral,,Fair,,Same speaker
+205.wav,Happy,,Fair,,,Similar speaker
+205.wav,Happy,,Fair,,,Similar speaker
+205.wav,Neutral,,,Fair,Same speaker,
+205.wav,,Happy,Fair,,,Hard to say
+205.wav,Sad,,,Noisy,,Hard to say
+205.wav,,Sad,,Bad,,Same speaker
+205.wav,Sad,,Good,,,Same speaker
+205.wav,Happy,,,Fair,Hard to say,
+205.wav,Sad,,Fair,,,Same speaker
+205.wav,,Happy,,Good,,Same speaker
+206.wav,Neutral,,Noisy,,,Hard to say
+206.wav,,Happy,,Good,,Same speaker
+206.wav,Neutral,,,Good,Same speaker,
+206.wav,,Neutral,Fair,,Similar speaker,
+206.wav,Happy,,Fair,,,Same speaker
+206.wav,Happy,,Fair,,,Hard to say
+206.wav,Neutral,,Bad,,,Same speaker
+206.wav,Happy,,Good,,,Similar speaker
+206.wav,Neutral,,Noisy,,,Hard to say
+206.wav,Happy,,Fair,,,Similar speaker
+207.wav,Neutral,,,Bad,Same speaker,
+207.wav,Neutral,,Fair,,,Similar speaker
+207.wav,Neutral,,Noisy,,,Similar speaker
+207.wav,Sad,,Bad,,,Same speaker
+207.wav,,Neutral,,Bad,,Same speaker
+207.wav,,Angry,,Noisy,,Hard to say
+207.wav,Neutral,,Good,,,Similar speaker
+207.wav,Sad,,,Noisy,Same speaker,
+207.wav,Neutral,,Good,,,Similar speaker
+207.wav,Neutral,,Bad,,,Same speaker
+208.wav,,Neutral,,Good,,Same speaker
+208.wav,Happy,,Fair,,,Similar speaker
+208.wav,Neutral,,Fair,,,Same speaker
+208.wav,Happy,,Fair,,,Hard to say
+208.wav,Happy,,Fair,,,Hard to say
+208.wav,Happy,,Noisy,,,Different speakers
+208.wav,Happy,,,Fair,Hard to say,
+208.wav,Sad,,Good,,,Similar speaker
+208.wav,,Neutral,,Fair,Similar speaker,
+208.wav,,Neutral,,Bad,,Same speaker
+209.wav,Sad,,Fair,,,Same speaker
+209.wav,Happy,,Good,,,Similar speaker
+209.wav,,Happy,,Good,,Same speaker
+209.wav,,Neutral,,Noisy,,Similar speaker
+209.wav,Sad,,Good,,,Same speaker
+209.wav,Neutral,,Fair,,,Same speaker
+209.wav,Neutral,,Bad,,,Same speaker
+209.wav,,Sad,Fair,,,Same speaker
+209.wav,Sad,,Noisy,,,Different speakers
+209.wav,,Sad,,Good,,Same speaker
+210.wav,Neutral,,Good,,,Same speaker
+210.wav,Neutral,,Bad,,,Same speaker
+210.wav,,Sad,Good,,,Same speaker
+210.wav,Sad,,Fair,,,Same speaker
+210.wav,Happy,,Noisy,,,Similar speaker
+210.wav,Neutral,,Bad,,,Different speakers
+210.wav,Neutral,,Noisy,,,Hard to say
+210.wav,Sad,,Bad,,,Same speaker
+210.wav,,Happy,Good,,Same speaker,
+210.wav,Neutral,,Fair,,,Different speakers
+211.wav,Neutral,,Excellent,,,Same speaker
+211.wav,Happy,,,Fair,Same speaker,
+211.wav,Neutral,,Fair,,,Similar speaker
+211.wav,Neutral,,Good,,,Same speaker
+211.wav,Sad,,Bad,,,Hard to say
+211.wav,Neutral,,Fair,,,Same speaker
+211.wav,Neutral,,Good,,,Similar speaker
+211.wav,Sad,,Bad,,,Same speaker
+211.wav,,Neutral,,Fair,,Same speaker
+211.wav,Neutral,,Good,,,Same speaker
+212.wav,Happy,,Fair,,,Same speaker
+212.wav,Sad,,Good,,,Same speaker
+212.wav,Sad,,,Fair,Same speaker,
+212.wav,Neutral,,Good,,,Same speaker
+212.wav,Neutral,,Fair,,,Same speaker
+212.wav,,Neutral,,Good,,Same speaker
+212.wav,Neutral,,Fair,,,Similar speaker
+212.wav,Happy,,Fair,,,Similar speaker
+212.wav,Happy,,Good,,,Same speaker
+212.wav,Sad,,,Fair,Similar speaker,
+213.wav,,Sad,,Bad,,Hard to say
+213.wav,Neutral,,Good,,,Similar speaker
+213.wav,,Neutral,,Good,,Hard to say
+213.wav,Neutral,,Bad,,,Same speaker
+213.wav,,Sad,Fair,,Same speaker,
+213.wav,Sad,,Noisy,,,Same speaker
+213.wav,Sad,,Fair,,,Same speaker
+213.wav,Neutral,,Fair,,,Similar speaker
+213.wav,Sad,,Bad,,,Same speaker
+213.wav,Neutral,,,Good,Same speaker,
+214.wav,Neutral,,Bad,,,Different speakers
+214.wav,Neutral,,Bad,,,Similar speaker
+214.wav,Sad,,Bad,,,Same speaker
+214.wav,Neutral,,Bad,,,Same speaker
+214.wav,Neutral,,Bad,,,Same speaker
+214.wav,Neutral,,Noisy,,,Same speaker
+214.wav,Happy,,Good,,,Hard to say
+214.wav,Neutral,,,Good,Same speaker,
+214.wav,,Neutral,,Fair,,Same speaker
+214.wav,Neutral,,Good,,,Hard to say
+215.wav,Neutral,,Bad,,,Same speaker
+215.wav,Happy,,Good,,,Similar speaker
+215.wav,Neutral,,Fair,,,Same speaker
+215.wav,,Sad,,Noisy,,Hard to say
+215.wav,Neutral,,Bad,,,Hard to say
+215.wav,Happy,,,Fair,Hard to say,
+215.wav,Sad,,Noisy,,,Same speaker
+215.wav,Neutral,,,Fair,Same speaker,
+215.wav,Happy,,Noisy,,,Hard to say
+215.wav,,Happy,Fair,,,Hard to say
+216.wav,Happy,,Fair,,,Hard to say
+216.wav,Neutral,,Fair,,,Different speakers
+216.wav,Neutral,,,Good,Same speaker,
+216.wav,,Sad,,Good,,Same speaker
+216.wav,Neutral,,Noisy,,,Same speaker
+216.wav,,Happy,Noisy,,,Hard to say
+216.wav,Happy,,Fair,,,Similar speaker
+216.wav,Neutral,,Good,,,Different speakers
+216.wav,Happy,,Fair,,,Same speaker
+216.wav,,Neutral,,Noisy,,Similar speaker
+217.wav,,Neutral,Fair,,,Different speakers
+217.wav,Neutral,,,Fair,Same speaker,
+217.wav,Neutral,,Fair,,,Hard to say
+217.wav,Happy,,Good,,,Similar speaker
+217.wav,,Sad,,Good,,Same speaker
+217.wav,Neutral,,,Bad,Different speakers,
+217.wav,Neutral,,Fair,,,Similar speaker
+217.wav,Neutral,,Good,,,Same speaker
+217.wav,Neutral,,Bad,,,Same speaker
+217.wav,Neutral,,Fair,,,Similar speaker
+218.wav,Neutral,,,Bad,Same speaker,
+218.wav,Neutral,,Noisy,,,Same speaker
+218.wav,Neutral,,Bad,,,Similar speaker
+218.wav,Neutral,,,Good,Different speakers,
+218.wav,Sad,,Bad,,,Similar speaker
+218.wav,Happy,,Good,,,Similar speaker
+218.wav,Neutral,,Fair,,,Same speaker
+218.wav,Neutral,,,Fair,Same speaker,
+218.wav,Neutral,,Fair,,,Hard to say
+218.wav,,Neutral,,Good,,Same speaker
+219.wav,Angry,,Bad,,,Similar speaker
+219.wav,Neutral,,Good,,,Same speaker
+219.wav,Neutral,,Fair,,,Same speaker
+219.wav,Sad,,Bad,,,Same speaker
+219.wav,Happy,,Good,,,Same speaker
+219.wav,Neutral,,Noisy,,,Similar speaker
+219.wav,Neutral,,,Bad,Same speaker,
+219.wav,,Sad,,Good,,Same speaker
+219.wav,Neutral,,Bad,,,Same speaker
+219.wav,Neutral,,Good,,,Similar speaker
+220.wav,Neutral,,,Bad,Same speaker,
+220.wav,,Sad,,Bad,,Same speaker
+220.wav,Neutral,,Fair,,,Same speaker
+220.wav,Happy,,Fair,,,Similar speaker
+220.wav,Neutral,,Noisy,,,Same speaker
+220.wav,Sad,,Bad,,,Same speaker
+220.wav,Neutral,,Fair,,,Different speakers
+220.wav,Neutral,,Fair,,,Same speaker
+220.wav,Neutral,,,Fair,Same speaker,
+220.wav,Happy,,Fair,,,Similar speaker
+221.wav,Happy,,Fair,,,Same speaker
+221.wav,Happy,,Fair,,,Similar speaker
+221.wav,Angry,,Bad,,,Similar speaker
+221.wav,Neutral,,Bad,,,Different speakers
+221.wav,Happy,,Good,,,Hard to say
+221.wav,,Happy,,Fair,,Same speaker
+221.wav,Neutral,,,Excellent,Same speaker,
+221.wav,Happy,,Fair,,,Same speaker
+221.wav,,Neutral,,Excellent,,Same speaker
+221.wav,Neutral,,Fair,,,Same speaker
+222.wav,Sad,,Bad,,,Similar speaker
+222.wav,Happy,,Good,,,Similar speaker
+222.wav,Sad,,Fair,,,Same speaker
+222.wav,Sad,,Noisy,,,Different speakers
+222.wav,,Neutral,,Noisy,,Same speaker
+222.wav,Neutral,,Bad,,,Hard to say
+222.wav,Sad,,Bad,,,Hard to say
+222.wav,Sad,,Good,,,Hard to say
+222.wav,Neutral,,Fair,,,Same speaker
+222.wav,Neutral,,,Good,Same speaker,
+223.wav,,Happy,,Good,,Same speaker
+223.wav,Happy,,Good,,,Similar speaker
+223.wav,Happy,,Noisy,,,Different speakers
+223.wav,,Happy,Good,,,Same speaker
+223.wav,Neutral,,Fair,,,Hard to say
+223.wav,Happy,,Good,,,Same speaker
+223.wav,Sad,,Bad,,,Hard to say
+223.wav,Happy,,Good,,,Same speaker
+223.wav,Happy,,,Fair,Same speaker,
+223.wav,Happy,,Good,,,Same speaker
+224.wav,Happy,,Good,,,Same speaker
+224.wav,Neutral,,Good,,,Same speaker
+224.wav,Sad,,Fair,,,Hard to say
+224.wav,Neutral,,Fair,,,Similar speaker
+224.wav,Angry,,Good,,,Similar speaker
+224.wav,,Happy,Good,,,Same speaker
+224.wav,Happy,,,Fair,Same speaker,
+224.wav,Happy,,Fair,,,Same speaker
+224.wav,,Happy,,Fair,,Same speaker
+224.wav,Happy,,Noisy,,,Same speaker
+225.wav,,Sad,,Fair,,Similar speaker
+225.wav,Angry,,,Good,Same speaker,
+225.wav,Happy,,Noisy,,,Different speakers
+225.wav,Angry,,Fair,,,Similar speaker
+225.wav,Angry,,Noisy,,,Same speaker
+225.wav,Angry,,Good,,,Same speaker
+225.wav,Neutral,,Bad,,,Different speakers
+225.wav,,Neutral,Fair,,,Hard to say
+225.wav,,Neutral,,Fair,,Same speaker
+225.wav,Neutral,,,Fair,,Different speakers
+226.wav,Neutral,,Excellent,,,Same speaker
+226.wav,Neutral,,,Excellent,Same speaker,
+226.wav,Angry,,Good,,,Same speaker
+226.wav,Neutral,,Fair,,,Hard to say
+226.wav,,Neutral,Fair,,,Same speaker
+226.wav,Angry,,Good,,,Same speaker
+226.wav,Neutral,,,Good,Same speaker,
+226.wav,Happy,,Good,,,Same speaker
+226.wav,,Angry,,Good,,Same speaker
+226.wav,Happy,,Noisy,,,Hard to say
+227.wav,Neutral,,Fair,,,Same speaker
+227.wav,Neutral,,Good,,,Same speaker
+227.wav,Happy,,Excellent,,,Same speaker
+227.wav,Happy,,Noisy,,,Similar speaker
+227.wav,Neutral,,Good,,,Similar speaker
+227.wav,Happy,,Noisy,,,Similar speaker
+227.wav,Happy,,Fair,,,Same speaker
+227.wav,Neutral,,,Fair,Hard to say,
+227.wav,Sad,,Good,,,Same speaker
+227.wav,,Neutral,Noisy,,,Different speakers
+228.wav,Neutral,,,Good,Same speaker,
+228.wav,Happy,,Fair,,,Hard to say
+228.wav,Happy,,Fair,,,Similar speaker
+228.wav,Neutral,,Fair,,,Same speaker
+228.wav,Neutral,,,Fair,Hard to say,
+228.wav,,Angry,,Noisy,,Same speaker
+228.wav,Neutral,,Good,,,Same speaker
+228.wav,,Happy,,Excellent,,Same speaker
+228.wav,,Happy,Fair,,Same speaker,
+228.wav,Happy,,Noisy,,,Similar speaker
+229.wav,Sad,,Good,,,Same speaker
+229.wav,,Happy,,Good,,Different speakers
+229.wav,Neutral,,Fair,,,Same speaker
+229.wav,Happy,,Noisy,,,Hard to say
+229.wav,Neutral,,,Fair,Same speaker,
+229.wav,Neutral,,,Good,Hard to say,
+229.wav,Happy,,Good,,,Same speaker
+229.wav,Sad,,Fair,,,Same speaker
+229.wav,Neutral,,Good,,,Hard to say
+229.wav,,Happy,,Good,,Same speaker
+230.wav,Angry,,Fair,,,Same speaker
+230.wav,,Angry,,Noisy,,Same speaker
+230.wav,,Neutral,Excellent,,,Same speaker
+230.wav,Sad,,Bad,,,Same speaker
+230.wav,Neutral,,Fair,,,Same speaker
+230.wav,Angry,,Noisy,,,Hard to say
+230.wav,Sad,,,Good,Same speaker,
+230.wav,Neutral,,Good,,,Same speaker
+230.wav,,Neutral,Fair,,,Same speaker
+230.wav,Neutral,,Good,,,Similar speaker
+231.wav,Neutral,,,Fair,Similar speaker,
+231.wav,Happy,,Good,,,Same speaker
+231.wav,Angry,,Noisy,,,Same speaker
+231.wav,Neutral,,Fair,,,Hard to say
+231.wav,Sad,,Fair,,,Different speakers
+231.wav,Happy,,Fair,,,Hard to say
+231.wav,Sad,,Bad,,,Hard to say
+231.wav,,Happy,Noisy,,,Same speaker
+231.wav,,Happy,,Fair,,Same speaker
+231.wav,Sad,,Bad,,,Similar speaker
+232.wav,Neutral,,Bad,,,Same speaker
+232.wav,,Sad,,Bad,,Same speaker
+232.wav,Neutral,,Bad,,,Same speaker
+232.wav,Neutral,,Bad,,,Same speaker
+232.wav,Neutral,,Good,,,Same speaker
+232.wav,Neutral,,Bad,,,Same speaker
+232.wav,Neutral,,Fair,,,Same speaker
+232.wav,Neutral,,Noisy,,,Different speakers
+232.wav,Neutral,,Noisy,,,Similar speaker
+232.wav,Neutral,,Bad,,,Different speakers
+233.wav,Happy,,Good,,,Similar speaker
+233.wav,Neutral,,Noisy,,,Similar speaker
+233.wav,,Neutral,,Bad,,Hard to say
+233.wav,,Sad,,Bad,,Same speaker
+233.wav,Sad,,Bad,,,Same speaker
+233.wav,Angry,,Good,,,Similar speaker
+233.wav,Sad,,Fair,,,Same speaker
+233.wav,Happy,,Fair,,,Similar speaker
+233.wav,Neutral,,Fair,,,Similar speaker
+233.wav,Neutral,,,Noisy,Same speaker,
+234.wav,Sad,,Good,,,Same speaker
+234.wav,Neutral,,Good,,,Same speaker
+234.wav,Neutral,,,Good,Same speaker,
+234.wav,Angry,,Fair,,,Hard to say
+234.wav,Neutral,,,Bad,Same speaker,
+234.wav,Sad,,Fair,,,Hard to say
+234.wav,Neutral,,Fair,,,Hard to say
+234.wav,Happy,,Fair,,,Same speaker
+234.wav,Sad,,Bad,,,Same speaker
+234.wav,,Neutral,,Fair,,Same speaker
+235.wav,,Happy,,Good,,Same speaker
+235.wav,Happy,,Good,,,Same speaker
+235.wav,Sad,,Noisy,,,Similar speaker
+235.wav,Neutral,,Fair,,,Same speaker
+235.wav,Happy,,Excellent,,,Hard to say
+235.wav,Neutral,,Fair,,,Different speakers
+235.wav,Neutral,,Noisy,,,Similar speaker
+235.wav,,Sad,,Bad,,Same speaker
+235.wav,,Neutral,,Good,,Same speaker
+235.wav,Sad,,Bad,,,Same speaker
+236.wav,Angry,,Noisy,,,Similar speaker
+236.wav,Neutral,,Noisy,,,Same speaker
+236.wav,Neutral,,Bad,,,Same speaker
+236.wav,Neutral,,Excellent,,,Similar speaker
+236.wav,Sad,,Good,,,Same speaker
+236.wav,Angry,,Fair,,,Similar speaker
+236.wav,,Neutral,,Good,,Same speaker
+236.wav,,Sad,,Good,,Same speaker
+236.wav,Neutral,,,Bad,Same speaker,
+236.wav,Happy,,Excellent,,,Same speaker
+237.wav,,Happy,Excellent,,,Different speakers
+237.wav,Happy,,Good,,,Same speaker
+237.wav,Happy,,Noisy,,,Different speakers
+237.wav,Happy,,Good,,,Similar speaker
+237.wav,Neutral,,Noisy,,,Same speaker
+237.wav,,Neutral,Fair,,,Similar speaker
+237.wav,Happy,,Good,,,Similar speaker
+237.wav,Neutral,,Bad,,,Same speaker
+237.wav,Happy,,,Good,Same speaker,
+237.wav,Neutral,,Good,,,Similar speaker
+238.wav,Sad,,Good,,,Same speaker
+238.wav,Neutral,,,Fair,Different speakers,
+238.wav,,Neutral,,Excellent,,Same speaker
+238.wav,Sad,,Bad,,,Similar speaker
+238.wav,Neutral,,Good,,,Similar speaker
+238.wav,Neutral,,,Excellent,Same speaker,
+238.wav,Angry,,Noisy,,,Similar speaker
+238.wav,Happy,,Fair,,,Similar speaker
+238.wav,,Neutral,,Noisy,,Hard to say
+238.wav,,Happy,,Excellent,,Same speaker
+239.wav,Sad,,Fair,,,Same speaker
+239.wav,Sad,,Noisy,,,Same speaker
+239.wav,Sad,,Fair,,,Similar speaker
+239.wav,,Neutral,,Good,,Same speaker
+239.wav,Neutral,,Good,,,Same speaker
+239.wav,Neutral,,Fair,,,Similar speaker
+239.wav,,Sad,Noisy,,Different speakers,
+239.wav,,Neutral,,Excellent,,Same speaker
+239.wav,Sad,,Fair,,,Similar speaker
+239.wav,Neutral,,,Fair,Same speaker,
+240.wav,Neutral,,,Bad,Same speaker,
+240.wav,,Neutral,,Fair,,Same speaker
+240.wav,,Sad,,Fair,,Same speaker
+240.wav,Happy,,Fair,,,Different speakers
+240.wav,Sad,,Bad,,,Same speaker
+240.wav,,Neutral,,Noisy,Same speaker,
+240.wav,Neutral,,Bad,,,Same speaker
+240.wav,Happy,,Good,,,Same speaker
+240.wav,,Neutral,,Good,,Same speaker
+240.wav,Neutral,,Bad,,,Same speaker
+241.wav,Neutral,,,Bad,Same speaker,
+241.wav,,Sad,,Bad,,Same speaker
+241.wav,Neutral,,Good,,,Different speakers
+241.wav,Sad,,,Fair,Hard to say,
+241.wav,Neutral,,,Bad,Same speaker,
+241.wav,Happy,,Noisy,,,Similar speaker
+241.wav,Neutral,,Bad,,,Hard to say
+241.wav,Sad,,Noisy,,,Different speakers
+241.wav,Sad,,Bad,,,Same speaker
+241.wav,Neutral,,Bad,,,Hard to say
+242.wav,,Happy,Fair,,,Hard to say
+242.wav,Sad,,Bad,,,Same speaker
+242.wav,Neutral,,Good,,,Similar speaker
+242.wav,Neutral,,,Bad,Same speaker,
+242.wav,Happy,,Fair,,,Similar speaker
+242.wav,Neutral,,Fair,,,Similar speaker
+242.wav,Neutral,,Fair,,,Same speaker
+242.wav,Happy,,Fair,,,Similar speaker
+242.wav,Sad,,Bad,,,Hard to say
+242.wav,Neutral,,Noisy,,,Hard to say
+243.wav,Neutral,,Bad,,,Hard to say
+243.wav,Neutral,,Noisy,,,Same speaker
+243.wav,Sad,,Noisy,,,Same speaker
+243.wav,Angry,,Fair,,,Similar speaker
+243.wav,Sad,,Bad,,,Hard to say
+243.wav,Neutral,,Fair,,,Different speakers
+243.wav,Neutral,,Bad,,,Same speaker
+243.wav,Neutral,,Fair,,,Hard to say
+243.wav,Sad,,Bad,,,Same speaker
+243.wav,Neutral,,,Bad,Different speakers,
+244.wav,Neutral,,Fair,,,Same speaker
+244.wav,Neutral,,,Bad,Similar speaker,
+244.wav,Happy,,Fair,,,Hard to say
+244.wav,Sad,,Bad,,,Hard to say
+244.wav,,Sad,,Good,,Same speaker
+244.wav,Sad,,,Fair,Hard to say,
+244.wav,Neutral,,Noisy,,,Different speakers
+244.wav,,Angry,Noisy,,Same speaker,
+244.wav,Sad,,Good,,,Different speakers
+244.wav,,Sad,,Noisy,,Same speaker
+245.wav,Neutral,,,Bad,Same speaker,
+245.wav,Happy,,Noisy,,,Similar speaker
+245.wav,Neutral,,Noisy,,,Same speaker
+245.wav,Sad,,Bad,,,Same speaker
+245.wav,Neutral,,,Bad,Same speaker,
+245.wav,Neutral,,Fair,,,Different speakers
+245.wav,Angry,,Bad,,,Different speakers
+245.wav,Happy,,Good,,,Similar speaker
+245.wav,Sad,,Bad,,,Similar speaker
+245.wav,Sad,,Bad,,,Same speaker
+246.wav,Sad,,,Fair,Hard to say,
+246.wav,,Happy,Good,,,Different speakers
+246.wav,Neutral,,Good,,,Different speakers
+246.wav,Sad,,Fair,,,Same speaker
+246.wav,Neutral,,Good,,,Similar speaker
+246.wav,Sad,,Fair,,,Same speaker
+246.wav,Neutral,,Good,,,Same speaker
+246.wav,Neutral,,Good,,,Same speaker
+246.wav,,Sad,Good,,,Same speaker
+246.wav,Happy,,Fair,,,Similar speaker
+247.wav,Neutral,,Bad,,,Same speaker
+247.wav,Neutral,,Bad,,,Hard to say
+247.wav,Neutral,,Bad,,,Same speaker
+247.wav,,Sad,,Good,,Same speaker
+247.wav,,Neutral,,Good,,Same speaker
+247.wav,Neutral,,Fair,,,Similar speaker
+247.wav,Neutral,,Good,,,Same speaker
+247.wav,Neutral,,Noisy,,,Same speaker
+247.wav,,Neutral,,Good,,Same speaker
+247.wav,Neutral,,,Noisy,Same speaker,
+248.wav,Neutral,,Noisy,,,Same speaker
+248.wav,Neutral,,Good,,,Similar speaker
+248.wav,Neutral,,Good,,,Hard to say
+248.wav,Neutral,,Fair,,,Same speaker
+248.wav,Neutral,,,Fair,Hard to say,
+248.wav,Happy,,Excellent,,,Same speaker
+248.wav,Neutral,,Noisy,,,Hard to say
+248.wav,Sad,,Fair,,,Hard to say
+248.wav,Happy,,Good,,,Hard to say
+248.wav,,Happy,,Fair,Same speaker,
+249.wav,Neutral,,Noisy,,,Similar speaker
+249.wav,Neutral,,Fair,,,Same speaker
+249.wav,Happy,,Fair,,,Hard to say
+249.wav,Sad,,Bad,,,Same speaker
+249.wav,Neutral,,,Bad,Same speaker,
+249.wav,Neutral,,,Excellent,Hard to say,
+249.wav,Happy,,Good,,,Similar speaker
+249.wav,Sad,,Excellent,,,Similar speaker
+249.wav,Happy,,Fair,,,Similar speaker
+249.wav,Neutral,,,Bad,Same speaker,
+250.wav,Neutral,,Bad,,,Different speakers
+250.wav,Neutral,,,Bad,Same speaker,
+250.wav,Neutral,,Bad,,,Same speaker
+250.wav,Neutral,,Bad,,,Hard to say
+250.wav,Neutral,,Fair,,,Similar speaker
+250.wav,,Sad,,Bad,,Same speaker
+250.wav,Happy,,Fair,,,Different speakers
+250.wav,Sad,,Bad,,,Same speaker
+250.wav,Neutral,,Good,,,Similar speaker
+250.wav,Neutral,,Fair,,,Hard to say
+251.wav,,Angry,Fair,,,Hard to say
+251.wav,Happy,,,Fair,Different speakers,
+251.wav,,Neutral,Noisy,,,Hard to say
+251.wav,Sad,,Bad,,,Hard to say
+251.wav,Neutral,,,Fair,Hard to say,
+251.wav,Neutral,,Fair,,,Same speaker
+251.wav,Neutral,,Fair,,,Similar speaker
+251.wav,Neutral,,Good,,,Similar speaker
+251.wav,Sad,,Good,,,Same speaker
+251.wav,,Neutral,,Good,,Same speaker
+252.wav,Neutral,,,Bad,Same speaker,
+252.wav,Neutral,,Bad,,,Same speaker
+252.wav,,Sad,,Good,,Same speaker
+252.wav,Sad,,Bad,,,Similar speaker
+252.wav,,Sad,,Fair,,Same speaker
+252.wav,Sad,,Good,,,Similar speaker
+252.wav,Sad,,Bad,,,Similar speaker
+252.wav,Happy,,Noisy,,,Similar speaker
+252.wav,Neutral,,,Bad,Same speaker,
+252.wav,Angry,,Good,,,Same speaker
+253.wav,Neutral,,Noisy,,,Same speaker
+253.wav,,Neutral,,Good,,Same speaker
+253.wav,Neutral,,Bad,,,Same speaker
+253.wav,Sad,,Bad,,,Same speaker
+253.wav,Happy,,Noisy,,,Same speaker
+253.wav,Happy,,Fair,,,Same speaker
+253.wav,Neutral,,Fair,,,Same speaker
+253.wav,Neutral,,Good,,,Similar speaker
+253.wav,Happy,,Good,,,Same speaker
+253.wav,Happy,,Fair,,,Hard to say
+254.wav,,Sad,,Good,,Same speaker
+254.wav,Neutral,,Fair,,,Same speaker
+254.wav,Neutral,,Fair,,,Same speaker
+254.wav,Neutral,,Bad,,,Hard to say
+254.wav,Neutral,,Noisy,,,Same speaker
+254.wav,Neutral,,Good,,,Same speaker
+254.wav,Sad,,Bad,,,Same speaker
+254.wav,,Neutral,,,,Same speaker
+254.wav,Happy,,Noisy,,,Similar speaker
+254.wav,Neutral,,Good,,,Similar speaker
+255.wav,Neutral,,Good,,,Hard to say
+255.wav,Sad,,Bad,,,Hard to say
+255.wav,Neutral,,,Fair,Same speaker,
+255.wav,,Sad,,Fair,,Same speaker
+255.wav,Neutral,,Fair,,,Similar speaker
+255.wav,Neutral,,,Fair,Same speaker,
+255.wav,Neutral,,Good,,,Same speaker
+255.wav,Sad,,,Fair,Similar speaker,
+255.wav,Neutral,,Fair,,,Same speaker
+255.wav,Sad,,,Fair,Similar speaker,
+256.wav,Neutral,,,Noisy,Similar speaker,
+256.wav,,Neutral,Fair,,,Same speaker
+256.wav,Neutral,,Noisy,,,Different speakers
+256.wav,Neutral,,Fair,,,Similar speaker
+256.wav,Neutral,,Fair,,,Different speakers
+256.wav,,Sad,,Bad,,Same speaker
+256.wav,Happy,,,Fair,Hard to say,
+256.wav,Neutral,,,Fair,Same speaker,
+256.wav,Neutral,,Bad,,,Same speaker
+256.wav,Sad,,Bad,,,Same speaker
+257.wav,Sad,,Good,,,Same speaker
+257.wav,Neutral,,Bad,,,Hard to say
+257.wav,Happy,,Fair,,,Similar speaker
+257.wav,,Neutral,Good,,,Different speakers
+257.wav,Sad,,Bad,,,Same speaker
+257.wav,Neutral,,Bad,,,Hard to say
+257.wav,,Sad,,Bad,,Same speaker
+257.wav,Sad,,Bad,,,Hard to say
+257.wav,Neutral,,Good,,,Same speaker
+257.wav,Neutral,,Fair,,,Hard to say
+258.wav,Sad,,Bad,,,Hard to say
+258.wav,Neutral,,Noisy,,,Similar speaker
+258.wav,Neutral,,,Fair,Hard to say,
+258.wav,Neutral,,Noisy,,,Same speaker
+258.wav,,Neutral,Fair,,Similar speaker,
+258.wav,Happy,,Good,,,Same speaker
+258.wav,Happy,,,Good,Hard to say,
+258.wav,Neutral,,Bad,,,Same speaker
+258.wav,Neutral,,,Bad,Hard to say,
+258.wav,,Neutral,Good,,Different speakers,
+259.wav,Sad,,Good,,,Same speaker
+259.wav,Sad,,Bad,,,Similar speaker
+259.wav,,Happy,,Good,,Same speaker
+259.wav,,Neutral,,Good,,Same speaker
+259.wav,Happy,,Fair,,,Same speaker
+259.wav,Neutral,,Good,,,Similar speaker
+259.wav,Neutral,,,Good,Same speaker,
+259.wav,,Sad,,Good,,Same speaker
+259.wav,Sad,,Bad,,,Same speaker
+259.wav,Sad,,Fair,,,Same speaker
+260.wav,Neutral,,Good,,,Similar speaker
+260.wav,Sad,,Bad,,,Similar speaker
+260.wav,Neutral,,Good,,,Same speaker
+260.wav,Happy,,Noisy,,,Similar speaker
+260.wav,Neutral,,,Bad,Same speaker,
+260.wav,Neutral,,Fair,,,Similar speaker
+260.wav,Neutral,,Bad,,,Same speaker
+260.wav,Sad,,Bad,,,Same speaker
+260.wav,,Neutral,,Bad,,Same speaker
+260.wav,Neutral,,Fair,,,Same speaker
+261.wav,Neutral,,Bad,,,Similar speaker
+261.wav,,Happy,Bad,,,Hard to say
+261.wav,Sad,,Fair,,,Different speakers
+261.wav,Neutral,,,Fair,Same speaker,
+261.wav,Sad,,Bad,,,Hard to say
+261.wav,,Neutral,,Noisy,,Same speaker
+261.wav,Neutral,,Fair,,,Similar speaker
+261.wav,Neutral,,Good,,,Same speaker
+261.wav,,Happy,,Fair,,Same speaker
+261.wav,Sad,,,Fair,Similar speaker,
+262.wav,Neutral,,,Bad,Same speaker,
+262.wav,Neutral,,Bad,,,Hard to say
+262.wav,Neutral,,Fair,,,Similar speaker
+262.wav,Neutral,,Bad,,,Hard to say
+262.wav,Neutral,,Good,,,Similar speaker
+262.wav,Sad,,Bad,,,Different speakers
+262.wav,Neutral,,Bad,,,Same speaker
+262.wav,Neutral,,,Fair,Same speaker,
+262.wav,Happy,,Good,,,Similar speaker
+262.wav,Neutral,,Bad,,,Similar speaker
+263.wav,Sad,,Fair,,,Same speaker
+263.wav,Neutral,,Bad,,,Same speaker
+263.wav,Neutral,,,Fair,Same speaker,
+263.wav,Happy,,Noisy,,,Similar speaker
+263.wav,Sad,,Bad,,,Hard to say
+263.wav,Happy,,Good,,,Hard to say
+263.wav,,Sad,,Fair,,Same speaker
+263.wav,Sad,,Fair,,,Same speaker
+263.wav,Neutral,,Fair,,,Similar speaker
+263.wav,,Neutral,Fair,,,Different speakers
+264.wav,Neutral,,Good,,,Same speaker
+264.wav,,Happy,Excellent,,,Same speaker
+264.wav,Neutral,,Fair,,,Same speaker
+264.wav,Neutral,,Noisy,,,Same speaker
+264.wav,Angry,,Fair,,,Similar speaker
+264.wav,,Neutral,,Good,,Same speaker
+264.wav,Happy,,Excellent,,,Hard to say
+264.wav,Neutral,,Good,,,Same speaker
+264.wav,Happy,,Fair,,,Similar speaker
+264.wav,Sad,,Bad,,,Same speaker
+265.wav,Neutral,,Noisy,,,Same speaker
+265.wav,Happy,,Noisy,,,Similar speaker
+265.wav,,Neutral,,Bad,Hard to say,
+265.wav,Neutral,,Good,,,Same speaker
+265.wav,Neutral,,Good,,,Same speaker
+265.wav,,Neutral,,Bad,,Same speaker
+265.wav,Neutral,,Noisy,,,Same speaker
+265.wav,Happy,,Noisy,,,Similar speaker
+265.wav,Sad,,Noisy,,,Similar speaker
+265.wav,Neutral,,Bad,,,Hard to say
+266.wav,Happy,,Good,,,Hard to say
+266.wav,Neutral,,Good,,,Similar speaker
+266.wav,,Happy,,Good,,Same speaker
+266.wav,Happy,,Fair,,,Same speaker
+266.wav,Happy,,,Fair,Hard to say,
+266.wav,Neutral,,Fair,,,Hard to say
+266.wav,Happy,,,Good,Same speaker,
+266.wav,Happy,,Good,,,Same speaker
+266.wav,Angry,,Noisy,,,Similar speaker
+266.wav,Happy,,,Fair,Same speaker,
+267.wav,Happy,,Bad,,,Different speakers
+267.wav,Neutral,,Fair,,,Similar speaker
+267.wav,Happy,,,Bad,Different speakers,
+267.wav,Happy,,Fair,,,Hard to say
+267.wav,Happy,,Good,,,Similar speaker
+267.wav,Angry,,Noisy,,,Different speakers
+267.wav,,Sad,Noisy,,,Same speaker
+267.wav,Neutral,,,Good,Same speaker,
+267.wav,,Neutral,,Good,,Same speaker
+267.wav,,Happy,,Noisy,,Same speaker
+268.wav,,Neutral,Good,,,Different speakers
+268.wav,Happy,,Good,,,Different speakers
+268.wav,Happy,,Fair,,,Hard to say
+268.wav,Neutral,,Good,,,Same speaker
+268.wav,Sad,,Fair,,,Hard to say
+268.wav,Sad,,Bad,,,Same speaker
+268.wav,Neutral,,Fair,,,Similar speaker
+268.wav,Neutral,,Good,,,Hard to say
+268.wav,,Sad,,Good,,Same speaker
+268.wav,Angry,,,Good,Same speaker,
+269.wav,,Sad,Fair,,,Similar speaker
+269.wav,,Neutral,,Noisy,,Different speakers
+269.wav,Angry,,Noisy,,,Similar speaker
+269.wav,Neutral,,,Good,Hard to say,
+269.wav,Neutral,,,Good,Same speaker,
+269.wav,Neutral,,Good,,,Hard to say
+269.wav,Angry,,Excellent,,,Similar speaker
+269.wav,,Angry,Fair,,,Similar speaker
+269.wav,Neutral,,,Good,Same speaker,
+269.wav,,Angry,,Bad,,Same speaker
+270.wav,Neutral,,Noisy,,,Same speaker
+270.wav,Neutral,,,Fair,Same speaker,
+270.wav,Happy,,Excellent,,,Same speaker
+270.wav,Neutral,,Fair,,,Similar speaker
+270.wav,Sad,,Bad,,,Hard to say
+270.wav,Neutral,,Fair,,,Same speaker
+270.wav,Neutral,,,Bad,Same speaker,
+270.wav,,Happy,,Excellent,,Same speaker
+270.wav,Neutral,,,Fair,Hard to say,
+270.wav,Angry,,Fair,,,Similar speaker
+271.wav,Happy,,Fair,,,Hard to say
+271.wav,,Neutral,,Fair,Same speaker,
+271.wav,Happy,,Fair,,,Hard to say
+271.wav,Neutral,,,Bad,Similar speaker,
+271.wav,Neutral,,Fair,,,Different speakers
+271.wav,,Happy,,Bad,,Same speaker
+271.wav,Neutral,,Excellent,,,Same speaker
+271.wav,Happy,,Good,,,Similar speaker
+271.wav,,Happy,Good,,Same speaker,
+271.wav,Neutral,,Fair,,,Similar speaker
+272.wav,Happy,,Fair,,,Similar speaker
+272.wav,Neutral,,Good,,,Same speaker
+272.wav,Sad,,Noisy,,,Similar speaker
+272.wav,Neutral,,,Fair,Same speaker,
+272.wav,Angry,,Fair,,,Same speaker
+272.wav,Neutral,,Fair,,,Similar speaker
+272.wav,Neutral,,,Fair,Hard to say,
+272.wav,,Happy,,Good,,Same speaker
+272.wav,Sad,,Bad,,,Hard to say
+272.wav,Neutral,,Good,,,Same speaker
+273.wav,Neutral,,,Fair,Hard to say,
+273.wav,Neutral,,Fair,,,Same speaker
+273.wav,Neutral,,Good,,,Same speaker
+273.wav,Happy,,,Fair,Same speaker,
+273.wav,,Neutral,,Noisy,,Same speaker
+273.wav,,Sad,Fair,,,Similar speaker
+273.wav,Neutral,,Fair,,,Same speaker
+273.wav,Neutral,,Fair,,,Same speaker
+273.wav,Neutral,,Fair,,,Hard to say
+273.wav,Happy,,Noisy,,,Similar speaker
+274.wav,Neutral,,Good,,,Similar speaker
+274.wav,Neutral,,Good,,,Different speakers
+274.wav,Neutral,,,Fair,Hard to say,
+274.wav,Sad,,Fair,,,Similar speaker
+274.wav,Happy,,Good,,,Same speaker
+274.wav,Neutral,,Noisy,,,Same speaker
+274.wav,Happy,,Fair,,,Similar speaker
+274.wav,Neutral,,,Fair,Hard to say,
+274.wav,Neutral,,Good,,,Hard to say
+274.wav,,Sad,,,,Same speaker
+275.wav,Sad,,Bad,,,Same speaker
+275.wav,,Angry,,Bad,,Different speakers
+275.wav,Happy,,Good,,,Similar speaker
+275.wav,Neutral,,,Bad,Hard to say,
+275.wav,Neutral,,Bad,,,Different speakers
+275.wav,Happy,,Good,,,Hard to say
+275.wav,Neutral,,Bad,,,Hard to say
+275.wav,,Sad,,Bad,,Same speaker
+275.wav,Neutral,,,Bad,Same speaker,
+275.wav,Happy,,Good,,,Similar speaker
+276.wav,Neutral,,Bad,,,Hard to say
+276.wav,,Neutral,,Bad,,Hard to say
+276.wav,Happy,,Fair,,,Similar speaker
+276.wav,Sad,,,Noisy,Same speaker,
+276.wav,Neutral,,Good,,,Similar speaker
+276.wav,Happy,,Good,,,Similar speaker
+276.wav,Neutral,,Fair,,,Same speaker
+276.wav,Neutral,,Bad,,,Hard to say
+276.wav,,Sad,,,,Hard to say
+276.wav,,Sad,,Bad,,Similar speaker
+277.wav,,Neutral,,Noisy,,Similar speaker
+277.wav,Sad,,Bad,,,Hard to say
+277.wav,,Neutral,,Noisy,,Different speakers
+277.wav,Neutral,,Noisy,,,Same speaker
+277.wav,Neutral,,Noisy,,,Same speaker
+277.wav,Neutral,,Noisy,,,Same speaker
+277.wav,Neutral,,,Fair,Hard to say,
+277.wav,Neutral,,Noisy,,,Same speaker
+277.wav,Neutral,,,Bad,Same speaker,
+277.wav,Neutral,,Fair,,,Hard to say
+278.wav,Sad,,Fair,,,Similar speaker
+278.wav,Neutral,,Fair,,,Same speaker
+278.wav,,Neutral,,Good,,Same speaker
+278.wav,Angry,,Fair,,,Same speaker
+278.wav,Neutral,,Bad,,,Same speaker
+278.wav,Happy,,Excellent,,,Same speaker
+278.wav,Happy,,Good,,,Similar speaker
+278.wav,Neutral,,,Bad,Same speaker,
+278.wav,Neutral,,Noisy,,,Similar speaker
+278.wav,,Neutral,Good,,,Similar speaker
+279.wav,Happy,,Fair,,,Different speakers
+279.wav,,Neutral,Bad,,,Hard to say
+279.wav,Happy,,Noisy,,,Hard to say
+279.wav,Happy,,Fair,,,Similar speaker
+279.wav,Sad,,Bad,,,Same speaker
+279.wav,Neutral,,Noisy,,,Same speaker
+279.wav,Neutral,,Good,,,Same speaker
+279.wav,Neutral,,Good,,,Similar speaker
+279.wav,Neutral,,Noisy,,,Same speaker
+279.wav,,Neutral,Bad,,,Different speakers
+280.wav,Happy,,Noisy,,,Similar speaker
+280.wav,Sad,,Fair,,,Same speaker
+280.wav,Neutral,,Fair,,,Same speaker
+280.wav,Neutral,,Good,,,Hard to say
+280.wav,Angry,,,Fair,Different speakers,
+280.wav,Happy,,Noisy,,,Same speaker
+280.wav,Neutral,,Fair,,,Similar speaker
+280.wav,,Happy,,Fair,,Same speaker
+280.wav,,Neutral,,Good,,Same speaker
+280.wav,Neutral,,Bad,,,Same speaker
+281.wav,Sad,,Bad,,,Same speaker
+281.wav,Neutral,,Good,,,Similar speaker
+281.wav,Neutral,,Fair,,,Same speaker
+281.wav,Happy,,Fair,,,Similar speaker
+281.wav,Neutral,,,Excellent,Same speaker,
+281.wav,Neutral,,Excellent,,,Same speaker
+281.wav,Neutral,,Fair,,,Different speakers
+281.wav,Happy,,Good,,,Similar speaker
+281.wav,Angry,,Fair,,,Similar speaker
+281.wav,Happy,,Fair,,,Similar speaker
+282.wav,,Angry,,Noisy,,Same speaker
+282.wav,Neutral,,Bad,,,Hard to say
+282.wav,Neutral,,Noisy,,,Same speaker
+282.wav,Happy,,Noisy,,,Similar speaker
+282.wav,,Sad,Noisy,,,Different speakers
+282.wav,,Neutral,,Noisy,,Different speakers
+282.wav,Neutral,,Noisy,,,Same speaker
+282.wav,Neutral,,Fair,,,Same speaker
+282.wav,Neutral,,,Good,Same speaker,
+282.wav,Sad,,,Fair,Hard to say,
+283.wav,Happy,,Excellent,,,Hard to say
+283.wav,,Sad,,Fair,,Same speaker
+283.wav,Neutral,,,Noisy,Same speaker,
+283.wav,Sad,,Bad,,,Same speaker
+283.wav,Sad,,Noisy,,,Similar speaker
+283.wav,,Sad,,Bad,,Same speaker
+283.wav,Neutral,,Fair,,,Hard to say
+283.wav,Neutral,,Noisy,,,Same speaker
+283.wav,Neutral,,Noisy,,,Different speakers
+283.wav,Sad,,Noisy,,,Same speaker
+284.wav,Neutral,,,Good,Same speaker,
+284.wav,Neutral,,Fair,,,Same speaker
+284.wav,Neutral,,Noisy,,,Similar speaker
+284.wav,,Neutral,,Fair,,Different speakers
+284.wav,Happy,,Noisy,,,Hard to say
+284.wav,Neutral,,Fair,,,Hard to say
+284.wav,Neutral,,,Fair,Hard to say,
+284.wav,,Sad,,Good,,Same speaker
+284.wav,Neutral,,Bad,,,Same speaker
+284.wav,Happy,,Good,,,Similar speaker
+285.wav,Happy,,Good,,,Same speaker
+285.wav,Neutral,,,Fair,Same speaker,
+285.wav,Sad,,Good,,,Similar speaker
+285.wav,Happy,,Good,,,Same speaker
+285.wav,,Angry,,Good,,Same speaker
+285.wav,Sad,,Bad,,,Hard to say
+285.wav,Sad,,Good,,,Same speaker
+285.wav,Angry,,Good,,,Similar speaker
+285.wav,Happy,,,Excellent,Same speaker,
+285.wav,Happy,,Good,,,Similar speaker
+286.wav,,Sad,,Excellent,,Same speaker
+286.wav,Happy,,,Noisy,,Hard to say
+286.wav,Sad,,Fair,,,Similar speaker
+286.wav,Sad,,Noisy,,,Similar speaker
+286.wav,Sad,,Fair,,,Hard to say
+286.wav,Happy,,Fair,,,Same speaker
+286.wav,,Neutral,,Fair,,Hard to say
+286.wav,,Angry,,Noisy,,Same speaker
+286.wav,Neutral,,,Fair,Same speaker,
+286.wav,Sad,,,Good,Same speaker,
+287.wav,Sad,,Bad,,,Similar speaker
+287.wav,Happy,,Fair,,,Hard to say
+287.wav,Sad,,Good,,,Same speaker
+287.wav,Neutral,,,Noisy,Same speaker,
+287.wav,Neutral,,Noisy,,,Same speaker
+287.wav,Sad,,Bad,,,Same speaker
+287.wav,Neutral,,Bad,,,Same speaker
+287.wav,Neutral,,Bad,,,Same speaker
+287.wav,Sad,,Noisy,,,Hard to say
+287.wav,Angry,,Noisy,,,Hard to say
+288.wav,Neutral,,Bad,,,Same speaker
+288.wav,Neutral,,,Bad,Same speaker,
+288.wav,,Angry,,Bad,,Same speaker
+288.wav,Neutral,,,Bad,Different speakers,
+288.wav,Happy,,,Noisy,Hard to say,
+288.wav,Neutral,,Fair,,,Similar speaker
+288.wav,Neutral,,Bad,,,Different speakers
+288.wav,Neutral,,Bad,,,Same speaker
+288.wav,Neutral,,Noisy,,,Similar speaker
+288.wav,Sad,,Bad,,,Hard to say
+289.wav,Neutral,,Good,,,Same speaker
+289.wav,Angry,,Excellent,,,Same speaker
+289.wav,Angry,,Noisy,,,Same speaker
+289.wav,Angry,,Good,,,Similar speaker
+289.wav,Happy,,Fair,,,Same speaker
+289.wav,Happy,,,Excellent,Same speaker,
+289.wav,,Angry,,Noisy,,Same speaker
+289.wav,Sad,,Good,,,Same speaker
+289.wav,Happy,,Good,,,Same speaker
+289.wav,Neutral,,Good,,,Similar speaker
+290.wav,Neutral,,Bad,,,Same speaker
+290.wav,Neutral,,Good,,,Same speaker
+290.wav,,Angry,,Good,,Same speaker
+290.wav,,Sad,,Good,,Different speakers
+290.wav,Happy,,Noisy,,,Same speaker
+290.wav,Angry,,Good,,,Same speaker
+290.wav,Neutral,,Fair,,,Hard to say
+290.wav,Happy,,Fair,,,Hard to say
+290.wav,Sad,,Fair,,,Same speaker
+290.wav,Neutral,,Fair,,,Similar speaker
+291.wav,Sad,,Good,,,Same speaker
+291.wav,Neutral,,,Excellent,Same speaker,
+291.wav,Sad,,Fair,,,Similar speaker
+291.wav,Neutral,,Good,,,Similar speaker
+291.wav,Sad,,Noisy,,,Same speaker
+291.wav,Happy,,,Noisy,Same speaker,
+291.wav,Happy,,Excellent,,,Same speaker
+291.wav,Happy,,Bad,,,Same speaker
+291.wav,Sad,,Bad,,,Different speakers
+291.wav,Happy,,Noisy,,,Hard to say
+292.wav,Neutral,,Fair,,,Hard to say
+292.wav,Sad,,Fair,,,Same speaker
+292.wav,Angry,,Good,,,Same speaker
+292.wav,Sad,,Fair,,,Same speaker
+292.wav,Happy,,,Noisy,Hard to say,
+292.wav,Sad,,Good,,,Same speaker
+292.wav,Angry,,Noisy,,,Same speaker
+292.wav,Sad,,Noisy,,,Same speaker
+292.wav,Happy,,Fair,,,Similar speaker
+292.wav,Neutral,,Good,,,Similar speaker
+293.wav,Neutral,,Good,,,Same speaker
+293.wav,Neutral,,Noisy,,,Different speakers
+293.wav,Sad,,Good,,,Same speaker
+293.wav,Happy,,Fair,,,Hard to say
+293.wav,,Sad,,Bad,,Same speaker
+293.wav,Neutral,,Fair,,,Same speaker
+293.wav,Sad,,Noisy,,,Same speaker
+293.wav,Neutral,,,Fair,Same speaker,
+293.wav,,Sad,,Fair,,Different speakers
+293.wav,Neutral,,,Noisy,Same speaker,
+294.wav,Angry,,Fair,,,Hard to say
+294.wav,Angry,,Good,,,Same speaker
+294.wav,Angry,,,Bad,Hard to say,
+294.wav,Sad,,,Noisy,Hard to say,
+294.wav,Happy,,Fair,,,Similar speaker
+294.wav,Happy,,,Noisy,Different speakers,
+294.wav,Angry,,,Good,Same speaker,
+294.wav,Neutral,,Good,,,Same speaker
+294.wav,Angry,,Excellent,,,Same speaker
+294.wav,Sad,,Noisy,,,Same speaker
+295.wav,,Happy,Noisy,,Same speaker,
+295.wav,Sad,,,Noisy,Hard to say,
+295.wav,Sad,,Bad,,,Similar speaker
+295.wav,Sad,,Noisy,,,Hard to say
+295.wav,Neutral,,Fair,,,Similar speaker
+295.wav,,Sad,,Noisy,,Same speaker
+295.wav,Angry,,Noisy,,,Similar speaker
+295.wav,Sad,,Bad,,,Same speaker
+295.wav,,Sad,,Excellent,,Same speaker
+295.wav,Neutral,,Bad,,,Same speaker
+296.wav,Angry,,Noisy,,,Similar speaker
+296.wav,Neutral,,Good,,,Similar speaker
+296.wav,Happy,,Bad,,,Different speakers
+296.wav,,Sad,Bad,,,Different speakers
+296.wav,Neutral,,Noisy,,,Hard to say
+296.wav,Neutral,,Fair,,,Different speakers
+296.wav,Neutral,,,Good,Hard to say,
+296.wav,Neutral,,,Good,Same speaker,
+296.wav,Neutral,,Fair,,,Same speaker
+296.wav,Neutral,,Good,,,Hard to say
+297.wav,Happy,,Excellent,,,Similar speaker
+297.wav,Sad,,Good,,,Similar speaker
+297.wav,Neutral,,Noisy,,,Same speaker
+297.wav,Neutral,,,Bad,Same speaker,
+297.wav,Happy,,Good,,,Same speaker
+297.wav,Angry,,Fair,,,Different speakers
+297.wav,,Neutral,Noisy,,,Similar speaker
+297.wav,,Sad,,Noisy,,Same speaker
+297.wav,,Neutral,Noisy,,Hard to say,
+297.wav,,Sad,,Good,,Same speaker
+298.wav,Sad,,Good,,,Same speaker
+298.wav,Happy,,Good,,,Different speakers
+298.wav,Neutral,,Good,,,Same speaker
+298.wav,Neutral,,,Good,Same speaker,
+298.wav,Neutral,,Noisy,,,Same speaker
+298.wav,Neutral,,,Bad,Different speakers,
+298.wav,Happy,,Fair,,,Hard to say
+298.wav,,Angry,Noisy,,,Hard to say
+298.wav,Neutral,,Good,,,Different speakers
+298.wav,,Neutral,,Good,,Different speakers
+299.wav,Happy,,Noisy,,,Similar speaker
+299.wav,Happy,,Fair,,,Similar speaker
+299.wav,Happy,,Fair,,,Hard to say
+299.wav,Happy,,Fair,,,Same speaker
+299.wav,Sad,,,Excellent,Same speaker,
+299.wav,Happy,,Excellent,,,Same speaker
+299.wav,Neutral,,Noisy,,,Same speaker
+299.wav,Angry,,Good,,,Same speaker
+299.wav,,Angry,,Fair,,Same speaker
+299.wav,Happy,,Noisy,,,Different speakers
+300.wav,Happy,,Fair,,,Similar speaker
+300.wav,Angry,,Noisy,,,Similar speaker
+300.wav,Sad,,Good,,,Same speaker
+300.wav,Sad,,Bad,,,Same speaker
+300.wav,,Sad,,Excellent,,Same speaker
+300.wav,Sad,,Bad,,,Same speaker
+300.wav,,Neutral,Fair,,,Same speaker
+300.wav,Neutral,,,Bad,Same speaker,
+300.wav,,Sad,,Good,,Same speaker
+300.wav,Neutral,,,Noisy,Similar speaker,
+301.wav,Happy,,Fair,,,Similar speaker
+301.wav,Neutral,,Bad,,,Same speaker
+301.wav,Happy,,,Good,Same speaker,
+301.wav,,Sad,,Bad,,Same speaker
+301.wav,Sad,,Fair,,,Similar speaker
+301.wav,Neutral,,Bad,,,Hard to say
+301.wav,Neutral,,,Bad,Same speaker,
+301.wav,Neutral,,Bad,,,Same speaker
+301.wav,,Sad,,Fair,,Same speaker
+301.wav,Sad,,Fair,,,Hard to say
+302.wav,Sad,,Bad,,,Same speaker
+302.wav,Neutral,,Bad,,,Hard to say
+302.wav,Neutral,,Bad,,,Hard to say
+302.wav,Neutral,,,Fair,Hard to say,
+302.wav,Happy,,Good,,,Similar speaker
+302.wav,,Sad,,Bad,,Same speaker
+302.wav,Neutral,,Bad,,,Same speaker
+302.wav,Sad,,Bad,,,Same speaker
+302.wav,,Happy,,Fair,,Same speaker
+302.wav,Neutral,,Good,,,Similar speaker
+303.wav,Angry,,Good,,,Different speakers
+303.wav,Neutral,,Fair,,,Same speaker
+303.wav,Angry,,Fair,,,Same speaker
+303.wav,Happy,,,Good,Same speaker,
+303.wav,Sad,,,Fair,Same speaker,
+303.wav,Happy,,Good,,,Hard to say
+303.wav,,Angry,,Fair,,Same speaker
+303.wav,Sad,,Good,,,Similar speaker
+303.wav,Neutral,,Good,,,Similar speaker
+303.wav,Neutral,,Good,,,Similar speaker
+304.wav,Angry,,Excellent,,,Same speaker
+304.wav,Angry,,Noisy,,,Same speaker
+304.wav,Neutral,,Excellent,,,Same speaker
+304.wav,,Sad,,Fair,,Same speaker
+304.wav,Neutral,,Fair,,,Same speaker
+304.wav,Angry,,Bad,,,Similar speaker
+304.wav,Sad,,Bad,,,Same speaker
+304.wav,Neutral,,Excellent,,,Same speaker
+304.wav,Neutral,,Good,,,Similar speaker
+304.wav,Happy,,,Fair,Same speaker,
+305.wav,Sad,,Noisy,,,Same speaker
+305.wav,,Sad,,Noisy,,Same speaker
+305.wav,,Sad,Fair,,Same speaker,
+305.wav,Happy,,Good,,,Different speakers
+305.wav,Happy,,Noisy,,,Different speakers
+305.wav,,Neutral,,Fair,Similar speaker,
+305.wav,Happy,,,Fair,Same speaker,
+305.wav,Happy,,Excellent,,,Different speakers
+305.wav,Angry,,Good,,,Similar speaker
+305.wav,Neutral,,Fair,,,Similar speaker
+306.wav,,Angry,,Noisy,,Hard to say
+306.wav,Sad,,Bad,,,Same speaker
+306.wav,Sad,,,Noisy,Similar speaker,
+306.wav,Happy,,Fair,,,Different speakers
+306.wav,,Happy,,Good,,Same speaker
+306.wav,Neutral,,,Good,Same speaker,
+306.wav,Happy,,Noisy,,,Similar speaker
+306.wav,Angry,,,Fair,Same speaker,
+306.wav,Sad,,Noisy,,,Different speakers
+306.wav,Neutral,,Good,,,Same speaker
+307.wav,Neutral,,Good,,,Same speaker
+307.wav,Sad,,Fair,,,Similar speaker
+307.wav,Neutral,,,Fair,Same speaker,
+307.wav,Neutral,,Fair,,,Same speaker
+307.wav,,Sad,,Fair,,Same speaker
+307.wav,Sad,,,Fair,Different speakers,
+307.wav,Angry,,Fair,,,Same speaker
+307.wav,Neutral,,Fair,,,Hard to say
+307.wav,Angry,,Bad,,,Same speaker
+307.wav,Sad,,,Bad,Same speaker,
+308.wav,Sad,,Fair,,,Same speaker
+308.wav,Angry,,,Fair,Same speaker,
+308.wav,Sad,,Noisy,,,Same speaker
+308.wav,,Angry,,Fair,,Same speaker
+308.wav,Angry,,Good,,,Same speaker
+308.wav,,Neutral,,Excellent,,Same speaker
+308.wav,Happy,,Noisy,,,Similar speaker
+308.wav,Neutral,,Fair,,,Similar speaker
+308.wav,Happy,,Fair,,,Similar speaker
+308.wav,Sad,,Good,,,Similar speaker
+309.wav,Sad,,Fair,,,Same speaker
+309.wav,Happy,,Fair,,,Similar speaker
+309.wav,,Sad,,Fair,,Same speaker
+309.wav,Sad,,,Good,Same speaker,
+309.wav,Sad,,Bad,,,Similar speaker
+309.wav,Sad,,Good,,,Same speaker
+309.wav,Sad,,Bad,,,Same speaker
+309.wav,Sad,,Noisy,,,Hard to say
+309.wav,Sad,,Fair,,,Similar speaker
+309.wav,Sad,,Bad,,,Same speaker
+310.wav,Sad,,Bad,,,Similar speaker
+310.wav,Neutral,,Noisy,,,Same speaker
+310.wav,Neutral,,Bad,,,Same speaker
+310.wav,,Neutral,,Good,,Same speaker
+310.wav,Neutral,,Excellent,,,Hard to say
+310.wav,Neutral,,,Bad,Same speaker,
+310.wav,Sad,,Bad,,,Same speaker
+310.wav,Neutral,,Fair,,,Same speaker
+310.wav,,Neutral,,,,Hard to say
+310.wav,Neutral,,Bad,,,Same speaker
+311.wav,Neutral,,Bad,,,Similar speaker
+311.wav,Happy,,Fair,,,Similar speaker
+311.wav,Happy,,Fair,,,Hard to say
+311.wav,,Neutral,Fair,,,Hard to say
+311.wav,Sad,,Fair,,,Different speakers
+311.wav,,Sad,,Bad,,Same speaker
+311.wav,Sad,,,Bad,Different speakers,
+311.wav,Sad,,,Noisy,Hard to say,
+311.wav,Neutral,,,Noisy,Same speaker,
+311.wav,Sad,,Bad,,,Hard to say
+312.wav,Neutral,,Fair,,,Similar speaker
+312.wav,Neutral,,Good,,,Similar speaker
+312.wav,Neutral,,Excellent,,,Hard to say
+312.wav,,Sad,,Good,,Same speaker
+312.wav,Neutral,,,Fair,Hard to say,
+312.wav,Neutral,,Fair,,,Same speaker
+312.wav,Angry,,Fair,,,Same speaker
+312.wav,,Happy,Fair,,,Hard to say
+312.wav,Neutral,,Bad,,,Same speaker
+312.wav,Neutral,,,Good,Same speaker,
+313.wav,Happy,,,Good,Similar speaker,
+313.wav,Sad,,Good,,,Same speaker
+313.wav,Neutral,,,Bad,Same speaker,
+313.wav,Sad,,Good,,,Same speaker
+313.wav,,Sad,,Noisy,,Different speakers
+313.wav,Angry,,Fair,,,Same speaker
+313.wav,,Sad,,Good,,Same speaker
+313.wav,Neutral,,Good,,,Different speakers
+313.wav,Neutral,,Fair,,,Similar speaker
+313.wav,Happy,,Fair,,,Same speaker
+314.wav,Sad,,Good,,,Same speaker
+314.wav,Neutral,,Good,,,Same speaker
+314.wav,Happy,,Fair,,,Same speaker
+314.wav,Happy,,Noisy,,,Similar speaker
+314.wav,Happy,,Noisy,,,Similar speaker
+314.wav,Sad,,Excellent,,,Same speaker
+314.wav,Sad,,Fair,,,Hard to say
+314.wav,,Sad,,Bad,,Same speaker
+314.wav,Happy,,Good,,,Same speaker
+314.wav,Neutral,,,Good,Same speaker,
+315.wav,Neutral,,,Good,Same speaker,
+315.wav,Neutral,,Bad,,,Hard to say
+315.wav,Neutral,,,Bad,Same speaker,
+315.wav,Happy,,Fair,,,Similar speaker
+315.wav,Neutral,,Bad,,,Same speaker
+315.wav,,Sad,,Bad,,Same speaker
+315.wav,Sad,,Good,,,Similar speaker
+315.wav,Angry,,Fair,,,Hard to say
+315.wav,Sad,,Fair,,,Similar speaker
+315.wav,,Sad,,Fair,,Same speaker
+316.wav,Neutral,,Bad,,,Hard to say
+316.wav,Angry,,Bad,,,Same speaker
+316.wav,Neutral,,Noisy,,,Same speaker
+316.wav,Neutral,,Bad,,,Similar speaker
+316.wav,Neutral,,Bad,,,Similar speaker
+316.wav,Neutral,,Bad,,,Same speaker
+316.wav,Neutral,,Noisy,,,Similar speaker
+316.wav,Angry,,Bad,,,Same speaker
+316.wav,,Neutral,Noisy,,,Different speakers
+316.wav,Happy,,Fair,,,Similar speaker
+317.wav,Sad,,Bad,,,Hard to say
+317.wav,Neutral,,,Fair,Hard to say,
+317.wav,Happy,,Fair,,,Similar speaker
+317.wav,Neutral,,Good,,,Same speaker
+317.wav,,Happy,,Fair,,Same speaker
+317.wav,Neutral,,Good,,,Same speaker
+317.wav,Neutral,,Excellent,,,Same speaker
+317.wav,Neutral,,Fair,,,Hard to say
+317.wav,Neutral,,,Good,Same speaker,
+317.wav,Sad,,Fair,,,Hard to say
+318.wav,,Sad,Good,,Same speaker,
+318.wav,Neutral,,Excellent,,,Same speaker
+318.wav,Neutral,,Good,,,Hard to say
+318.wav,Neutral,,Fair,,,Same speaker
+318.wav,,Neutral,,,,Same speaker
+318.wav,Neutral,,Fair,,,Same speaker
+318.wav,Happy,,Fair,,,Hard to say
+318.wav,Happy,,Fair,,,Similar speaker
+318.wav,,Neutral,,,,Same speaker
+318.wav,Neutral,,Excellent,,,Same speaker
+319.wav,,Sad,,Good,,Same speaker
+319.wav,Neutral,,,Fair,Same speaker,
+319.wav,Sad,,Bad,,,Hard to say
+319.wav,,Happy,,Fair,,Same speaker
+319.wav,,Happy,Noisy,,,Different speakers
+319.wav,Sad,,Good,,,Same speaker
+319.wav,Happy,,,Fair,Similar speaker,
+319.wav,Angry,,Good,,,Same speaker
+319.wav,,Sad,,Good,,Same speaker
+319.wav,Neutral,,Good,,,Similar speaker
+320.wav,Sad,,Noisy,,,Different speakers
+320.wav,Neutral,,Good,,,Same speaker
+320.wav,Sad,,Fair,,,Similar speaker
+320.wav,Neutral,,Fair,,,Similar speaker
+320.wav,Happy,,Good,,,Hard to say
+320.wav,Sad,,Fair,,,Same speaker
+320.wav,Sad,,Fair,,,Same speaker
+320.wav,Sad,,Fair,,,Same speaker
+320.wav,Sad,,Fair,,,Same speaker
+320.wav,Sad,,,Bad,Different speakers,
+321.wav,Sad,,Fair,,,Same speaker
+321.wav,Happy,,Noisy,,,Similar speaker
+321.wav,Neutral,,,Noisy,Same speaker,
+321.wav,Neutral,,Noisy,,,Similar speaker
+321.wav,Happy,,Fair,,,Similar speaker
+321.wav,,Sad,,Good,,Same speaker
+321.wav,Neutral,,Good,,,Same speaker
+321.wav,Sad,,,Fair,Hard to say,
+321.wav,,Neutral,,Fair,,Similar speaker
+321.wav,Sad,,,Fair,Hard to say,
+322.wav,Sad,,Fair,,,Same speaker
+322.wav,Angry,,,Fair,,Different speakers
+322.wav,Angry,,Fair,,,Same speaker
+322.wav,Neutral,,Excellent,,,Same speaker
+322.wav,Neutral,,Good,,,Same speaker
+322.wav,Neutral,,Fair,,,Different speakers
+322.wav,Angry,,Noisy,,,Similar speaker
+322.wav,Sad,,Noisy,,,Same speaker
+322.wav,Neutral,,Fair,,,Similar speaker
+322.wav,Neutral,,Bad,,,Same speaker
+323.wav,Sad,,,Fair,Hard to say,
+323.wav,Angry,,Fair,,,Hard to say
+323.wav,Happy,,Noisy,,,Similar speaker
+323.wav,Neutral,,Bad,,,Similar speaker
+323.wav,,Sad,,Excellent,,Same speaker
+323.wav,Sad,,Noisy,,,Same speaker
+323.wav,Sad,,Fair,,,Hard to say
+323.wav,Neutral,,Noisy,,,Same speaker
+323.wav,Sad,,,Fair,Same speaker,
+323.wav,Sad,,Good,,,Same speaker
+Input.audio_url_c,Answer.EmotionClass,Answer.EmotionClass.label,Answer.Quality,Answer.Quality.label,Answer.Similarity,Answer.Similarity.label
