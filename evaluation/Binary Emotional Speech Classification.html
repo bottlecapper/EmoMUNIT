@@ -1,0 +1,49 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task successfully submit answers -->
+<crowd-form answer-format="flatten-objects">
+
+    <!-- The crowd-classifier element will create a tool for the Worker to select the 
+          correct answer to your question -->
+    <crowd-classifier
+        categories="['Angry', 'Neutral']"
+        header="Which emotion does this audio convey?"
+        name="Emotion">
+
+        <classification-target>
+            <audio controls="" style="width: 100%">
+    
+                <!-- Your audio file URLs will be substituted for the "audio_url" variable 
+                      when you publish a batch with a CSV input file containing multiple 
+                      audio file URLs -->
+                <source src="https://s3.amazonaws.com/emomunit/S02F_ang2neu_c/${audio_url}"/>
+    
+            </audio>
+        </classification-target>
+
+        <!-- Use the short-instructions section for quick instructions that the Worker
+              will see while working on the task. Including some basic examples of 
+              good and bad answers here can help get good results. You can include 
+              any HTML here. -->
+        <short-instructions>             
+            <p>
+              Listen to the computer generated speech and choose an emotion it conveys. Do not judge by content, only by its tone.
+            </p>
+            <b> Any worker should NOT do more than 5 hits, otherwise all his results will be REJECTED. </b>
+        </short-instructions>
+
+        <!-- Use the full-instructions section for more detailed instructions that the 
+              Worker can open while working on the task. Including more detailed 
+              instructions and additional examples of good and bad answers here can 
+              help get good results. You can include any HTML here. -->
+        <full-instructions>
+            <p> Listen to the audio and choose an emotion it conveys. </p>
+        </full-instructions> 
+
+    </crowd-classifier>
+    
+</crowd-form>
