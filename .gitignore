@@ -9,3 +9,17 @@ conversion_c/Checkpoint/CYCLE_neu_sad_lsgan/checkpoint
 conversion_c/Checkpoint/CYCLE_ang_neu_lsgan/checkpoint
 conversion_c/Checkpoint/CYCLE_hap_neu_lsgan/checkpoint
 conversion_c/Checkpoint/S01F/C_ang_hap_lsgan/checkpoint
+conversion_c/Checkpoint/S01F/C_ang_neu_lsgan/checkpoint
+conversion_c/Checkpoint/S01F/C_ang_sad_lsgan/checkpoint
+conversion_c/Checkpoint/S01F/C_hap_sad_lsgan/checkpoint
+conversion_c/Checkpoint/S01F/C_hap_neu_lsgan/checkpoint
+conversion_c/Checkpoint/S02F/C_ang_neu_lsgan/checkpoint
+conversion_c/Checkpoint/S02F/C_ang_sad_lsgan/checkpoint
+conversion_c/Checkpoint/S03F/C_hap_neu_lsgan/checkpoint
+conversion_c/Checkpoint/S03F/C_ang_neu_lsgan/checkpoint
+conversion_c/Checkpoint/S02F/C_hap_neu_lsgan/checkpoint
+conversion_c/Checkpoint/S01F/C_neu_sad_lsgan/checkpoint
+conversion_c/Checkpoint/S03F/C_ang_sad_lsgan/checkpoint
+conversion_c/Checkpoint/S02F/C_hap_sad_lsgan/checkpoint
+conversion_c/Checkpoint/S03F/C_hap_sad_lsgan/checkpoint
+*.csv
