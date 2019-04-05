@@ -1,6 +1,0 @@
-model_checkpoint_path: "CYCLE.model-300000"
-all_model_checkpoint_paths: "CYCLE.model-298000"
-all_model_checkpoint_paths: "CYCLE.model-298999"
-all_model_checkpoint_paths: "CYCLE.model-299000"
-all_model_checkpoint_paths: "CYCLE.model-299999"
-all_model_checkpoint_paths: "CYCLE.model-300000"
