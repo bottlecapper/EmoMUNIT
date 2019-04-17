@@ -9,3 +9,8 @@ dir /b /a-d > file_list.csv
 
 As said in the instructions, any worker did more than 5 hits will be rejected. 
 
+
+Revoke a "Reject"
+https://docs.aws.amazon.com/AWSMechTurk/latest/RequesterUI/ReversingRejectedAssignment.html
+
+https://docs.aws.amazon.com/AWSMechTurk/latest/AWSMturkAPI/ApiReference_ApproveAssignmentOperation.html
